@@ -40,7 +40,7 @@ Add proper context in respective json record for the same.
 
 In the json file make a record for all the unique render farms names found in it
 for competetor record stores the positives the users are saying the negative users are saying
-Store all the relevant context found regarding them
+Store all the relevant context found regarding them (How they Market, Scale, potential bottlenecks, business execution etc...)
 also make sure to having a counter so that we can have data about how many people are syaing the same thing
 
 eg. it has a great UI and a lot of people have the same intent then make sure to have some metadata stored of how many people are saying that and all
