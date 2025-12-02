@@ -142,5 +142,47 @@
     "idea": "Create a video or blog post: 'Processing-Intensive Animations: When Your Local Setup Isn't Enough' - Address OP's specific need for animations with processing-intensive work",
     "context": "OP mentioned planning animations with 'processing intensive stuff' - this is a specific use case. Content addressing when local rendering becomes impractical could help artists in similar situations understand when to consider render farms.",
     "target_audience": "Artists planning complex, processing-intensive animations who may not realize their local setup will struggle"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/15r6cg9/render_farm/",
+    "idea": "Create a beginner-friendly guide: 'Render Farms Made Simple: A Step-by-Step Guide for First-Time Users' - Address OP's confusion about the render farm process and make it accessible for beginners",
+    "context": "OP explicitly stated they're 'very confused by the Render Farm process' and asked if all render farms are confusing. This shows a clear need for beginner-friendly educational content that simplifies the process.",
+    "target_audience": "First-time render farm users, especially those intimidated by the process or on tight deadlines"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/15r6cg9/render_farm/",
+    "idea": "Create a technical guide: 'Rendering Cloth Simulations from Marvelous Designer: Alembic Cache Support Across Render Farms' - Address OP's specific issue with alembic caches (.abc) not being supported by Rebus Farm",
+    "context": "OP has cloth simulation from Marvelous Designer with alembic caches that Rebus Farm doesn't support. This is a specific technical limitation that could be addressed with educational content showing which farms support which formats.",
+    "target_audience": "3D artists working with Marvelous Designer cloth simulations who need render farm support for alembic caches"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/15r6cg9/render_farm/",
+    "idea": "Create a guide: 'Understanding Render Farm License Requirements: When Do You Need Multi-User Licenses?' - Address OP's confusion about GarageFarm requiring a multi-user Arnold license",
+    "context": "OP was confused and frustrated by GarageFarm requiring a multi-user Arnold license, saying 'which makes NO sense to me.' This is a common point of confusion that educational content could clarify.",
+    "target_audience": "3D artists confused about software license requirements when using render farms"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/15r6cg9/render_farm/",
+    "idea": "Create a comparison post: 'Easy-to-Use Render Farms: Rebus vs GarageFarm vs FoxRenderfarm vs XRender - User Experience Comparison' - Compare the farms mentioned in the thread based on ease of use",
+    "context": "OP specifically asked for 'EASY TO USE render farm' and mentioned issues with Rebus (alembic support) and GarageFarm (license issues). Multiple commenters recommended FoxRenderfarm and XRender. A comparison focused on ease of use would be valuable.",
+    "target_audience": "Artists prioritizing ease of use over advanced features, especially those new to render farms"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/15r6cg9/render_farm/",
+    "idea": "Create content: 'Urgent Deadline Rendering: How to Choose a Render Farm When Your Client is Waiting' - Address OP's urgent deadline situation and provide decision-making framework",
+    "context": "OP mentioned 'the client is waiting' showing an urgent deadline situation. Content helping artists make quick, informed decisions about render farms under time pressure would be valuable.",
+    "target_audience": "3D artists with urgent deadlines who need to quickly choose and use a render farm"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/15r6cg9/render_farm/",
+    "idea": "Create a troubleshooting guide: 'Common Render Farm Upload Issues: Denoise Optix, AOVs, and File Format Problems' - Address OP's specific issue with GarageFarm rejecting files due to Denoise Optix",
+    "context": "OP had their file rejected by GarageFarm due to Denoise Optix issues even though it wasn't selected. This is a technical troubleshooting scenario that could help others avoid similar problems.",
+    "target_audience": "Artists experiencing upload/rejection issues with render farms, especially related to render settings and AOVs"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/15r6cg9/render_farm/",
+    "idea": "Create a blog post: 'Why Browser-Based Render Farm Management is a Game-Changer' - Highlight AmarildoJr's point about managing renders via any browser/device",
+    "context": "AmarildoJr mentioned that FoxRenderfarm allows managing the render process via any browser for any device. This is a valuable feature that could be highlighted as a differentiator.",
+    "target_audience": "Artists who want flexibility in managing their renders from different devices or locations"
   }
 ]

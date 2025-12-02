@@ -130,5 +130,179 @@
     "potential_bottlenecks": "Workstation availability, cost for small projects, requires understanding of remote workstation management",
     "marketing_approach": "Direct engagement on Reddit, highlighting control and cost advantages over queue-based services",
     "business_execution": "Active social media presence (company rep commented on Reddit thread), positions against queue-based farms, emphasizes flexibility and control"
+  },
+  {
+    "render_farm_name": "Rebus Farm",
+    "website": "rebusfarm.net",
+    "mentioned_count": 1,
+    "pros": [
+      {
+        "point": "Successfully used by OP for previous project",
+        "mentioned_count": 1,
+        "context": "OP mentioned they successfully rendered another short using Rebus Farm, indicating it works for basic projects.",
+        "sources": [
+          {
+            "user": "Accomplished-Pea-590",
+            "reddit_url": "https://www.reddit.com/r/Maya/comments/15r6cg9/render_farm/",
+            "quote": "I successfully rendered another short using Rebus Farm"
+          }
+        ]
+      }
+    ],
+    "cons": [
+      {
+        "point": "Does not support alembic caches (.abc) from Marvelous Designer",
+        "mentioned_count": 1,
+        "context": "OP's new project has cloth simulation from Marvelous Designer with alembic caches that Rebus Farm doesn't support, forcing OP to look for alternatives.",
+        "sources": [
+          {
+            "user": "Accomplished-Pea-590",
+            "reddit_url": "https://www.reddit.com/r/Maya/comments/15r6cg9/render_farm/",
+            "quote": "this new short has cloth simulation from Marvelous Designer (alembic caches (.abc)) that Rebus Farm doesn't support"
+          }
+        ]
+      }
+    ],
+    "business_model": "Queue-based render farm service",
+    "target_market": "General 3D rendering projects, but limited format support",
+    "scale": "Established render farm service",
+    "potential_bottlenecks": "Limited file format support (no alembic cache support), may not handle specialized workflows like Marvelous Designer cloth simulations",
+    "marketing_approach": "Not explicitly mentioned in thread",
+    "business_execution": "Works for basic projects but has limitations with specialized formats"
+  },
+  {
+    "render_farm_name": "GarageFarm",
+    "website": "garagefarm.net",
+    "mentioned_count": 1,
+    "pros": [],
+    "cons": [
+      {
+        "point": "File upload rejection issues with Denoise Optix even when not selected",
+        "mentioned_count": 1,
+        "context": "OP's file was rejected due to Denoise Optix issues even though the imager wasn't selected and didn't appear in AOV. This suggests technical detection problems or overly strict validation.",
+        "sources": [
+          {
+            "user": "Accomplished-Pea-590",
+            "reddit_url": "https://www.reddit.com/r/Maya/comments/15r6cg9/render_farm/",
+            "quote": "they said my file couldn't be uploaded because it used Denoise Optix, but that imager isn't selected, and doesn't appear in the AOV"
+          }
+        ]
+      },
+      {
+        "point": "Requires multi-user license for Arnold which confuses users",
+        "mentioned_count": 1,
+        "context": "OP was frustrated and confused by GarageFarm requiring a multi-user Arnold license, saying 'which makes NO sense to me.' This suggests unclear communication or unexpected license requirements.",
+        "sources": [
+          {
+            "user": "Accomplished-Pea-590",
+            "reddit_url": "https://www.reddit.com/r/Maya/comments/15r6cg9/render_farm/",
+            "quote": "They also want me to buy a multi-user license for Arnold (which makes NO sense to me)"
+          }
+        ]
+      }
+    ],
+    "business_model": "Queue-based render farm service",
+    "target_market": "Professional 3D rendering, but with license requirements",
+    "scale": "Established render farm service",
+    "potential_bottlenecks": "Technical validation issues causing false rejections, unclear license requirements confusing users, may lose customers due to friction",
+    "marketing_approach": "Not explicitly mentioned in thread",
+    "business_execution": "Has technical and licensing issues that create user frustration and confusion"
+  },
+  {
+    "render_farm_name": "FoxRenderfarm",
+    "website": "foxrenderfarm.com",
+    "mentioned_count": 4,
+    "pros": [
+      {
+        "point": "Smooth, easy-to-use process",
+        "mentioned_count": 2,
+        "context": "Multiple users reported positive experiences with smooth processes, which is exactly what OP was looking for.",
+        "sources": [
+          {
+            "user": "AmarildoJr",
+            "reddit_url": "https://www.reddit.com/r/Maya/comments/15r6cg9/render_farm/jw6xjzg/",
+            "quote": "I've tried FoxRenderfarm in the past and it was a success"
+          },
+          {
+            "user": "ftvideo",
+            "reddit_url": "https://www.reddit.com/r/Maya/comments/15r6cg9/render_farm/jw9i72z/",
+            "quote": "I've used foxrenderfarm as well. It was a pretty smooth process"
+          },
+          {
+            "user": "Cloueeny",
+            "reddit_url": "https://www.reddit.com/r/Maya/comments/15r6cg9/render_farm/jzn48gj/",
+            "quote": "I also use Fox Renderfarm for rendering and really like it"
+          }
+        ]
+      },
+      {
+        "point": "Windows and Linux client available, simple workflow (send files, download images)",
+        "mentioned_count": 1,
+        "context": "AmarildoJr highlighted that clients are only required to send files and download images, making it user-friendly.",
+        "sources": [
+          {
+            "user": "AmarildoJr",
+            "reddit_url": "https://www.reddit.com/r/Maya/comments/15r6cg9/render_farm/jw71m11/",
+            "quote": "They have a Windows and a Linux client, but they're only required to: - Send the files to render; - Download the rendered images. You can manage the render process via any browser for any device"
+          }
+        ]
+      },
+      {
+        "point": "Browser-based management from any device",
+        "mentioned_count": 1,
+        "context": "AmarildoJr mentioned you can manage the render process via any browser for any device, providing flexibility.",
+        "sources": [
+          {
+            "user": "AmarildoJr",
+            "reddit_url": "https://www.reddit.com/r/Maya/comments/15r6cg9/render_farm/jw71m11/",
+            "quote": "You can manage the render process via any browser for any device"
+          }
+        ]
+      },
+      {
+        "point": "$25 USD registration bonus",
+        "mentioned_count": 1,
+        "context": "AmarildoJr mentioned they offer $25 USD upon registering, providing value for new users.",
+        "sources": [
+          {
+            "user": "AmarildoJr",
+            "reddit_url": "https://www.reddit.com/r/Maya/comments/15r6cg9/render_farm/jw726ab/",
+            "quote": "Keep in mind that they offer 25 USD upon registering"
+          }
+        ]
+      },
+      {
+        "point": "50% off coupon for recharges (promotional)",
+        "mentioned_count": 1,
+        "context": "AmarildoJr mentioned they currently have a coupon for 50% off of recharges, making it more affordable.",
+        "sources": [
+          {
+            "user": "AmarildoJr",
+            "reddit_url": "https://www.reddit.com/r/Maya/comments/15r6cg9/render_farm/jw726ab/",
+            "quote": "And they currently have a coupon for 50% off of recharges"
+          }
+        ]
+      }
+    ],
+    "cons": [],
+    "business_model": "Queue-based render farm with client software and browser management",
+    "target_market": "Users prioritizing ease of use and smooth experience, cross-platform support",
+    "scale": "Established render farm with good user experience",
+    "potential_bottlenecks": "None mentioned in thread - appears to be well-executed",
+    "marketing_approach": "Word-of-mouth recommendations, promotional offers ($25 bonus, 50% off coupons), user-friendly positioning",
+    "business_execution": "Strong execution with multiple positive user testimonials, good promotional strategy, user-friendly interface and workflow. Appears to be a well-regarded option in the market."
+  },
+  {
+    "render_farm_name": "XRender",
+    "website": "xrender.cloud",
+    "mentioned_count": 1,
+    "pros": [],
+    "cons": [],
+    "business_model": "Cloud-based render farm service",
+    "target_market": "General 3D rendering projects",
+    "scale": "Cloud-based service",
+    "potential_bottlenecks": "Limited information available - only mentioned once as recommendation",
+    "marketing_approach": "Not explicitly mentioned in thread",
+    "business_execution": "Mentioned as alternative option but no detailed user feedback available in thread"
   }
 ]

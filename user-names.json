@@ -158,5 +158,30 @@
     "username": "RedxOsa",
     "reddit_url": "https://www.reddit.com/user/RedxOsa",
     "role": "Commenter - asked what a rendering farm is, showing beginner level knowledge"
+  },
+  {
+    "username": "Accomplished-Pea-590",
+    "reddit_url": "https://www.reddit.com/user/Accomplished-Pea-590",
+    "role": "Original poster - needs easy-to-use render farm urgently (client waiting), has cloth simulation from Marvelous Designer (alembic caches .abc), tried Rebus Farm (doesn't support alembic) and GarageFarm (Denoise Optix issues, multi-user Arnold license requirement), confused by render farm process"
+  },
+  {
+    "username": "AmarildoJr",
+    "reddit_url": "https://www.reddit.com/user/AmarildoJr",
+    "role": "Commenter - recommended FoxRenderfarm, provided details about Windows/Linux client, mentioned $25 USD registration bonus and 50% off coupon for recharges, shared positive experience"
+  },
+  {
+    "username": "ftvideo",
+    "reddit_url": "https://www.reddit.com/user/ftvideo",
+    "role": "Commenter - shared positive experience using foxrenderfarm, described it as a smooth process"
+  },
+  {
+    "username": "Tricky-Chocolate-304",
+    "reddit_url": "https://www.reddit.com/user/Tricky-Chocolate-304",
+    "role": "Commenter - recommended XRender as an alternative render farm option"
+  },
+  {
+    "username": "Cloueeny",
+    "reddit_url": "https://www.reddit.com/user/Cloueeny",
+    "role": "Commenter - uses Fox Renderfarm for rendering and really likes it"
   }
 ]
