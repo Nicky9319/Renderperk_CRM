@@ -1,0 +1,62 @@
+[
+  {
+    "username": "Independent_Mix1392",
+    "reddit_url": "https://www.reddit.com/user/Independent_Mix1392",
+    "role": "Original poster - asking about render farm costs for 7-minute animation (10,080 frames at 24fps), currently using CPU rendering without NVIDIA GPU"
+  },
+  {
+    "username": "m9y6",
+    "reddit_url": "https://www.reddit.com/user/m9y6",
+    "role": "Commenter - provided general advice about render farm costs, mentioned cloud rendering services and distributed rendering options"
+  },
+  {
+    "username": "IikeThis",
+    "reddit_url": "https://www.reddit.com/user/IikeThis",
+    "role": "Commenter - suggested getting a GPU instead of renting render farms"
+  },
+  {
+    "username": "drunk_kronk",
+    "reddit_url": "https://www.reddit.com/user/drunk_kronk",
+    "role": "Commenter - recommended testing a few frames on render farms to estimate costs"
+  },
+  {
+    "username": "fakethrow456away",
+    "reddit_url": "https://www.reddit.com/user/fakethrow456away",
+    "role": "Commenter - suggested getting another machine for local rendering instead of using farms"
+  },
+  {
+    "username": "Dstrbdsoul",
+    "reddit_url": "https://www.reddit.com/user/Dstrbdsoul",
+    "role": "Commenter - offered to render files with RTX 4070 and i9 12th gen setup, mentioned willingness to help with compensation for time and electricity costs"
+  },
+  {
+    "username": "AmarildoJr",
+    "reddit_url": "https://www.reddit.com/user/AmarildoJr",
+    "role": "Commenter - provided cost estimates for render farms (3 cents to 5 dollars per frame depending on complexity)"
+  },
+  {
+    "username": "tiorancio",
+    "reddit_url": "https://www.reddit.com/user/tiorancio",
+    "role": "Commenter - shared specific cost example: $0.025 per 2-minute frame, estimated ~$250 for the project"
+  },
+  {
+    "username": "RebusFarm",
+    "reddit_url": "https://www.reddit.com/user/RebusFarm",
+    "role": "Render farm company representative - offered 25 free RPs for testing, mentioned cost estimation tool"
+  },
+  {
+    "username": "Background_Tap_1397",
+    "reddit_url": "https://www.reddit.com/user/Background_Tap_1397",
+    "role": "Render farm builder - promoting airrenderfarm.com with 48 core machines and A10 GPU"
+  },
+  {
+    "username": "Cloueeny",
+    "reddit_url": "https://www.reddit.com/user/Cloueeny",
+    "role": "Commenter - mentioned render farms cost $100+ and suggested Fox Renderfarm's free render farm sponsorship for freelancers"
+  },
+  {
+    "username": "iRender_Renderfarm",
+    "reddit_url": "https://www.reddit.com/user/iRender_Renderfarm",
+    "role": "Render farm company representative - provided detailed cost breakdown comparing different render farms and GPU options"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "target_user": "Independent_Mix1392",
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/1hc7vu2/how_expensive_are_render_farms_and_would_you/",
+    "comment_text": "Hey! I totally get the struggle - 2 min per frame on CPU is rough. We run Renderperk, a GPU-based render farm that's specifically built for Blender (though we're open to other software too). Since you mentioned you don't have an NVIDIA card, our GPU setup could actually cut your render times way down. For your 10k frames, we'd probably be looking at something way more reasonable than what you're seeing elsewhere. Happy to give you a test render if you want to see actual costs before committing to anything!",
+    "reason": "Direct response to OP's main question about render farm costs. OP specifically mentioned not having NVIDIA GPU and using CPU, which is a perfect opportunity to highlight Renderperk's GPU advantage. The comment is helpful and offers value (test render) rather than just promoting.",
+    "comment_type": "top_level"
+  },
+  {
+    "target_user": "IikeThis",
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/1hc7vu2/how_expensive_are_render_farms_and_would_you/m1nxkff/",
+    "comment_text": "That's fair, but buying a GPU can be pretty expensive upfront, especially if you're just doing occasional projects. We've found that a lot of artists prefer the flexibility of renting GPU power when they need it - no upfront costs, no worrying about hardware becoming outdated. Plus with our setup you get access to multiple GPUs working in parallel, which is way faster than a single card.",
+    "reason": "Responds to the suggestion of buying a GPU. This is a good opportunity to present the alternative value proposition of render farms - flexibility and no upfront costs. The tone is conversational and addresses a real concern.",
+    "comment_type": "reply"
+  },
+  {
+    "target_user": "Dstrbdsoul",
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/1hc7vu2/how_expensive_are_render_farms_and_would_you/m1nmlyp/",
+    "comment_text": "That's really cool of you to offer! I know a lot of people do this kind of peer-to-peer rendering. We actually built Renderperk partly because we saw this need - people wanting to help each other out but needing a more scalable solution. If you ever want to scale up or if your friends' systems get busy, feel free to check us out. We try to keep costs reasonable since we know how tight budgets can be for creators.",
+    "reason": "Acknowledges the helpful community member without being pushy. Shows understanding of the peer-to-peer rendering model and positions Renderperk as a scalable alternative. The comment is supportive and community-focused rather than salesy.",
+    "comment_type": "reply"
+  },
+  {
+    "target_user": "AmarildoJr",
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/1hc7vu2/how_expensive_are_render_farms_and_would_you/m1o7wnq/",
+    "comment_text": "Those cost ranges sound about right for CPU rendering. We focus on GPU rendering which tends to be more cost-effective for most projects - usually comes in on the lower end of that range even for complex scenes. The GPU parallelization really helps keep costs down compared to CPU farms. Worth checking out if you're doing Blender work especially!",
+    "reason": "Engages with someone providing cost information. This is a natural place to mention GPU advantages and subtly mention Blender support. The comment adds value by explaining why GPU might be cheaper.",
+    "comment_type": "reply"
+  },
+  {
+    "target_user": "fakethrow456away",
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/1hc7vu2/how_expensive_are_render_farms_and_would_you/m1mgb1y/",
+    "comment_text": "Yeah buying another machine makes sense if you're doing this regularly, but for occasional projects the math doesn't always work out. Plus there's the electricity costs, maintenance, and the fact that hardware gets outdated pretty fast. We've had clients who started with that approach and ended up switching to farms just for the convenience and not having to manage hardware. Just something to consider!",
+    "reason": "Addresses the 'buy another machine' suggestion with a balanced perspective. Acknowledges it can work but points out hidden costs and convenience factors. This shows understanding of different use cases.",
+    "comment_type": "reply"
+  },
+  {
+    "target_user": "drunk_kronk",
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/1hc7vu2/how_expensive_are_render_farms_and_would_you/m1nopsn/",
+    "comment_text": "100% agree with this approach! We actually offer free test renders for exactly this reason - no one wants to commit to a big job without knowing the real costs. If you want to test a few frames with us, we can give you an accurate estimate for the full sequence. Way better than guessing based on other people's projects.",
+    "reason": "Supports the good advice about testing frames. This is a perfect opportunity to mention free test renders as a value-add. The comment is helpful and builds on existing good advice.",
+    "comment_type": "reply"
+  }
+]

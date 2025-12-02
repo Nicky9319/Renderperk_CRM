@@ -1,0 +1,50 @@
+[
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/1hc7vu2/how_expensive_are_render_farms_and_would_you/",
+    "idea": "Create a blog post or Reddit guide: 'Render Farm Cost Calculator: How to Estimate Your Project Costs' - Use OP's specific example (10,080 frames, 2 min/frame on CPU) as a case study showing how GPU rendering compares",
+    "context": "OP asked about costs for a specific project (7 min animation, 10,080 frames). This is a common question that could be turned into educational content. The thread shows people are confused about pricing models.",
+    "target_audience": "3D artists looking to understand render farm pricing, especially those new to using farms"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/1hc7vu2/how_expensive_are_render_farms_and_would_you/",
+    "idea": "Create a comparison post: 'CPU vs GPU Rendering: When Does Each Make Sense?' - Address the specific pain point mentioned (OP can't use Arnold GPU without NVIDIA card, stuck on CPU)",
+    "context": "Multiple comments mention GPU vs CPU rendering. OP specifically mentioned being limited to CPU rendering. This is a pain point that could be addressed with educational content showing how render farms solve this problem.",
+    "target_audience": "Artists with hardware limitations who don't realize render farms can provide GPU access"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/1hc7vu2/how_expensive_are_render_farms_and_would_you/m1nmlyp/",
+    "idea": "Create content about 'Peer-to-Peer Rendering vs Professional Render Farms: Pros and Cons' - Use Dstrbdsoul's offer as an example of community help, then explain when farms make more sense",
+    "context": "Dstrbdsoul offered to help render files, showing the community spirit. This could be turned into content comparing informal help vs professional services, highlighting when each approach works best.",
+    "target_audience": "Artists considering different rendering options, especially those who might try peer-to-peer first"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/1hc7vu2/how_expensive_are_render_farms_and_would_you/",
+    "idea": "Create a 'Render Farm ROI Calculator' tool or post - Help artists understand when buying hardware vs using farms makes financial sense, addressing the 'just buy another machine' comments",
+    "context": "Multiple people suggested buying hardware instead. This shows a need for better financial analysis tools to help artists make informed decisions about hardware investment vs service usage.",
+    "target_audience": "Artists trying to decide between hardware investment and render farm services"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/1hc7vu2/how_expensive_are_render_farms_and_would_you/",
+    "idea": "Create a series of 'Render Farm Myths Debunked' posts addressing common misconceptions: 'Render farms are too expensive', 'You need to own hardware', 'Only big studios use farms'",
+    "context": "The thread shows several misconceptions - people think farms are always expensive, that buying hardware is always better, etc. Educational content debunking these could be valuable.",
+    "target_audience": "Artists who haven't tried render farms due to misconceptions"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/1hc7vu2/how_expensive_are_render_farms_and_would_you/m1o7wnq/",
+    "idea": "Create a detailed cost breakdown post comparing different render farms mentioned in the thread (RebusFarm, Fox Renderfarm, iRender, etc.) with transparent pricing examples",
+    "context": "AmarildoJr provided cost ranges but people are still confused. A comprehensive comparison with real examples would be valuable. This could position Renderperk as transparent and helpful even when comparing competitors.",
+    "target_audience": "Artists comparing different render farm options"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/1hc7vu2/how_expensive_are_render_farms_and_would_you/",
+    "idea": "Create a 'First Time Using a Render Farm' guide - Step-by-step walkthrough for artists who've never used farms, addressing the uncertainty shown in OP's question",
+    "context": "OP's question shows they're new to render farms and uncertain about the process. A beginner-friendly guide could help many artists in similar situations and establish Renderperk as helpful and approachable.",
+    "target_audience": "First-time render farm users, especially those intimidated by the process"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/1hc7vu2/how_expensive_are_render_farms_and_would_you/",
+    "idea": "Create content about 'Blender-Specific Render Farm Benefits' - Highlight why GPU rendering for Blender is particularly cost-effective, since Renderperk specializes in Blender",
+    "context": "OP is using Maya but instructions mention Renderperk specializes in Blender. However, many Blender users likely have similar questions. Content about Blender-specific advantages could attract the target audience while being helpful to Maya users considering switching.",
+    "target_audience": "Blender users specifically, but also Maya users open to trying Blender for certain projects"
+  }
+]
