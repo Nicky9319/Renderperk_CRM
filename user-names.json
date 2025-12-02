@@ -128,5 +128,35 @@
     "username": "kourneym",
     "reddit_url": "https://www.reddit.com/user/kourneym",
     "role": "Commenter - recommended RebusFarm for Corona + 3ds Max projects, mentioned reaching out to marketing team for discounts/case study opportunities"
+  },
+  {
+    "username": "NHArts",
+    "reddit_url": "https://www.reddit.com/user/NHArts",
+    "role": "Original poster - complaining about render farm costs being too expensive ($20-$80 for a video), considering building own render farm with 4070/4090 GPUs instead, planning animations with processing-intensive work"
+  },
+  {
+    "username": "True_Shift1396",
+    "reddit_url": "https://www.reddit.com/user/True_Shift1396",
+    "role": "Commenter - stated that rendering is expensive, either in hardware costs or time"
+  },
+  {
+    "username": "_BsIngA_",
+    "reddit_url": "https://www.reddit.com/user/_BsIngA_",
+    "role": "Commenter - recommended SheepIt render farm (free community-run render farm)"
+  },
+  {
+    "username": "ProvocateurMaximus",
+    "reddit_url": "https://www.reddit.com/user/ProvocateurMaximus",
+    "role": "Commenter - commented positively about free render farm option for those in need"
+  },
+  {
+    "username": "remorselessfrost",
+    "reddit_url": "https://www.reddit.com/user/remorselessfrost",
+    "role": "Commenter - asked about using EEVEE for commercial applications, and provided advice about hidden costs of building render farms (equipment, maintenance, electricity, floor space, depreciation, HVAC cooling)"
+  },
+  {
+    "username": "RedxOsa",
+    "reddit_url": "https://www.reddit.com/user/RedxOsa",
+    "role": "Commenter - asked what a rendering farm is, showing beginner level knowledge"
   }
 ]

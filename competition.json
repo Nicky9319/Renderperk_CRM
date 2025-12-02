@@ -1,0 +1,134 @@
+[
+  {
+    "render_farm_name": "SheepIt",
+    "website": "sheepit-renderfarm.com",
+    "mentioned_count": 1,
+    "pros": [
+      {
+        "point": "Free to use - community-run render farm",
+        "mentioned_count": 1,
+        "context": "Recommended by _BsIngA_ as a free alternative for users who find paid render farms too expensive. Community-driven model makes it accessible to hobbyists and those on tight budgets.",
+        "sources": [
+          {
+            "user": "_BsIngA_",
+            "reddit_url": "https://www.reddit.com/r/blender/comments/14o8mjd/paying_for_rendering_farms_too_expensive/jqdm70a/",
+            "quote": "Here's a community run render farm which is free; www.sheepit-renderfarm.com"
+          }
+        ]
+      }
+    ],
+    "cons": [
+      {
+        "point": "Queue-based system likely means longer wait times",
+        "mentioned_count": 0,
+        "context": "Inferred from free community model - free render farms typically have queues and cannot guarantee fast turnaround times. No explicit mention in thread but implied by nature of free services.",
+        "sources": []
+      },
+      {
+        "point": "No priority options for time-sensitive projects",
+        "mentioned_count": 0,
+        "context": "Free community farms typically don't offer priority rendering options, making them unsuitable for commercial work with deadlines.",
+        "sources": []
+      }
+    ],
+    "business_model": "Free community-run render farm",
+    "target_market": "Hobbyists, learners, personal projects",
+    "scale": "Community-driven, volunteer-based",
+    "potential_bottlenecks": "Queue times, limited resources, no guaranteed availability, no priority support",
+    "marketing_approach": "Word-of-mouth, community recommendations",
+    "business_execution": "Relies on community volunteers contributing compute resources"
+  },
+  {
+    "render_farm_name": "iRender",
+    "website": "irendering.net",
+    "mentioned_count": 1,
+    "pros": [
+      {
+        "point": "Rent full RTX 4090 or multi-GPU workstation remotely",
+        "mentioned_count": 1,
+        "context": "Company representative (iRender_Renderfarm) highlighted that users can rent full workstations with high-end GPUs, giving more control than queue-based systems.",
+        "sources": [
+          {
+            "user": "iRender_Renderfarm",
+            "reddit_url": "https://www.reddit.com/r/blender/comments/14o8mjd/paying_for_rendering_farms_too_expensive/nl3josg/",
+            "quote": "you rent a full RTX 4090 or multi-GPU workstation remotely and render directly in your own software"
+          }
+        ]
+      },
+      {
+        "point": "Pay only for hours used, no upload conversion fees",
+        "mentioned_count": 1,
+        "context": "Company rep emphasized cost efficiency - pay-per-hour model and no additional fees for file conversion/upload.",
+        "sources": [
+          {
+            "user": "iRender_Renderfarm",
+            "reddit_url": "https://www.reddit.com/r/blender/comments/14o8mjd/paying_for_rendering_farms_too_expensive/nl3josg/",
+            "quote": "you only pay for the hours you use, no upload conversion fees"
+          }
+        ]
+      },
+      {
+        "point": "Can install own plugins or scripts",
+        "mentioned_count": 1,
+        "context": "Full workstation access allows users to customize their environment, which is valuable for specific workflows.",
+        "sources": [
+          {
+            "user": "iRender_Renderfarm",
+            "reddit_url": "https://www.reddit.com/r/blender/comments/14o8mjd/paying_for_rendering_farms_too_expensive/nl3josg/",
+            "quote": "you can even install your own plugins or scripts"
+          }
+        ]
+      },
+      {
+        "point": "Good for animation-heavy work and testing multiple scenes",
+        "mentioned_count": 1,
+        "context": "Company rep positioned it as ideal for animation projects and iterative testing workflows.",
+        "sources": [
+          {
+            "user": "iRender_Renderfarm",
+            "reddit_url": "https://www.reddit.com/r/blender/comments/14o8mjd/paying_for_rendering_farms_too_expensive/nl3josg/",
+            "quote": "It's great for animation-heavy work or testing multiple scenes"
+          }
+        ]
+      },
+      {
+        "point": "Cheaper long-term than traditional render queue services",
+        "mentioned_count": 1,
+        "context": "Company rep claimed cost advantage over queue-based services for long-term use.",
+        "sources": [
+          {
+            "user": "iRender_Renderfarm",
+            "reddit_url": "https://www.reddit.com/r/blender/comments/14o8mjd/paying_for_rendering_farms_too_expensive/nl3josg/",
+            "quote": "ends up cheaper long-term than traditional render queue services"
+          }
+        ]
+      },
+      {
+        "point": "More control than queue-based farms",
+        "mentioned_count": 1,
+        "context": "Company rep emphasized that renting full workstations provides more control compared to queue-based systems that charge per frame with setup overhead.",
+        "sources": [
+          {
+            "user": "iRender_Renderfarm",
+            "reddit_url": "https://www.reddit.com/r/blender/comments/14o8mjd/paying_for_rendering_farms_too_expensive/nl3josg/",
+            "quote": "Many queue-based farms charge per frame and add overhead for setup and priority"
+          }
+        ]
+      }
+    ],
+    "cons": [
+      {
+        "point": "May require renting full workstation even for small projects",
+        "mentioned_count": 0,
+        "context": "Inferred from model - renting full workstation might be overkill for small projects, potentially making it less cost-effective than per-frame pricing for simple renders.",
+        "sources": []
+      }
+    ],
+    "business_model": "Rent full GPU workstations remotely, pay-per-hour",
+    "target_market": "Animation-heavy work, users needing control and customization, long-term projects",
+    "scale": "Professional service with high-end hardware (RTX 4090, multi-GPU setups)",
+    "potential_bottlenecks": "Workstation availability, cost for small projects, requires understanding of remote workstation management",
+    "marketing_approach": "Direct engagement on Reddit, highlighting control and cost advantages over queue-based services",
+    "business_execution": "Active social media presence (company rep commented on Reddit thread), positions against queue-based farms, emphasizes flexibility and control"
+  }
+]

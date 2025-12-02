@@ -100,5 +100,47 @@
     "idea": "Create content: 'The Hidden Benefits of Render Farms: Using Your PC While Rendering' - Highlight Euclois's point about being able to work while rendering, which many artists don't consider",
     "context": "Euclois mentioned that being able to use your PC while rendering is a major benefit that people don't think about. This is a valuable selling point that could be turned into content highlighting productivity benefits beyond just speed.",
     "target_audience": "Artists who haven't considered render farms because they think they need to give up their workstation"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/blender/comments/14o8mjd/paying_for_rendering_farms_too_expensive/",
+    "idea": "Create a comprehensive guide: 'Building Your Own Render Farm: The Hidden Costs You're Not Thinking About' - Use remorselessfrost's comment about equipment, maintenance, electricity, floor space, depreciation, and HVAC cooling as a framework",
+    "context": "OP considered building their own render farm with 4070/4090 GPUs. remorselessfrost provided excellent insight about hidden costs that many people overlook. This is a common misconception that could be addressed with educational content showing the real economics.",
+    "target_audience": "Artists considering building their own render farm who may not have considered all costs"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/blender/comments/14o8mjd/paying_for_rendering_farms_too_expensive/",
+    "idea": "Create a comparison post: 'Free vs Paid Render Farms: When Does Each Make Sense?' - Use SheepIt (free community farm) as an example and explain when free options work vs when paid services are necessary",
+    "context": "_BsIngA_ recommended SheepIt, a free community render farm. This highlights the free vs paid debate. Content explaining when each makes sense could help artists make informed decisions and position Renderperk appropriately.",
+    "target_audience": "Artists on tight budgets considering free render farm options"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/blender/comments/14o8mjd/paying_for_rendering_farms_too_expensive/",
+    "idea": "Create a blog post: 'Why Old Render Farm Examples Can Mislead You: How GPU Rendering Changed the Game' - Address OP's concern about $20-$80 costs from a 2-year-old video",
+    "context": "OP watched a 2-year-old video showing expensive render farm costs ($20-$80 for a video). This is a common issue - outdated information. Content explaining how GPU rendering has made farms more affordable could address this misconception.",
+    "target_audience": "Artists who have seen old render farm cost examples and think farms are always expensive"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/blender/comments/14o8mjd/paying_for_rendering_farms_too_expensive/",
+    "idea": "Create beginner-friendly content: 'What is a Render Farm? A Complete Beginner's Guide' - Use RedxOsa's question as inspiration for explaining the concept simply",
+    "context": "RedxOsa asked 'What's a rendering farm?' showing there are beginners who need basic explanations. A simple, beginner-friendly guide could help many people and establish Renderperk as approachable and educational.",
+    "target_audience": "Complete beginners to 3D rendering who don't understand what render farms are"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/blender/comments/14o8mjd/paying_for_rendering_farms_too_expensive/",
+    "idea": "Create a cost analysis: 'RTX 4070 vs 4090 Render Farm: Is Building Your Own Actually Cheaper?' - Calculate real costs including all hidden expenses mentioned in the thread",
+    "context": "OP specifically mentioned considering 4070 or 4090 GPUs for building their own farm. This is a perfect opportunity to create a detailed cost analysis comparing building vs using a render farm, including all the hidden costs.",
+    "target_audience": "Artists considering specific GPU models for building their own render farm"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/blender/comments/14o8mjd/paying_for_rendering_farms_too_expensive/",
+    "idea": "Create content: 'Render Farms Aren't Just for Studios: Why Hobbyists and Small Creators Should Consider GPU Render Farms' - Address the comment that 'render farms aren't really marketed at hobbyists'",
+    "context": "A deleted comment stated 'render farms aren't really marketed at hobbyists.' This is a perception issue. Content showing how modern GPU render farms can be affordable for hobbyists could open up a new market segment.",
+    "target_audience": "Hobbyists and small creators who think render farms are only for professionals"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/blender/comments/14o8mjd/paying_for_rendering_farms_too_expensive/",
+    "idea": "Create a video or blog post: 'Processing-Intensive Animations: When Your Local Setup Isn't Enough' - Address OP's specific need for animations with processing-intensive work",
+    "context": "OP mentioned planning animations with 'processing intensive stuff' - this is a specific use case. Content addressing when local rendering becomes impractical could help artists in similar situations understand when to consider render farms.",
+    "target_audience": "Artists planning complex, processing-intensive animations who may not realize their local setup will struggle"
   }
 ]
