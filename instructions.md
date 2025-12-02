@@ -36,4 +36,15 @@ Make sure to link to the correct reddit url for the idea
 Add proper context in respective json record for the same.
 
 
+4. Do competion analysis figure out the render famrs which people are talking about 
+
+In the json file make a record for all the unique render farms names found in it
+for competetor record stores the positives the users are saying the negative users are saying
+Store all the relevant context found regarding them
+also make sure to having a counter so that we can have data about how many people are syaing the same thing
+
+eg. it has a great UI and a lot of people have the same intent then make sure to have some metadata stored of how many people are saying that and all
+(Add we need to do this for all the pros and cons for the platform or the renderfarm found)
+
+
 After processing the whole file from the unprocess remove it from the unprocess folder and add the json file into the processed folder itself
