@@ -41,6 +41,26 @@ def extract_post_id_and_title(url):
     sanitized = re.sub(r'[^a-zA-Z0-9]', '_', url)
     return sanitized[:20], 'unknown'
 
+def check_if_already_processed(url):
+    """
+    Check if the JSON file for this URL already exists in unprocessed or processed folder.
+    Returns: (exists: bool, folder_name: str or None)
+    """
+    post_id, title = extract_post_id_and_title(url)
+    filename = f"{post_id}_{title}.json"
+    
+    # Check in unprocessed folder
+    unprocessed_path = os.path.join("unprocessed", filename)
+    if os.path.exists(unprocessed_path):
+        return True, "unprocessed"
+    
+    # Check in processed folder
+    processed_path = os.path.join("processed", filename)
+    if os.path.exists(processed_path):
+        return True, "processed"
+    
+    return False, None
+
 def fetch_and_save_reddit_post(url):
     """
     Fetch JSON data from Reddit post and save to unprocessed folder.
@@ -101,10 +121,19 @@ def main():
     
     failed_urls = []
     successful_count = 0
+    skipped_count = 0
     
     # Process each URL sequentially
     for i, url in enumerate(REDDIT_POST_URLS, 1):
         print(f"[{i}/{len(REDDIT_POST_URLS)}] Processing: {url}")
+        
+        # Check if already processed
+        already_exists, folder = check_if_already_processed(url)
+        if already_exists:
+            print(f"  ⊘ This URL has been processed (file exists in {folder}/ folder)")
+            skipped_count += 1
+            print()
+            continue
         
         success, error = fetch_and_save_reddit_post(url)
         
@@ -123,6 +152,7 @@ def main():
     print("-" * 60)
     print(f"Processing complete!")
     print(f"  Successful: {successful_count}/{len(REDDIT_POST_URLS)}")
+    print(f"  Skipped (already processed): {skipped_count}/{len(REDDIT_POST_URLS)}")
     print(f"  Failed: {len(failed_urls)}/{len(REDDIT_POST_URLS)}")
     
     # Display failed URLs if any
