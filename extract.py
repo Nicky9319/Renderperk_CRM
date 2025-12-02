@@ -6,9 +6,27 @@ from urllib.parse import urlparse
 
 # Hardcoded list of Reddit post URLs
 REDDIT_POST_URLS = [
-    "https://www.reddit.com/r/archviz/comments/1fcnrlp/render_farm_pricing/",
-    "https://www.reddit.com/r/blender/comments/14o8mjd/paying_for_rendering_farms_too_expensive/",
-    "https://www.reddit.com/r/blender/comments/1nwj7qt/rendering_farms_on_the_downfall/"
+    "https://www.reddit.com/r/graphic_design/comments/14zln3r/how_much_does_it_cost_on_a_render_farm_to_make_a/",
+    "https://www.reddit.com/r/Maya/comments/15r6cg9/render_farm/",
+    "https://www.reddit.com/r/AfterEffects/comments/1csl0jr/are_render_farms_worth_it/",
+    "https://www.reddit.com/r/blender/comments/qvy2l7/anyone_here_with_experience_with_renderstreets/",
+    "https://www.reddit.com/r/vfx/comments/1is7d7o/company_wants_to_create_a_rendering_farm/",
+    "http://reddit.com/r/blender/comments/npf4fi/looking_to_rent_out_my_small_render_farm_for_real/",
+    "https://www.reddit.com/r/blender/comments/17q2dbh/should_i_opt_for_rendering_using_a_render_farm_or/",
+    "https://www.reddit.com/r/Houdini/comments/1afjqp7/render_farms/",
+    "https://www.reddit.com/r/MotionDesign/comments/16ltgef/how_to_quote_for_3d_rendering_farm_cost/",
+    "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/",
+    "https://www.reddit.com/r/blender/comments/10vur0m/this_one_took_nine_days_to_render_why_do_i_do/",
+    "https://www.reddit.com/r/blender/comments/qlea03/does_anyone_here_know_a_cheap_render_farm_for/",
+    "https://www.reddit.com/r/vfx/comments/14nks45/what_are_peoples_favorite_online_renderfarms/",
+    "https://www.reddit.com/r/vfx/comments/kdj9f1/fox_renderfarm_irenderfarm_which_one_is_better/",
+    "https://www.reddit.com/r/Maya/comments/17izswq/render_farm/",
+    "https://www.reddit.com/r/blender/comments/18odbvr/what_render_farm_could_you_recommend_for/",
+    "https://www.reddit.com/r/blender/comments/1hv1wq8/how_does_a_render_farm_work/",
+    "https://www.reddit.com/r/sysadmin/comments/1m4lfod/render_farm_recommendations/",
+    "https://www.reddit.com/r/blender/comments/16fwdn0/what_are_the_best_online_render_farms/",
+    "https://www.reddit.com/r/blender/comments/19bzon5/any_free_renderfarms/",
+    "https://www.reddit.com/r/blenderhelp/comments/193hrtn/rendering_farm_recommendations/"
 ]
 
 def extract_post_id_and_title(url):
