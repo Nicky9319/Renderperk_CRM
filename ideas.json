@@ -46,5 +46,59 @@
     "idea": "Create content about 'Blender-Specific Render Farm Benefits' - Highlight why GPU rendering for Blender is particularly cost-effective, since Renderperk specializes in Blender",
     "context": "OP is using Maya but instructions mention Renderperk specializes in Blender. However, many Blender users likely have similar questions. Content about Blender-specific advantages could attract the target audience while being helpful to Maya users considering switching.",
     "target_audience": "Blender users specifically, but also Maya users open to trying Blender for certain projects"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/archviz/comments/1fcnrlp/render_farm_pricing/",
+    "idea": "Create a comprehensive guide: 'How to Cut Render Farm Costs by 40-50%: AI Upscaling, Frame Interpolation, and Scene Optimization Strategies' - Use UncleRocco87's example ($7000 vs $1500) and monkriss's optimization tips as case studies",
+    "context": "UncleRocco87 showed massive cost savings using AI upscaling and frame interpolation. monkriss provided detailed scene optimization advice. This thread reveals multiple cost-saving strategies that could be compiled into valuable educational content.",
+    "target_audience": "Archviz artists working with tight budgets who want to maximize value from render farms"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/archviz/comments/1fcnrlp/render_farm_pricing/",
+    "idea": "Create a blog post: 'High Priority vs Low Priority Rendering: When to Pay the Premium' - Analyze the huge cost difference (UncleRocco87's $7000 vs $1500 example) and help artists decide when each makes sense",
+    "context": "UncleRocco87's comment revealed a massive 4.6x cost difference between high and low priority rendering. This is a critical decision point that many artists don't understand. Educational content could help them make informed choices.",
+    "target_audience": "Artists with tight deadlines trying to balance cost and speed"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/archviz/comments/1fcnrlp/render_farm_pricing/",
+    "idea": "Create a comparison guide: 'Render Farm Showdown: Chaos Cloud vs GarageFarm vs Rebus vs Fox Renderfarm - Real Cost Examples from Archviz Projects' - Use actual examples from the thread (VelvetElvis03, SamWoody97, etc.)",
+    "context": "Multiple users shared experiences with different render farms (Chaos Cloud, GarageFarm, Rebus, Fox Renderfarm, Renderday). A comprehensive comparison with real user data would be extremely valuable and position Renderperk as transparent and helpful.",
+    "target_audience": "Archviz artists comparing render farm options, especially those using Corona + 3ds Max"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/archviz/comments/1fcnrlp/render_farm_pricing/",
+    "idea": "Create a video tutorial: 'Scene Optimization for Render Farms: Remove Turbo Smooth, Fix Noise, Reduce Maps - Save Thousands' - Use monkriss's specific advice as a step-by-step guide",
+    "context": "monkriss provided excellent specific optimization advice that could save significant money. This is actionable content that would be valuable to many artists. A video format would make it even more accessible.",
+    "target_audience": "3D artists preparing scenes for render farms, especially those new to optimization"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/archviz/comments/1fcnrlp/render_farm_pricing/",
+    "idea": "Create content: 'Why Real-Time Preview is Critical for Render Farms (And How to Avoid Wasting Credits)' - Address VelvetElvis03's point about watching renders 'like a hawk' and the importance of catching issues early",
+    "context": "VelvetElvis03 emphasized the critical importance of previewing renders to avoid wasting credits. This is a pain point that Renderperk could address by highlighting real-time preview capabilities. Educational content about this would be valuable.",
+    "target_audience": "First-time render farm users and artists who've lost money due to rendering errors"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/archviz/comments/1fcnrlp/render_farm_pricing/",
+    "idea": "Create a guide: 'Corona + 3ds Max to Blender: Migration Guide for Faster GPU Rendering' - Target archviz artists using Corona who could benefit from Blender's GPU rendering capabilities",
+    "context": "OP and many commenters use Corona + 3ds Max. Renderperk specializes in Blender with GPU rendering. A migration guide could help Corona users understand the benefits of switching to Blender for certain projects, especially those needing faster rendering.",
+    "target_audience": "Corona + 3ds Max users frustrated with slow render times, open to trying Blender"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/archviz/comments/1fcnrlp/render_farm_pricing/",
+    "idea": "Create a calculator tool: 'Render Farm Cost Estimator: Add 25-50% Buffer and Account for Test Renders' - Build on VelvetElvis03's advice about always adding buffer to estimates",
+    "context": "VelvetElvis03's advice about adding 25-50% buffer is crucial but many artists don't do this. A calculator tool that automatically accounts for buffers, test renders, and common mistakes would be extremely valuable and drive traffic.",
+    "target_audience": "Artists planning render farm projects who want accurate cost estimates"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/archviz/comments/1fcnrlp/render_farm_pricing/",
+    "idea": "Create a case study: 'From 20 Minutes to 2-5 Minutes Per Frame: How GPU Rendering Transforms Archviz Workflows' - Use OP's situation (20 min/frame on workstation) and Hairy_Sea_6656's render farm times as comparison",
+    "context": "OP mentioned 20 minutes per frame on their workstation. Hairy_Sea_6656 mentioned render farms can reduce this to 2-5 minutes per frame. This dramatic improvement could be a compelling case study showing the value of GPU render farms.",
+    "target_audience": "Archviz artists with slow local rendering who haven't considered GPU render farms"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/archviz/comments/1fcnrlp/render_farm_pricing/",
+    "idea": "Create content: 'The Hidden Benefits of Render Farms: Using Your PC While Rendering' - Highlight Euclois's point about being able to work while rendering, which many artists don't consider",
+    "context": "Euclois mentioned that being able to use your PC while rendering is a major benefit that people don't think about. This is a valuable selling point that could be turned into content highlighting productivity benefits beyond just speed.",
+    "target_audience": "Artists who haven't considered render farms because they think they need to give up their workstation"
   }
 ]

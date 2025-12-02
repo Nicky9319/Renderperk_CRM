@@ -58,5 +58,75 @@
     "username": "iRender_Renderfarm",
     "reddit_url": "https://www.reddit.com/user/iRender_Renderfarm",
     "role": "Render farm company representative - provided detailed cost breakdown comparing different render farms and GPU options"
+  },
+  {
+    "username": "VelvetElvis03",
+    "reddit_url": "https://www.reddit.com/user/VelvetElvis03",
+    "role": "Commenter - shared detailed experience with Chaos Cloud and Rebus, provided cost estimates ($4000 for 5000 credit pack), mentioned importance of previewing renders and adding 25-50% buffer to estimates"
+  },
+  {
+    "username": "SamWoody97",
+    "reddit_url": "https://www.reddit.com/user/SamWoody97",
+    "role": "Commenter - shared Garage Farm experience, estimated $0.50 per frame, calculated ~$1350 for 90 second video, recommended testing a detailed frame first"
+  },
+  {
+    "username": "clemilino",
+    "reddit_url": "https://www.reddit.com/user/clemilino",
+    "role": "Commenter - recommended Vantage for fast rendering, mentioned Corona can export to .vantage format and suggested using Vray for bridge functionality"
+  },
+  {
+    "username": "satch87",
+    "reddit_url": "https://www.reddit.com/user/satch87",
+    "role": "Commenter - suggested trying Vantage (Vray) for faster rendering, mentioned rendering 720-1080 animation quickly with RTX 2060 Super"
+  },
+  {
+    "username": "Euclois",
+    "reddit_url": "https://www.reddit.com/user/Euclois",
+    "role": "Commenter (Professional flair) - compared Rebus vs GarageFarm, preferred GarageFarm for reliability despite higher cost, mentioned AI upscaling/denoising/interpolation to save money, highlighted benefit of using PC while rendering"
+  },
+  {
+    "username": "btspman1",
+    "reddit_url": "https://www.reddit.com/user/btspman1",
+    "role": "Commenter (Premium user) - recommended Chaos Vantage for local GPU rendering, mentioned it's cheaper than Chaos Cloud but requires learning Vray, noted need for RTX/RX card with good GPU RAM"
+  },
+  {
+    "username": "monkriss",
+    "reddit_url": "https://www.reddit.com/user/monkriss",
+    "role": "Commenter - recommended scene optimization (removing turbo smooth, unnecessary maps, fixing noise issues) to significantly reduce render farm costs"
+  },
+  {
+    "username": "parripollo1",
+    "reddit_url": "https://www.reddit.com/user/parripollo1",
+    "role": "Commenter - asked about frame interpolation methods, mentioned trying Runway's platform"
+  },
+  {
+    "username": "UncleRocco87",
+    "reddit_url": "https://www.reddit.com/user/UncleRocco87",
+    "role": "Commenter - shared cost comparison: $7000 for high priority 1-minute animation vs $1500 for low priority (24 hours), recommended rendering lower resolution + AI upscaling, mentioned rendering every 2nd frame with AI interpolation"
+  },
+  {
+    "username": "heaton5747",
+    "reddit_url": "https://www.reddit.com/user/heaton5747",
+    "role": "Commenter - suggested peer-to-peer rendering as best option for OP"
+  },
+  {
+    "username": "princejsl",
+    "reddit_url": "https://www.reddit.com/user/princejsl",
+    "role": "Commenter - asked about OP's workstation specs, mentioned 20 min per frame seems high for FHD, offered to help render files if OP comfortable sharing, has 36 core setup"
+  },
+  {
+    "username": "sasch_a",
+    "reddit_url": "https://www.reddit.com/user/sasch_a",
+    "role": "Commenter - mentioned Renderday as instant GPU rendering option with competitive pricing"
+  },
+  {
+    "username": "Hairy_Sea_6656",
+    "reddit_url": "https://www.reddit.com/user/Hairy_Sea_6656",
+    "role": "Commenter - provided cost estimates for Fox Renderfarm: $150-300 for 1min30sec video, $200-400 for 2min, mentioned 2-5min per frame render times"
+  },
+  {
+    "username": "kourneym",
+    "reddit_url": "https://www.reddit.com/user/kourneym",
+    "role": "Commenter - recommended RebusFarm for Corona + 3ds Max projects, mentioned reaching out to marketing team for discounts/case study opportunities"
   }
 ]

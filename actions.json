@@ -40,5 +40,54 @@
     "comment_text": "100% agree with this approach! We actually offer free test renders for exactly this reason - no one wants to commit to a big job without knowing the real costs. If you want to test a few frames with us, we can give you an accurate estimate for the full sequence. Way better than guessing based on other people's projects.",
     "reason": "Supports the good advice about testing frames. This is a perfect opportunity to mention free test renders as a value-add. The comment is helpful and builds on existing good advice.",
     "comment_type": "reply"
+  },
+  {
+    "target_user": "VelvetElvis03",
+    "reddit_url": "https://www.reddit.com/r/archviz/comments/1fcnrlp/render_farm_pricing/lm9obq2/",
+    "comment_text": "Great breakdown! The 25-50% buffer is def smart - we've seen so many people get burned by underestimating. One thing I'd add is that GPU rendering can sometimes be more predictable cost-wise since the render times are usually more consistent. We run a GPU farm (Renderperk) and find that helps with budgeting since you're not dealing with as much variance in frame times. Also totally agree about watching renders like a hawk - we actually let you preview frames in real-time so you can catch issues early before wasting credits.",
+    "reason": "Builds on VelvetElvis03's excellent advice about buffers and watching renders. Adds value by mentioning GPU rendering predictability and real-time preview feature. The comment is helpful and adds to the conversation rather than just promoting.",
+    "comment_type": "reply"
+  },
+  {
+    "target_user": "SamWoody97",
+    "reddit_url": "https://www.reddit.com/r/archviz/comments/1fcnrlp/render_farm_pricing/lm9p3ed/",
+    "comment_text": "Yeah $0.50 per frame can add up real quick, especially for longer animations. We've found that GPU rendering tends to come in lower than that for most scenes - usually around $0.20-0.35 per frame depending on complexity. The parallel GPU processing really helps keep costs down compared to CPU farms. Worth testing a frame if you're open to trying GPU-based solutions! We do free test renders so you can see actual costs before committing.",
+    "reason": "Engages with SamWoody97's cost estimate. This is a natural place to mention GPU rendering advantages and offer value (free test render). The comment provides helpful information without being overly salesy.",
+    "comment_type": "reply"
+  },
+  {
+    "target_user": "satch87",
+    "reddit_url": "https://www.reddit.com/r/archviz/comments/1fcnrlp/render_farm_pricing/lm9tyzo/",
+    "comment_text": "Vantage is def a solid option for local rendering! If you're ever looking for cloud GPU rendering though, we run Renderperk which specializes in GPU rendering for Blender (and we're open to other software too). The advantage is you get access to multiple high-end GPUs working in parallel, so even complex scenes can render way faster than a single local GPU. Plus you can still use your PC while it's rendering. Just throwing it out there as an option if you need more firepower or want to free up your workstation!",
+    "reason": "Acknowledges the good Vantage suggestion while offering cloud GPU rendering as an alternative. The comment is helpful and positions Renderperk as complementary rather than competitive. Mentions Blender specialization naturally.",
+    "comment_type": "reply"
+  },
+  {
+    "target_user": "UncleRocco87",
+    "reddit_url": "https://www.reddit.com/r/archviz/comments/1fcnrlp/render_farm_pricing/lmeeh2p/",
+    "comment_text": "Wow that's a huge difference between high and low priority! The AI upscaling/interpolation trick is genius - we've had clients save like 40-50% doing exactly that. Rendering at lower res then upscaling is such a smart workaround. One thing we've noticed is that GPU rendering can sometimes help with the priority pricing too since frames render faster, so you might not need to pay the premium for high priority as often. Just something to consider if you're open to trying GPU-based farms!",
+    "reason": "Engages with UncleRocco87's excellent cost optimization advice. Adds value by mentioning GPU rendering's impact on priority pricing. The comment is helpful and builds on existing good advice.",
+    "comment_type": "reply"
+  },
+  {
+    "target_user": "monkriss",
+    "reddit_url": "https://www.reddit.com/r/archviz/comments/1fcnrlp/render_farm_pricing/lmcxf4t/",
+    "comment_text": "This is such good advice! Scene optimization is honestly the best way to save money on farms. One thing I'd add - if you're using Blender, the GPU rendering can sometimes handle those optimizations a bit differently, so you might be able to keep some of that detail without the same cost penalty. We've seen clients optimize their scenes for GPU rendering and get both better quality AND lower costs. Worth checking out if you're open to trying Blender or GPU-based rendering!",
+    "reason": "Supports monkriss's excellent optimization advice while adding value about GPU rendering benefits. The comment is helpful and naturally mentions Blender/GPU advantages without being pushy.",
+    "comment_type": "reply"
+  },
+  {
+    "target_user": "princejsl",
+    "reddit_url": "https://www.reddit.com/r/archviz/comments/1fcnrlp/render_farm_pricing/lmaez9x/",
+    "comment_text": "That's really generous of you to offer! The community helping each other out is awesome. If OP (or anyone else) needs something more scalable or if your setup gets busy, we run Renderperk - a GPU-based render farm. We try to keep costs reasonable since we know how tight budgets can be, especially for freelancers. The GPU setup can handle those tight deadlines pretty well too. Just throwing it out there as an option if peer-to-peer isn't feasible!",
+    "reason": "Acknowledges princejsl's generous offer without being competitive. Positions Renderperk as a scalable alternative when peer-to-peer isn't possible. The comment is supportive and community-focused.",
+    "comment_type": "reply"
+  },
+  {
+    "target_user": "Euclois",
+    "reddit_url": "https://www.reddit.com/r/archviz/comments/1fcnrlp/render_farm_pricing/lma0es8/",
+    "comment_text": "Totally agree about the peace of mind and being able to use your PC while rendering - that's honestly one of the biggest benefits people don't think about! The AI upscaling trick you mentioned is brilliant too. We run a GPU-based farm (Renderperk) and we've found that GPU rendering can sometimes make those AI upscaling workflows even more effective since the base renders are faster. Also, if you're ever doing Blender work, we specialize in that and can usually get even better pricing. Just fyi!",
+    "reason": "Engages with Euclois's points about convenience and AI upscaling. Adds value by mentioning how GPU rendering complements AI workflows. Naturally mentions Blender specialization. The comment is helpful and builds on existing good advice.",
+    "comment_type": "reply"
   }
 ]

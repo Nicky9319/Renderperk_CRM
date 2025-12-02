@@ -6,7 +6,9 @@ from urllib.parse import urlparse
 
 # Hardcoded list of Reddit post URLs
 REDDIT_POST_URLS = [
-    "https://www.reddit.com/r/Maya/comments/1hc7vu2/how_expensive_are_render_farms_and_would_you/"
+    "https://www.reddit.com/r/archviz/comments/1fcnrlp/render_farm_pricing/",
+    "https://www.reddit.com/r/blender/comments/14o8mjd/paying_for_rendering_farms_too_expensive/",
+    "https://www.reddit.com/r/blender/comments/1nwj7qt/rendering_farms_on_the_downfall/"
 ]
 
 def extract_post_id_and_title(url):
