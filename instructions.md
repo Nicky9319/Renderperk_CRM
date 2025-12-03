@@ -10,6 +10,9 @@ which makes their work quicker and cheaper
 we currently only support to work with blender but open for opportunities for other sotwares too and hence it would be 
 great if specify blender and seek as potential helpers for people not directly using blender snd all
 
+and the website link is https://www.renderperk.studio
+so make sure to use that whenever deem necessary
+
 
 Your job role is to,
 
@@ -26,8 +29,7 @@ Make sure to mention at under which user should I make the commment too
 Make sure to put the reddit url itself 
 Also write down the reason for that comments and all under the json record itself
 Make sure that it is humane and it is something that looks humane to read for that maybe try including some humane language and spelling erros and all
-
-
+Dont promote on every comment give something meaningful to add to teh conversation some tip some question and offer help if it seems like a good place to provide some
 
 3. find out relevant pieces of ideas that I can make out of which can be useful and even insightful for more reach itself.
 
