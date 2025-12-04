@@ -184,5 +184,47 @@
     "idea": "Create a blog post: 'Why Browser-Based Render Farm Management is a Game-Changer' - Highlight AmarildoJr's point about managing renders via any browser/device",
     "context": "AmarildoJr mentioned that FoxRenderfarm allows managing the render process via any browser for any device. This is a valuable feature that could be highlighted as a differentiator.",
     "target_audience": "Artists who want flexibility in managing their renders from different devices or locations"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/17izswq/render_farm/",
+    "idea": "Create a guide: 'Manual vs Automated Render Farms: When Does Personal Touch Matter Most?' - Use burimaliu's manual service model and SpringZestyclose2294's insight about troubleshooting value as examples",
+    "context": "burimaliu offers manual render farm services through Fiverr, providing personal touch and troubleshooting. SpringZestyclose2294 emphasized that troubleshooting and customization make manual farms more valuable than cloud farms. This highlights a key differentiator that could be valuable content.",
+    "target_audience": "Artists deciding between automated cloud farms and services with human support, especially those with complex projects needing troubleshooting"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/17izswq/render_farm/",
+    "idea": "Create content: 'Starting Your Own Small Render Farm: Lessons from Someone Who Just Started' - Use burimaliu's experience (2 weeks in, 15 GPUs, 2 clients, working on 24/7 shifts) as a case study",
+    "context": "burimaliu just started their render farm service 2 weeks ago with 15 GPUs, has 2 clients, and is working on 24/7 availability. This is a real-world example of starting small that could be valuable educational content for others considering this path.",
+    "target_audience": "Artists or entrepreneurs considering starting their own small render farm service"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/17izswq/render_farm/k6z3nk0/",
+    "idea": "Create a blog post: 'Why Timezone Coverage is Critical for Render Farm Success' - Use AmarildoJr's advice about conforming to client timezones and burimaliu's 24/7 shift planning as examples",
+    "context": "AmarildoJr emphasized that manual render farms need to conform to client timezones, otherwise clients will use automated farms when the operator is sleeping. burimaliu is working on 24/7 shifts to address this. This is a critical business consideration that could be valuable content.",
+    "target_audience": "Small render farm operators and artists considering offering manual rendering services"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/17izswq/render_farm/k6z3nk0/",
+    "idea": "Create a comparison guide: 'Render Farm App Quality Matters: Why Upload Issues Drive Customers Away' - Use AmarildoJr's experience with Fox Renderfarm's excellent app vs other farms' 'pure garbage' apps as examples",
+    "context": "AmarildoJr mentioned that many render farms have terrible apps that don't work or fail to upload necessary files (like simulation caches). They praised Fox Renderfarm's app for uploading entire folders correctly. This is a major pain point that could be addressed with educational content.",
+    "target_audience": "Artists frustrated with render farm upload issues, especially those working with complex scenes and simulation caches"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/17izswq/render_farm/k7dhnm3/",
+    "idea": "Create content: 'The Value of Human Support in Render Farms: Troubleshooting, Customization, and Real-Time Help' - Use SpringZestyclose2294's insight and burimaliu's approach of doing test renders and helping with issues",
+    "context": "SpringZestyclose2294 suggested that troubleshooting and customization capabilities make manual farms more valuable than cloud farms. burimaliu does test renders and helps clients fix issues (like glass flickering) before final renders. This human touch is a key differentiator that could be valuable content.",
+    "target_audience": "Artists who've had issues with automated render farms and value human support, especially those with complex projects needing troubleshooting"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/17izswq/render_farm/k76695o/",
+    "idea": "Create a guide: 'When Your Own Render Nodes Fail: Backup Options for Artists Building Their Own Farms' - Use photographer_00's situation (technical problems with own nodes, needs rendering for big projects) as an example",
+    "context": "photographer_00 owns GPUs and is trying to create nodes but having technical problems. They have big projects coming up and need rendering services until their nodes are fixed. This is a common scenario that could be addressed with content about backup options and when to use external services.",
+    "target_audience": "Artists building their own render nodes who need backup options when things go wrong, especially those with urgent projects"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/17izswq/render_farm/",
+    "idea": "Create a case study: 'From 2 Clients to Scaling: Early Days of a Small Render Farm' - Document burimaliu's journey (2 weeks in, 2 clients, planning 24/7 shifts, providing free test renders) as a growth story",
+    "context": "burimaliu just started 2 weeks ago, has 2 clients, provides free test renders, and is working on 24/7 availability. This is a real example of starting small that could be valuable content for others, and could position Renderperk as understanding the small operator perspective.",
+    "target_audience": "Small render farm operators and artists considering starting their own service"
   }
 ]

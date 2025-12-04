@@ -183,5 +183,25 @@
     "username": "Cloueeny",
     "reddit_url": "https://www.reddit.com/user/Cloueeny",
     "role": "Commenter - uses Fox Renderfarm for rendering and really likes it"
+  },
+  {
+    "username": "burimaliu",
+    "reddit_url": "https://www.reddit.com/user/burimaliu",
+    "role": "Original poster - offering render farm services with 15 GPUs total, operates through Fiverr, manually handles renders (not cloud-based), just started 2 weeks ago with 2 clients, working on 24/7 availability with shifts, provides free test renders and helps troubleshoot issues"
+  },
+  {
+    "username": "AmarildoJr",
+    "reddit_url": "https://www.reddit.com/user/AmarildoJr",
+    "role": "Commenter - provided advice about customer care and timezone considerations for manual render farms, recommended Fox Renderfarm as best farm they've worked with, praised their 24/7 Skype support, fast response times, and excellent app that uploads entire folders"
+  },
+  {
+    "username": "photographer_00",
+    "reddit_url": "https://www.reddit.com/user/photographer_00",
+    "role": "Commenter - owns GPUs and trying to create 1-2 nodes but having technical problems, has big projects coming up with very limited budget, interested in trying render farm services until nodes are fixed"
+  },
+  {
+    "username": "SpringZestyclose2294",
+    "reddit_url": "https://www.reddit.com/user/SpringZestyclose2294",
+    "role": "Commenter - suggested that troubleshooting and customization capabilities would make manual render farms more valuable than cloud farms, emphasized importance of real person response and 24/7 availability"
   }
 ]

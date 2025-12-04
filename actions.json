@@ -160,5 +160,33 @@
     "comment_text": "That's great to hear! Fox Renderfarm seems to work well for a lot of people. We run Renderperk which uses GPU rendering - if you're ever doing Blender work or want to try GPU-based rendering, we specialize in that and can usually offer competitive pricing. Just another option if you're ever looking to compare!",
     "reason": "Acknowledges Cloueeny's positive experience with Fox Renderfarm. Naturally mentions Renderperk and GPU rendering advantages. Friendly, non-competitive tone.",
     "comment_type": "reply"
+  },
+  {
+    "target_user": "burimaliu",
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/17izswq/render_farm/",
+    "comment_text": "Hey, that's awesome that you're offering this service! The manual approach with personal touch is def valuable - I saw someone else mention that troubleshooting and customization can make manual farms more valuable than cloud ones. We run Renderperk which is GPU-based and specializes in Blender (though open to other software too). If you ever want to scale up or need backup capacity, feel free to reach out. Also, the 24/7 shifts thing is smart - timezone coverage is huge for keeping clients happy. Good luck with growing it!",
+    "reason": "Engages with OP who is offering similar services. Acknowledges their approach positively, mentions GPU rendering and Blender specialization naturally. Supportive and community-focused rather than competitive. Adds value by acknowledging their good practices (24/7 shifts).",
+    "comment_type": "top_level"
+  },
+  {
+    "target_user": "AmarildoJr",
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/17izswq/render_farm/k6z3nk0/",
+    "comment_text": "This is such solid advice! The timezone thing is huge - clients def need that flexibility when they're on tight deadlines. And yeah, those app issues are frustrating - we've heard similar complaints from people trying other farms. The folder upload thing you mentioned about Fox sounds really useful. We run Renderperk which uses GPU rendering and we try to keep the upload process simple too - just send your files and we handle the rest. Plus if you're doing Blender work, GPU rendering can be way faster and more cost-effective. Just throwing it out there as another option if you're ever looking to compare!",
+    "reason": "Engages with AmarildoJr's excellent advice about customer care and timezone considerations. Acknowledges their positive experience with Fox Renderfarm while naturally mentioning Renderperk's GPU rendering advantages. Helpful and informative tone with slight casual spelling.",
+    "comment_type": "reply"
+  },
+  {
+    "target_user": "photographer_00",
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/17izswq/render_farm/k76695o/",
+    "comment_text": "Hey! I totally get the technical issues with nodes - that stuff can be frustrating when you're trying to get things working. We run Renderperk, a GPU-based render farm that specializes in Blender (though we're open to other software too). Since you mentioned limited budget, GPU rendering tends to be more cost-effective than CPU farms, and we try to keep pricing reasonable for smaller creators. Happy to do a test render so you can see actual costs before committing - might be worth checking out while you're fixing your nodes! Feel free to check us out at https://www.renderperk.studio if you want to see if it works for your projects.",
+    "reason": "Direct response to photographer_00's need for rendering with limited budget. Acknowledges their technical problems sympathetically. Offers value (test render) and mentions GPU rendering cost advantages. Natural, helpful tone with slight casual language. Includes website link as per instructions.",
+    "comment_type": "reply"
+  },
+  {
+    "target_user": "SpringZestyclose2294",
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/17izswq/render_farm/k7dhnm3/",
+    "comment_text": "This is such a good point! The troubleshooting and real person response is honestly what sets manual farms apart from fully automated cloud ones. We run Renderperk which uses GPU rendering, and while we're more automated than a Fiverr-style service, we still try to keep that personal touch - quick responses, helping troubleshoot issues, doing test renders to catch problems early. The GPU setup helps keep costs down too, especially for Blender work. It's that balance between convenience and having someone actually help you when things go wrong, you know?",
+    "reason": "Engages with SpringZestyclose2294's insight about troubleshooting and personal response value. Acknowledges the importance of human support while mentioning Renderperk's approach. Natural, conversational tone that adds to the discussion.",
+    "comment_type": "reply"
   }
 ]
