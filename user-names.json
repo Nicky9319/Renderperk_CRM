@@ -203,5 +203,60 @@
     "username": "SpringZestyclose2294",
     "reddit_url": "https://www.reddit.com/user/SpringZestyclose2294",
     "role": "Commenter - suggested that troubleshooting and customization capabilities would make manual render farms more valuable than cloud farms, emphasized importance of real person response and 24/7 availability"
+  },
+  {
+    "username": "Specialist-Bed9504",
+    "reddit_url": "https://www.reddit.com/user/Specialist-Bed9504",
+    "role": "Original poster - asking about render farms for freelance/personal work, has decent machine (i9 13th, 4070ti, 64gb DDR5), sends to farm if render projected to take more than 10hrs, also uses gridmarkets and interested in online siming resources"
+  },
+  {
+    "username": "vfxjockey",
+    "reddit_url": "https://www.reddit.com/user/vfxjockey",
+    "role": "Commenter - uses gridmarkets all the time, mentions fantastic customer service and perfect Houdini integration, doesn't render or sim locally unless no internet, explains gridmarkets pricing is based on processor time"
+  },
+  {
+    "username": "ColonelPanic0101",
+    "reddit_url": "https://www.reddit.com/user/ColonelPanic0101",
+    "role": "Commenter - explains how to use grid markets file cache node to run sims online"
+  },
+  {
+    "username": "CinemaZiggy",
+    "reddit_url": "https://www.reddit.com/user/CinemaZiggy",
+    "role": "Commenter - asks about general cost estimates for sim and render costs per project"
+  },
+  {
+    "username": "saucermoron",
+    "reddit_url": "https://www.reddit.com/user/saucermoron",
+    "role": "Commenter - mentions Fox render farm has one-click upload (upload hip file, automatically uploads all referenced files and sims), also states 'We use fox all the time. Can't complain.'"
+  },
+  {
+    "username": "joncorv",
+    "reddit_url": "https://www.reddit.com/user/joncorv",
+    "role": "Commenter - recommends Fox render farm, says it's far more affordable than gridmarkets, supports essentially all packages and renderers, great customer support, mentions standalone app that processes hip file and sends to farm, great support via Skype"
+  },
+  {
+    "username": "glintsCollide",
+    "reddit_url": "https://www.reddit.com/user/glintsCollide",
+    "role": "Commenter - asks about Houdini integration comparison between Fox render farm and Gridmarkets"
+  },
+  {
+    "username": "reapergrim94",
+    "reddit_url": "https://www.reddit.com/user/reapergrim94",
+    "role": "Commenter - asks if Rebus supports Houdini"
+  },
+  {
+    "username": "gutster_95",
+    "reddit_url": "https://www.reddit.com/user/gutster_95",
+    "role": "Commenter (Premium user) - recommends Rebus, says they used it a lot, always very helpful support, doesn't know how it is outside of Germany but can recommend it"
+  },
+  {
+    "username": "Any-Walrus-5941",
+    "reddit_url": "https://www.reddit.com/user/Any-Walrus-5941",
+    "role": "Commenter (Effects Artist flair) - uses Ranch Computing sometimes, plans renders for end of day to render overnight, sends shots to farm when that's not likely"
+  },
+  {
+    "username": "Tricky-Chocolate-304",
+    "reddit_url": "https://www.reddit.com/user/Tricky-Chocolate-304",
+    "role": "Commenter - uses XRener because it's the only render farm they can find that supports D5 render (not real-time type)"
   }
 ]

@@ -226,5 +226,59 @@
     "idea": "Create a case study: 'From 2 Clients to Scaling: Early Days of a Small Render Farm' - Document burimaliu's journey (2 weeks in, 2 clients, planning 24/7 shifts, providing free test renders) as a growth story",
     "context": "burimaliu just started 2 weeks ago, has 2 clients, provides free test renders, and is working on 24/7 availability. This is a real example of starting small that could be valuable content for others, and could position Renderperk as understanding the small operator perspective.",
     "target_audience": "Small render farm operators and artists considering starting their own service"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Houdini/comments/1afjqp7/render_farms/",
+    "idea": "Create a guide: 'When to Use Render Farms: The 10-Hour Rule and Beyond' - Use OP's threshold (sends to farm if render > 10hrs) as a framework for helping artists decide when farms make sense",
+    "context": "OP has a decent machine (i9 13th, 4070ti, 64gb DDR5) but uses farms for renders projected to take more than 10hrs. This is a practical decision-making framework that could help many artists understand when to use farms vs local rendering.",
+    "target_audience": "Freelancers and personal project artists trying to decide when render farms are worth it"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Houdini/comments/1afjqp7/render_farms/",
+    "idea": "Create content: 'Houdini Render Farm Comparison: Gridmarkets vs Fox Renderfarm vs Rebus vs Others' - Compile user experiences from the thread into a comprehensive comparison guide",
+    "context": "Multiple users shared experiences with different render farms (Gridmarkets, Fox Renderfarm, Rebus, Ranch Computing, XRener). A comprehensive comparison would be valuable for Houdini users choosing a render farm.",
+    "target_audience": "Houdini users comparing render farm options for their projects"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Houdini/comments/1afjqp7/render_farms/",
+    "idea": "Create a guide: 'Online Simulation Rendering: Running Houdini Sims in the Cloud' - Address OP's interest in online siming resources and explain how cloud siming works",
+    "context": "OP asked for resources about online siming, showing interest in running simulations in the cloud. This is a specific workflow need that could be addressed with educational content explaining cloud siming benefits and processes.",
+    "target_audience": "Houdini users interested in running simulations in the cloud, especially those with limited local resources"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Houdini/comments/1afjqp7/render_farms/koah1v8/",
+    "idea": "Create content: 'Why Perfect Software Integration Matters: Houdini Render Farm Integration Deep Dive' - Use vfxjockey's comment about gridmarkets' perfect Houdini integration as a case study",
+    "context": "vfxjockey emphasized that gridmarkets 'integrates perfectly into Houdini' and doesn't render/sim locally unless no internet. This highlights the importance of seamless integration. Content explaining what makes good integration could be valuable.",
+    "target_audience": "Houdini users prioritizing workflow integration when choosing render farms"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Houdini/comments/1afjqp7/render_farms/koamrza/",
+    "idea": "Create a comparison post: 'Affordable Render Farms for Houdini: Fox Renderfarm vs Gridmarkets vs GPU Alternatives' - Address joncorv's point about Fox being more affordable than gridmarkets",
+    "context": "joncorv mentioned Fox Renderfarm is 'far more affordable than gridmarkets.' This cost comparison is valuable information. A comprehensive comparison including GPU rendering options could help artists find the best value.",
+    "target_audience": "Houdini users looking for affordable render farm options, especially those comparing Fox and Gridmarkets"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Houdini/comments/1afjqp7/render_farms/komepyi/",
+    "idea": "Create content: 'One-Click Upload: Why Automated File Upload is Critical for Render Farms' - Use saucermoron's comment about Fox's one-click upload feature as an example",
+    "context": "saucermoron mentioned Fox render farm has 'one click. Upload the hip file, automatically uploads all the referenced files and sims.' This ease of use is a major selling point. Content highlighting the importance of automated uploads could be valuable.",
+    "target_audience": "Houdini users frustrated with complex upload processes, especially those working with complex scenes and simulations"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Houdini/comments/1afjqp7/render_farms/koajp68/",
+    "idea": "Create a workflow guide: 'Planning Overnight Renders vs Using Render Farms: When Each Makes Sense' - Use Any-Walrus-5941's workflow (planning overnight renders, using farms when needed) as a framework",
+    "context": "Any-Walrus-5941 (Effects Artist) described a smart workflow: planning renders for end of day to render overnight, then using farms when that's not feasible. This is a practical approach that could help many artists optimize their rendering strategy.",
+    "target_audience": "Houdini artists trying to balance local rendering and render farms, especially those with time management considerations"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Houdini/comments/1afjqp7/render_farms/koeylxb/",
+    "idea": "Create content: 'Specialized Render Farm Needs: Finding Farms for Niche Software (D5 Render, etc.)' - Address Tricky-Chocolate-304's need for D5 render support",
+    "context": "Tricky-Chocolate-304 uses XRener because it's the only render farm that supports D5 render (not real-time type). This highlights a pain point for users with specialized software needs. Content about finding farms for niche software could be valuable.",
+    "target_audience": "Artists using specialized or less common rendering software who struggle to find compatible render farms"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Houdini/comments/1afjqp7/render_farms/kocbw4m/",
+    "idea": "Create a guide: 'Understanding Render Farm Pricing: Processor Time vs Per-Frame vs GPU Pricing Models' - Address vfxjockey's explanation that gridmarkets pricing is based on processor time",
+    "context": "vfxjockey explained that gridmarkets pricing is 'based on processor time. No way to know until you spec out your project.' This reveals different pricing models. Educational content explaining different pricing structures could help artists understand costs better.",
+    "target_audience": "Houdini users confused about render farm pricing models and how to estimate costs"
   }
 ]
