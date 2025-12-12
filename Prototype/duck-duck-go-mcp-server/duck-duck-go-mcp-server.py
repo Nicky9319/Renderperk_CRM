@@ -10,6 +10,7 @@ from starlette.responses import Response, StreamingResponse
 from starlette.requests import Request
 import uvicorn
 from duckduckgo_search import DDGS
+import argparse
 
 # Create MCP server instance
 mcp_server = Server("duckduckgo-search")
@@ -243,8 +244,13 @@ app = Starlette(
 )
 
 if __name__ == "__main__":
-    print("Starting DuckDuckGo MCP Server on http://0.0.0.0:8000")
-    print("SSE endpoint: http://0.0.0.0:8000/sse (GET)")
-    print("Messages endpoint: http://0.0.0.0:8000/messages (POST)")
-    print("Health check: http://0.0.0.0:8000/health")
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    
+    parser = argparse.ArgumentParser(description="DuckDuckGo MCP Server")
+    parser.add_argument("--port", type=int, default=8000, help="Port to run the server on (default: 8000)")
+    args = parser.parse_args()
+    
+    print(f"Starting DuckDuckGo MCP Server on http://0.0.0.0:{args.port}")
+    print(f"SSE endpoint: http://0.0.0.0:{args.port}/sse (GET)")
+    print(f"Messages endpoint: http://0.0.0.0:{args.port}/messages (POST)")
+    print(f"Health check: http://0.0.0.0:{args.port}/health")
+    uvicorn.run(app, host="0.0.0.0", port=args.port)
