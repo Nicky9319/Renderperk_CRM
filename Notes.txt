@@ -1,0 +1,12 @@
+Research Agent
+- Haiku 4.5 -> Best but paid (Very less though)
+- gpt-5.1-mini and Grok Code Fast 1 -> performs similarly good, a little less than the Haiku 
+- Cursor auto mode -> performs really good able to Carve out a lot of information just like Haiku
+
+
+Polish to Blog Agent
+- gpt-5.1-mini -> concise and humane and too the points (realy good)
+- Cursor auto mode -> Fetches out to much info that is overwhelming inside a blog itself 
+- Cursor Haiku 4.5 -> Fetched out too much info, very overwhelming not humane friendly 
+- Grok Code Fast 1 -> very Fast, spits outs a ton of content not humane or something readable in blogs
+

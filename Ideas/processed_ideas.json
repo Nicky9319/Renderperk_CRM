@@ -6,5 +6,13 @@
     "target_audience": "3D artists looking to understand render farm pricing, especially those new to using farms",
     "processed_date": "2025-12-13",
     "status": "research_and_brief_completed"
+  },
+  {
+    "reddit_url": "https://www.reddit.com/r/Maya/comments/1hc7vu2/how_expensive_are_render_farms_and_would_you/",
+    "idea": "Create a comparison post: 'CPU vs GPU Rendering: When Does Each Make Sense?' - Address the specific pain point mentioned (OP can't use Arnold GPU without NVIDIA card, stuck on CPU)",
+    "context": "Multiple comments mention GPU vs CPU rendering. OP specifically mentioned being limited to CPU rendering. This is a pain point that could be addressed with educational content showing how render farms solve this problem.",
+    "target_audience": "Artists with hardware limitations who don't realize render farms can provide GPU access",
+    "processed_date": "2025-01-27",
+    "status": "research_and_brief_completed"
   }
 ]
