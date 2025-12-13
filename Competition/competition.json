@@ -1124,30 +1124,141 @@
     "marketing_approach": "Direct recommendations highlighting scalability and pricing",
     "business_execution": "Provides scalable cloud rendering with competitive pricing"
   },
-  {
-    "render_farm_name": "RenderStreet",
-    "website": "render.st",
-    "mentioned_count": 1,
-    "pros": [
-      {
-        "point": "Monthly plan that may be perfect for ongoing projects",
-        "mentioned_count": 1,
-        "context": "mgi7 recommended RenderStreet's monthly plan as potentially perfect for the OP's needs.",
-        "sources": [
-          {
-            "user": "mgi7",
-            "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hh4wtv4/",
-            "quote": "You can look at RenderStreet's [monthly plan](https://render.st/one/), it may be the perfect thing for you."
-          }
-        ]
-      }
-    ],
-    "cons": [],
-    "business_model": "Cloud-based render farm with subscription plans",
-    "target_market": "Users with ongoing rendering needs",
-    "scale": "Established render farm with subscription model",
-    "potential_bottlenecks": "None mentioned in thread",
-    "marketing_approach": "Subscription-based pricing for regular users",
-    "business_execution": "Offers subscription plans suitable for ongoing work"
-  }
-]
+   {
+     "render_farm_name": "RenderStreet",
+     "website": "render.st",
+     "mentioned_count": 1,
+     "pros": [
+       {
+         "point": "Monthly plan that may be perfect for ongoing projects",
+         "mentioned_count": 1,
+         "context": "mgi7 recommended RenderStreet's monthly plan as potentially perfect for the OP's needs.",
+         "sources": [
+           {
+             "user": "mgi7",
+             "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hh4wtv4/",
+             "quote": "You can look at RenderStreet's [monthly plan](https://render.st/one/), it may be the perfect thing for you."
+           }
+         ]
+       }
+     ],
+     "cons": [],
+     "business_model": "Cloud-based render farm with subscription plans",
+     "target_market": "Users with ongoing rendering needs",
+     "scale": "Established render farm with subscription model",
+     "potential_bottlenecks": "None mentioned in thread",
+     "marketing_approach": "Subscription-based pricing for regular users",
+     "business_execution": "Offers subscription plans suitable for ongoing work"
+   },
+   {
+     "render_farm_name": "Chaos Cloud",
+     "website": "chaosgroup.com/cloud",
+     "mentioned_count": 3,
+     "pros": [
+       {
+         "point": "Excellent for animations with significant speed improvements",
+         "mentioned_count": 1,
+         "context": "VelvetElvis03 mentioned Chaos Cloud provides 8 hours vs 8 days compared to in-house farm for animations, showing dramatic time savings.",
+         "sources": [
+           {
+             "user": "VelvetElvis03",
+             "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kib696p/",
+             "quote": "For animations, it totally is. It is a difference of 8 hours versus 8 days compared to our in-house farm."
+           }
+         ]
+       },
+       {
+         "point": "Game changer for freelancers with easy integration",
+         "mentioned_count": 1,
+         "context": "Eotechh_9616 called Chaos Cloud a 'real game changer' for freelancers, with recent updates allowing rendering within 3 clicks without leaving Max, syncing to GDrive.",
+         "sources": [
+           {
+             "user": "Eotechh_9616",
+             "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kic75eb/",
+             "quote": "For me the speed and ease of use of Chaos Cloud has been a real game changer for me as a freelancer. With the more recent updates, I don't even have to leave Max at all, within 3 clicks I've got a render going and I can have the HD done within an hour, synced back into my GDrive."
+           }
+         ]
+       },
+       {
+         "point": "More cost-effective for still images than in-house CPU farms",
+         "mentioned_count": 1,
+         "context": "VelvetElvis03 noted that for day-to-day still images, Chaos Cloud is more cost-effective than their in-house CPU farm.",
+         "sources": [
+           {
+             "user": "VelvetElvis03",
+             "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kib696p/",
+             "quote": "However, for the day to day still images, the in-house cost is more effective."
+           }
+         ]
+       },
+       {
+         "point": "Worry-free rendering experience",
+         "mentioned_count": 1,
+         "context": "Eotechh_9616 mentioned Chaos Cloud is 'worry-free', indicating reliable service.",
+         "sources": [
+           {
+             "user": "Eotechh_9616",
+             "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kic75eb/",
+             "quote": "maybe not the cheapest but worry free"
+           }
+         ]
+       },
+       {
+         "point": "No maintenance burden compared to in-house farms",
+         "mentioned_count": 1,
+         "context": "VelvetElvis03 explained that management didn't want the burden of maintaining farm machines, preferring cloud services.",
+         "sources": [
+           {
+             "user": "VelvetElvis03",
+             "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kib696p/",
+             "quote": "They just don't want the burden of the farm machines, even though it was the small viz group that did 100% of the upkeep of the farm."
+           }
+         ]
+       }
+     ],
+     "cons": [
+       {
+         "point": "Higher long-term costs compared to building in-house farm",
+         "mentioned_count": 1,
+         "context": "VelvetElvis03 calculated that Chaos Cloud costs $6k/year vs $12k one-time for in-house farm with 3-year payback, concluding cloud doesn't provide return on investment.",
+         "sources": [
+           {
+             "user": "VelvetElvis03",
+             "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kib696p/",
+             "quote": "We spent about 6k last year in cloud costs and to build a farm that's only 14% slower than the cloud would have been a one time cost of about 12k. Or last in studio farm lasted us 8 years, so cost overall, having a farm in-house is so much more cost effective. You can even use Deadline to turn off or start the farm if say over the weekend you don't have any work to save power costs."
+           }
+         ]
+       },
+       {
+         "point": "Not the cheapest option available",
+         "mentioned_count": 1,
+         "context": "Eotechh_9616 acknowledged that Chaos Cloud is 'maybe not the cheapest', indicating there are more affordable alternatives.",
+         "sources": [
+           {
+             "user": "Eotechh_9616",
+             "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kic75eb/",
+             "quote": "maybe not the cheapest but worry free"
+           }
+         ]
+       },
+       {
+         "point": "Requires learning Vray for optimal use",
+         "mentioned_count": 1,
+         "context": "VelvetElvis03 mentioned that Chaos Cloud requires learning Vray, which could be a barrier for users not familiar with the software.",
+         "sources": [
+           {
+             "user": "VelvetElvis03",
+             "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kib696p/",
+             "quote": "We finally put that farm to rest last year and have been on Chaos cloud with vray."
+           }
+         ]
+       }
+     ],
+     "business_model": "Cloud-based render farm service specialized for Vray",
+     "target_market": "Vray users, especially in animation and professional workflows",
+     "scale": "Established service backed by Chaos Group",
+     "potential_bottlenecks": "Higher cost compared to building in-house, requires Vray knowledge, ongoing subscription costs",
+     "marketing_approach": "Word-of-mouth recommendations from satisfied Vray users, positioned as premium reliable service",
+     "business_execution": "Provides reliable, worry-free service for Vray users with strong integration and speed advantages for animations. Key strengths: ease of use for freelancers, dramatic speed improvements for animations. Main weakness: higher long-term costs compared to in-house solutions. Users appreciate the 'worry-free' aspect and lack of maintenance burden."
+   }
+ ]

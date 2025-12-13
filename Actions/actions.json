@@ -161,8 +161,36 @@
     "comment_type": "reply"
    },
    {
-    "Done Till Here": true
+     "target_user": "RenderSlaver",
+     "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/",
+     "comment_text": "Hey, building your own farm sounds smart for the long term! One thing to consider though - GPU rendering can be way faster than CPU for a lot of workloads. We run Renderperk, a GPU-based farm that specializes in Blender but we're open to other software too. For your 3ds max and Corona setup, GPU could potentially cut those render times significantly. Have you looked into GPU options at all? We do free test renders if you wanna see how it compares!",
+     "reason": "Direct response to OP's main question about building a render farm. Highlights GPU advantages over CPU rendering which is exactly what OP is planning. Offers value with free test render. Humane tone with casual language and slight spelling (wanna).",
+     "comment_type": "top_level"
    },
+   {
+     "target_user": "JoePatowski",
+     "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kiavse0/",
+     "comment_text": "A render farm is basically a bunch of computers working together to render your stuff faster. Instead of one computer doing all the frames, you split the work across multiple machines. For animations, one computer might do frame 1, another frame 2, etc. For stills, multiple computers work on the same image at once. The cool thing is you can use GPU rendering now which makes it even faster. We run Renderperk with GPU farms - check out https://www.renderperk.studio if you wanna learn more!",
+     "reason": "Direct answer to beginner question about what render farms are. Provides clear, simple explanation. Adds value by mentioning GPU rendering. Includes website link as per instructions. Humane and educational tone.",
+     "comment_type": "reply"
+   },
+   {
+     "target_user": "VelvetElvis03",
+     "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kib696p/",
+     "comment_text": "This is such solid advice! The Deadline setup and cost breakdown is really helpful. One thing I'd add - GPU rendering can make those cost comparisons even better since it's more efficient. We specialize in GPU farms at Renderperk, mainly for Blender but open to other stuff. For projects like this, GPU could help keep costs down while speeding things up. What do you think about GPU vs CPU for long-term farm costs?",
+     "reason": "Builds on VelvetElvis03's excellent advice by adding GPU perspective. Asks question to continue conversation. Shows understanding of their cost analysis. Humane tone with slight casual language.",
+     "comment_type": "reply"
+   },
+   {
+     "target_user": "hankus_visuals",
+     "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kie5vzg/",
+     "comment_text": "Thanks for the clear explanation! Server-grade motherboards for dual CPUs is smart for max performance. Have you tried GPU rendering setups? They can be really efficient for distributed work too. We run GPU farms at Renderperk - mainly Blender but we're flexible. Just curious how GPU compares to those high-core CPU setups you've worked with!",
+     "reason": "Acknowledges good advice and asks question to engage. Shows interest in their hardware expertise. Humane and conversational.",
+     "comment_type": "reply"
+   },
+   {
+     "Done Till Here": true
+    },
   {
     "target_user": "True_Shift1396",
     "reddit_url": "https://www.reddit.com/r/blender/comments/14o8mjd/paying_for_rendering_farms_too_expensive/jqbvon3/",

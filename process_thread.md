@@ -66,7 +66,7 @@ Append new role/context entries to the existing context array
 
 Do NOT create a new personal_dm
 
-If a user already exists in user-names.json:
+If a user already exists in user-names.json (inside the users folder):
 
 Merge new context into their record
 
@@ -115,7 +115,7 @@ Be suitable for long-term outreach (networking, feedback, advisory, etc.)
 
 2. Find out the relevant context for the initial conversation and find out the relevant comments at the relevant places that I can make to intitial meaning full conversation and even to provide value so that my activity on reddit increases and all
 
-Need to add the comments I need to make all of that in the actions.json file itself.
+Need to add the comments I need to make all of that in the actions.json file itself. (inside the Actions folder)
 Make sure to mention at under which user should I make the commment too
 Make sure to put the reddit url itself 
 Also write down the reason for that comments and all under the json record itself
@@ -127,14 +127,14 @@ this is the link of the website itself so we need to include the website link in
 
 3. find out relevant pieces of ideas that I can make out of which can be useful and even insightful for more reach itself.
 
-Need to add the ideas in the ideas.json file itself
+Need to add the ideas in the ideas.json file itself (inside the ideas folder)
 Make sure to link to the correct reddit url for the idea 
 Add proper context in respective json record for the same.
 
 
 4. Do competion analysis figure out the render famrs which people are talking about 
 
-In the json file make a record for all the unique render farms names found in it
+In the json file (Inside the Competition Folder) make a record for all the unique render farms names found in it
 for competetor record stores the positives the users are saying the negative users are saying
 Store all the relevant context found regarding them (How they Market, Scale, potential bottlenecks, business execution etc...)
 also make sure to having a counter so that we can have data about how many people are syaing the same thing

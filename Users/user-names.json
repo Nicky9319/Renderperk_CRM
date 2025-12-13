@@ -111,15 +111,24 @@
       }
     ]
   },
-  {
-    "username": "VelvetElvis03",
-    "context": [
-      {
-        "reddit_url": "https://www.reddit.com/user/VelvetElvis03",
-        "role": "Commenter - shared detailed experience with Chaos Cloud and Rebus, provided cost estimates ($4000 for 5000 credit pack), mentioned importance of previewing renders and adding 25-50% buffer to estimates"
-      }
-    ]
-  },
+   {
+     "username": "VelvetElvis03",
+     "context": [
+       {
+         "reddit_url": "https://www.reddit.com/user/VelvetElvis03",
+         "role": "Commenter - shared detailed experience with Chaos Cloud and Rebus, provided cost estimates ($4000 for 5000 credit pack), mentioned importance of previewing renders and adding 25-50% buffer to estimates"
+       },
+       {
+         "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kib696p/",
+         "role": "Commenter - provided detailed hardware recommendations (RAM, CPU, cooling), explained Deadline render manager setup, shared cost comparison between in-house farm ($12k one-time) vs Chaos Cloud ($6k/year), emphasized GPU rendering advantages for still images vs animations"
+       }
+     ],
+     "personal_dm": {
+       "message": "Hi VelvetElvis03, I noticed your detailed insights on render farm hardware and cost comparisons between in-house and cloud solutions. We're building Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Your experience with Deadline and Chaos Cloud would be incredibly valuable - would love to hear your thoughts on how GPU rendering fits into professional workflows.",
+       "reason": "User demonstrates deep technical knowledge of render farm operations, cost analysis, and hardware optimization, making them an ideal contact for expert feedback on GPU rendering solutions."
+     },
+     "reddit_url": "https://www.reddit.com/user/VelvetElvis03"
+   },
   {
     "username": "SamWoody97",
     "context": [
@@ -444,15 +453,112 @@
       }
     ]
   },
-  {
-    "username": "cstoof",
-    "context": [
-      {
-        "reddit_url": "https://www.reddit.com/user/cstoof",
-        "role": "Commenter (FX Lead flair) - Experienced professional explaining that big studios have own render farms but use cloud when overburdened"
-      }
-    ]
-  },
+   {
+     "username": "cstoof",
+     "context": [
+       {
+         "reddit_url": "https://www.reddit.com/user/cstoof",
+         "role": "Commenter (FX Lead flair) - Experienced professional explaining that big studios have own render farms but use cloud when overburdened"
+       }
+     ],
+     "personal_dm": {
+       "message": "Hi cstoof, I saw your insights on how big studios balance local and cloud render farms. We're building Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Your perspective on production environments would be incredibly valuable - would love to hear your thoughts on GPU rendering for VFX workflows.",
+       "reason": "User is an FX Lead with senior-level industry experience and provides practical insights relevant to render farm workflows."
+     },
+     "reddit_url": "https://www.reddit.com/user/cstoof"
+   },
+   {
+     "username": "RenderSlaver",
+     "context": [
+       {
+         "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/",
+         "role": "Original poster - team spent £8k on render farms over 4 years, considering building own CPU farm with 3ds max and Corona, needs remote access, asks for hardware and software advice"
+       },
+       {
+         "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kibbq0v/",
+         "role": "Commenter - replied to VelvetElvis03 asking if they moved to Chaos Cloud due to cost issues, showing interest in cost analysis"
+       }
+     ],
+     "personal_dm": {
+       "message": "Hi RenderSlaver, I noticed your post about building a render farm and the costs you've experienced with rented services. We're developing Renderperk, a GPU-based render farm that specializes in Blender but open to other software. GPU rendering could potentially cut your render times significantly compared to CPU - have you considered GPU options for your 3ds max and Corona workflow?",
+       "reason": "User is actively researching render farm solutions and has budget concerns, showing immediate need for cost-effective rendering alternatives."
+     },
+     "reddit_url": "https://www.reddit.com/user/RenderSlaver"
+   },
+   {
+     "username": "fontesph",
+     "context": [
+       {
+         "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kia474a/",
+         "role": "Commenter - advised against uploading files, recommended synchronized drives (Dropbox/Synology), suggested fewer but more powerful computers for easier maintenance, offered help with remote working structure"
+       }
+     ],
+     "personal_dm": {
+       "message": "Hi fontesph, I saw your practical advice on building render farm infrastructure and remote access solutions. We're building Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Your experience with synchronized drives and maintenance strategies would be really helpful - would love to hear your thoughts on GPU rendering for distributed workflows.",
+       "reason": "User provides technical advice on render farm setup and remote collaboration, indicating expertise in infrastructure management."
+     },
+     "reddit_url": "https://www.reddit.com/user/fontesph"
+   },
+   {
+     "username": "JoePatowski",
+     "context": [
+       {
+         "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kiavse0/",
+         "role": "Commenter - asked 'What's a render farm and its purpose?' showing beginner-level knowledge"
+       }
+     ],
+     "personal_dm": {
+       "message": "Hi JoePatowski, I noticed your question about what render farms are - that's a great question for anyone starting out! We're building Renderperk, a GPU-based render farm that specializes in Blender but open to other software. GPU rendering makes the whole process faster and more accessible. Have you had a chance to try any render farm services yet?",
+       "reason": "User shows beginner-level interest in render farms, indicating potential for education and onboarding to GPU rendering solutions."
+     },
+     "reddit_url": "https://www.reddit.com/user/JoePatowski"
+   },
+   {
+     "username": "hankus_visuals",
+     "context": [
+       {
+         "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kie5vzg/",
+         "role": "Commenter - explained render farm basics (distributed rendering for faster completion), gave hardware advice (server-grade motherboards for dual CPUs, second-hand bulk purchases)"
+       },
+       {
+         "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kie61yd/",
+         "role": "Commenter - suggested studio buys server-grade motherboards for dual CPU support, mentioned second-hand bulk purchases"
+       }
+     ],
+     "personal_dm": {
+       "message": "Hi hankus_visuals, I appreciated your clear explanation of render farm basics and hardware recommendations. We're developing Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Your insights on server-grade hardware would be valuable - have you worked with GPU rendering setups before?",
+       "reason": "User demonstrates knowledge of render farm fundamentals and hardware procurement, showing technical expertise in infrastructure."
+     },
+     "reddit_url": "https://www.reddit.com/user/hankus_visuals"
+   },
+   {
+     "username": "Eotechh_9616",
+     "context": [
+       {
+         "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kic75eb/",
+         "role": "Commenter - shared experience using Chaos Cloud freelance, praised speed and ease of use, mentioned recent updates allow rendering without leaving Max, syncs to GDrive"
+       }
+     ],
+     "personal_dm": {
+       "message": "Hi Eotechh_9616, I saw your positive experience with Chaos Cloud and how it streamlines freelance rendering workflows. We're building Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Your feedback on ease of use and integration would be really helpful - what do you think makes cloud rendering effective for freelancers?",
+       "reason": "User is an active freelancer using cloud render farms, providing insights into user experience and workflow integration."
+     },
+     "reddit_url": "https://www.reddit.com/user/Eotechh_9616"
+   },
+   {
+     "username": "Weary_Relief_1538",
+     "context": [
+       {
+         "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kicprna/",
+         "role": "Commenter - stated render farms are overrated, shared experience with 45-employee studio using 45 computers with Backburner instead of outsourcing, recommended high-end PCs for re-rendering needs, suggested AWS free render managers"
+       }
+     ],
+     "personal_dm": {
+       "message": "Hi Weary_Relief_1538, I noticed your perspective on render farms being overrated and your preference for in-house solutions. We're building Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Your experience with large in-house setups would be valuable - do you think GPU rendering could change how studios approach distributed rendering?",
+       "reason": "User has experience with large-scale in-house render operations and is skeptical of cloud farms, offering alternative viewpoints on rendering strategies."
+     },
+     "reddit_url": "https://www.reddit.com/user/Weary_Relief_1538"
+   },
   {
     "username": "burakumincgi",
     "context": [

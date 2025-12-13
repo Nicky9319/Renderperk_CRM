@@ -379,10 +379,40 @@
     "target_audience": "Blender users comparing render farm options for their specific needs"
    },
    {
-    "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/",
-    "idea": "Create content: 'Peer-to-Peer Rendering: When Friends with GPUs Are Better Than Farms' - Use millk_man's offer and community helping examples",
-    "context": "millk_man offered personal help with his RTX 3060ti setup for files over 500mb. This shows the community aspect of rendering help that could be explored as an alternative to commercial farms.",
-    "target_audience": "Artists interested in peer-to-peer rendering arrangements or community-based solutions"
-   }
-]
+     "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/",
+     "idea": "Create content: 'Peer-to-Peer Rendering: When Friends with GPUs Are Better Than Farms' - Use millk_man's offer and community helping examples",
+     "context": "millk_man offered personal help with his RTX 3060ti setup for files over 500mb. This shows the community aspect of rendering help that could be explored as an alternative to commercial farms.",
+     "target_audience": "Artists interested in peer-to-peer rendering arrangements or community-based solutions"
+    },
+    {
+      "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/",
+      "idea": "Create a comprehensive guide: 'Building Your Own Render Farm vs Cloud Services: The £8k Question' - Use OP's £8k spent on rented farms over 4 years as case study for ROI analysis",
+      "context": "OP spent £8k on rented render farms over 4 years and is considering building their own. This creates a perfect opportunity to analyze the financial tradeoffs between building vs renting, including hidden costs like electricity, maintenance, and hardware depreciation.",
+      "target_audience": "Archviz professionals considering whether to build local render farms or continue using cloud services"
+    },
+    {
+      "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kia474a/",
+      "idea": "Create content: 'Remote Render Farm Access: Dropbox/Synology Sync Solutions for Distributed Teams' - Use fontesph's advice on synchronized drives for remote working",
+      "context": "fontesph recommended using synchronized drives (Dropbox or Synology) instead of uploading files, allowing teams to work remotely while accessing the same project files. This is a practical solution for distributed teams building render farms.",
+      "target_audience": "Remote teams and freelancers setting up render farm workflows"
+    },
+    {
+      "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kib696p/",
+      "idea": "Create a cost analysis: 'In-House Render Farm ROI: When Does Building Pay Off?' - Use VelvetElvis03's $12k one-time cost vs $6k/year cloud costs calculation",
+      "context": "VelvetElvis03 calculated that building their own farm would cost $12k one-time vs $6k/year on Chaos Cloud, with payback in less than 3 years. This provides concrete numbers for the build vs rent decision.",
+      "target_audience": "Studios evaluating the financial case for building their own render infrastructure"
+    },
+    {
+      "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kicprna/",
+      "idea": "Create content: 'Render Farms Overrated? When In-House Solutions Beat Cloud Services' - Use Weary_Relief_1538's experience with 45-computer Backburner setup",
+      "context": "Weary_Relief_1538 shared that their 45-employee studio uses 45 computers with Backburner for network rendering instead of outsourcing, calling render farms overrated. This challenges the assumption that cloud farms are always necessary.",
+      "target_audience": "Large studios considering whether cloud render farms are worth the cost"
+    },
+    {
+      "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kie61yd/",
+      "idea": "Create a guide: 'Bulk Hardware Purchasing for Render Farms: Server-Grade Motherboards and Second-Hand Deals' - Use hankus_visuals' advice on buying server-grade dual CPU motherboards second-hand",
+      "context": "hankus_visuals recommended buying server-grade motherboards that support dual CPUs, and mentioned they can be purchased second-hand in bulk. This is practical advice for cost-effective render farm building.",
+      "target_audience": "People building their own render farms looking for cost-effective hardware procurement strategies"
+    }
+   ]
 

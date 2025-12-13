@@ -48,12 +48,12 @@ def check_if_already_processed(url):
     filename = f"{post_id}_{title}.json"
     
     # Check in unprocessed folder
-    unprocessed_path = os.path.join("unprocessed", filename)
+    unprocessed_path = os.path.join("Threads/unprocessed", filename)
     if os.path.exists(unprocessed_path):
         return True, "unprocessed"
     
     # Check in processed folder
-    processed_path = os.path.join("processed", filename)
+    processed_path = os.path.join("Threads/processed", filename)
     if os.path.exists(processed_path):
         return True, "processed"
     
@@ -91,7 +91,7 @@ def fetch_and_save_reddit_post(url):
         filename = f"{post_id}_{title}.json"
         
         # Ensure unprocessed folder exists
-        output_dir = "unprocessed"
+        output_dir = "Threads/unprocessed"
         os.makedirs(output_dir, exist_ok=True)
         
         # Save JSON to file
@@ -138,7 +138,7 @@ def main():
         if success:
             post_id, title = extract_post_id_and_title(url)
             filename = f"{post_id}_{title}.json"
-            print(f"  ✓ Successfully saved to: unprocessed/{filename}")
+            print(f"  ✓ Successfully saved to: Threads/unprocessed/{filename}")
             successful_count += 1
         else:
             print(f"  ✗ Failed: {error}")
