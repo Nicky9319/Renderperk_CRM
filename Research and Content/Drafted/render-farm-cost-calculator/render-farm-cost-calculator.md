@@ -283,6 +283,8 @@ All major render farms offer priority tiers with significant cost differences:
 
 2. **Priority Tier Matters Significantly** - Using Low priority instead of High priority can save 50-70% on costs. Plan projects with adequate lead time to use lower tiers.
 
+3. **Sign Up to Get Free Credits** - Most major render farms (including Renderperk, Fox, GarageFarm, etc.) offer $25+ in free credits for new users. Signing up and using these credits is the easiest way to test your project risk-free, see real costs, and optimize your workflow before spending your own money.
+
 3. **Test Rendering Buffer is Essential** - Always budget 25-50% extra for test renders and re-renders. This prevents nasty surprises during project execution.
 
 4. **Fox & GarageFarm are Most Competitive** - Pricing is nearly identical at ~$0.115/frame for GPU rendering. GarageFarm offers 33% discount for Blender projects. Both offer $25 trial credits.
@@ -332,6 +334,7 @@ All major render farms offer priority tiers with significant cost differences:
 ### H2: Farm-by-Farm Pricing Showdown
 - Comparison table (Fox, GarageFarm, iRender, Rebus, Ranch)
 - Best for each use case
+- **Sign up to get free credits**: Highlight that most farms offer $25+ in free credits for new users—encourage readers to sign up and test their project risk-free
 - Trial credit opportunities
 
 ### H2: 10 Ways to Cut Your Render Farm Costs in Half

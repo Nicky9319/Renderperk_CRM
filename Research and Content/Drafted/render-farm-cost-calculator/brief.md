@@ -51,16 +51,16 @@ Create an educational, practical blog post that empowers 3D artists to accuratel
 ## Suggested CTA (Call-to-Action)
 
 ### Primary CTA:
-**"Download Our Free Render Farm Budget Calculator"** - Interactive spreadsheet template with tiered pricing for all major farms, automatic calculation of test render budgets, contingency planning, and monthly spend tracking. Email opt-in for follow-up tips.
+**"Sign Up to Get Free Credits"** – Direct, prominent invitation to sign up for Renderperk (or another recommended farm) and receive free render credits (e.g., $25). Emphasize that this lets users test their project risk-free and see real costs before committing.
 
 ### Secondary CTA:
-**"Get Your $25 Free Trial Credits"** - Direct link to sign up for trial credits on Renderperk (or other recommended farms). Positioned as "Test your project for free before committing."
+**"Download Our Free Render Farm Budget Calculator"** – Interactive spreadsheet template with tiered pricing for all major farms, automatic calculation of test render budgets, contingency planning, and monthly spend tracking. Email opt-in for follow-up tips.
 
 ### Tertiary CTA:
-**"See How Much Your Project Would Cost"** - Interactive cost calculator embed (if available). Input frame count, avg render time, preferred GPU, priority level, and see instant cost breakdown with optimization suggestions.
+**"See How Much Your Project Would Cost"** – Interactive cost calculator embed (if available). Input frame count, avg render time, preferred GPU, priority level, and see instant cost breakdown with optimization suggestions.
 
 ### Retargeting CTA:
-**"Stop Wasting Money on Render Farms"** - Video tutorial showing the 10 cost-cutting techniques (optimization, upscaling, priority strategy). Email capture for newsletter.
+**"Stop Wasting Money on Render Farms"** – Video tutorial showing the 10 cost-cutting techniques (optimization, upscaling, priority strategy). Email capture for newsletter.
 
 ---
 
