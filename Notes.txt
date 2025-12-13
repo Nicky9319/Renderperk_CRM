@@ -1,3 +1,7 @@
+Process Thread Agent
+- Cursor auto mode -> Takes a lot of tokens and slower, is accurate and retrieve almost all the data and al and make the changes.
+- Haiku 4.5 -> 
+
 Research Agent
 - Haiku 4.5 -> Best but paid (Very less though)
 - gpt-5.1-mini and Grok Code Fast 1 -> performs similarly good, a little less than the Haiku 
