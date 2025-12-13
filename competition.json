@@ -163,8 +163,6 @@
           }
         ]
       }
-        ]
-      }
     ],
     "cons": [
       {
@@ -772,5 +770,157 @@
     "potential_bottlenecks": "General virtualization platform rather than render-specific service, may require more setup than dedicated render farms",
     "marketing_approach": "Positioned as alternative to traditional render farms, emphasized for flexibility and cost-effectiveness",
     "business_execution": "Mentioned positively as a modern alternative to traditional render farms, focuses on cloud virtualization benefits for rendering workloads"
+    },
+  {
+    "render_farm_name": "Conductor",
+    "website": "conductor.com",
+    "mentioned_count": 2,
+    "pros": [
+      {
+        "point": "Well integrated with workflows",
+        "mentioned_count": 1,
+        "context": "OP mentioned Conductor is well integrated, which is why they were using it despite issues.",
+        "sources": [
+          {
+            "user": "Lazlo652",
+            "reddit_url": "https://www.reddit.com/r/vfx/comments/14nks45/what_are_peoples_favorite_online_renderfarms/jqa1umy/",
+            "quote": "It's well integrated."
+          }
+        ]
+      },
+      {
+        "point": "Good customer support that handles issues quickly",
+        "mentioned_count": 1,
+        "context": "OP mentioned their customer support is good at handling bugs and issues.",
+        "sources": [
+          {
+            "user": "Lazlo652",
+            "reddit_url": "https://www.reddit.com/r/vfx/comments/14nks45/what_are_peoples_favorite_online_renderfarms/jqa1umy/",
+            "quote": "their customer support has been good at handling it"
+          }
+        ]
+      },
+      {
+        "point": "Company actively engages with users and offers help with issues",
+        "mentioned_count": 1,
+        "context": "conductortech (Conductor team) responded to the thread offering to help resolve the OP's issues with cost and bugginess.",
+        "sources": [
+          {
+            "user": "conductortech",
+            "reddit_url": "https://www.reddit.com/r/vfx/comments/14nks45/what_are_peoples_favorite_online_renderfarms/jwkxmyn/",
+            "quote": "We'd be happy to chat and see what we can do to make things better for you, with both cost and \"bugginess.\""
+          }
+        ]
+      }
+    ],
+    "cons": [
+      {
+        "point": "Experiences bugginess and technical issues",
+        "mentioned_count": 1,
+        "context": "OP mentioned running into bugginess, which is a significant pain point despite good support.",
+        "sources": [
+          {
+            "user": "Lazlo652",
+            "reddit_url": "https://www.reddit.com/r/vfx/comments/14nks45/what_are_peoples_favorite_online_renderfarms/jqa1umy/",
+            "quote": "I just have run into some bugginess"
+          }
+        ]
+      },
+      {
+        "point": "Quite expensive compared to other options",
+        "mentioned_count": 1,
+        "context": "OP mentioned Conductor is quite expensive, which is a major concern leading them to look for alternatives.",
+        "sources": [
+          {
+            "user": "Lazlo652",
+            "reddit_url": "https://www.reddit.com/r/vfx/comments/14nks45/what_are_peoples_favorite_online_renderfarms/jqa1umy/",
+            "quote": "It also has been quite expensive. I'm not sure how it compares to other farms though"
+          }
+        ]
+      }
+    ],
+    "business_model": "Cloud-based render farm service",
+    "target_market": "VFX professionals and studios needing integrated rendering solutions",
+    "scale": "Established render farm with active user engagement",
+    "potential_bottlenecks": "Technical stability issues, higher pricing compared to competitors",
+    "marketing_approach": "Direct engagement on Reddit, offering personalized help to users",
+    "business_execution": "Actively monitors Reddit and responds to user issues, shows commitment to customer satisfaction despite technical challenges"
+  },
+  {
+    "render_farm_name": "Chaos Cloud",
+    "website": "chaosgroup.com/cloud",
+    "mentioned_count": 1,
+    "pros": [
+      {
+        "point": "Go-to for Vray users, simple and reliable",
+        "mentioned_count": 1,
+        "context": "attrackip recommended Chaos Cloud as their go-to for Vray, describing it as simple and reliable.",
+        "sources": [
+          {
+            "user": "attrackip",
+            "reddit_url": "https://www.reddit.com/r/vfx/comments/14nks45/what_are_peoples_favorite_online_renderfarms/jqa5le2/",
+            "quote": "Chaos Cloud has been my go to for a few years since I use Vray. Pretty simple and reliable"
+          }
+        ]
+      },
+      {
+        "point": "Worry-free rendering experience",
+        "mentioned_count": 1,
+        "context": "attrackip mentioned Chaos Cloud is worry-free, indicating a smooth user experience.",
+        "sources": [
+          {
+            "user": "attrackip",
+            "reddit_url": "https://www.reddit.com/r/vfx/comments/14nks45/what_are_peoples_favorite_online_renderfarms/jqa5le2/",
+            "quote": "maybe not the cheapest but worry free"
+          }
+        ]
+      }
+    ],
+    "cons": [
+      {
+        "point": "Not the cheapest option",
+        "mentioned_count": 1,
+        "context": "attrackip acknowledged that Chaos Cloud is not the cheapest, which could be a drawback for budget-conscious users.",
+        "sources": [
+          {
+            "user": "attrackip",
+            "reddit_url": "https://www.reddit.com/r/vfx/comments/14nks45/what_are_peoples_favorite_online_renderfarms/jqa5le2/",
+            "quote": "maybe not the cheapest but worry free"
+          }
+        ]
+      }
+    ],
+    "business_model": "Cloud-based render farm specialized for Vray",
+    "target_market": "Vray users looking for reliable cloud rendering",
+    "scale": "Established service backed by Chaos Group",
+    "potential_bottlenecks": "Higher cost compared to some alternatives",
+    "marketing_approach": "Word-of-mouth recommendations from satisfied Vray users",
+    "business_execution": "Provides reliable, worry-free service for Vray users, positions itself as a premium but dependable option"
+  },
+  {
+    "render_farm_name": "Zync",
+    "website": "zyncrender.com",
+    "mentioned_count": 1,
+    "pros": [],
+    "cons": [
+      {
+        "point": "Service has shut down",
+        "mentioned_count": 1,
+        "context": "dancbruce mentioned 'RIP Zync', indicating the service is no longer operational.",
+        "sources": [
+          {
+            "user": "dancbruce",
+            "reddit_url": "https://www.reddit.com/r/vfx/comments/14nks45/what_are_peoples_favorite_online_renderfarms/jq9k2lc/",
+            "quote": "RIP Zync"
+          }
+        ]
+      }
+    ],
+    "business_model": "Former cloud-based render farm service",
+    "target_market": "Former users now need alternatives",
+    "scale": "Defunct service",
+    "potential_bottlenecks": "Service no longer available",
+    "marketing_approach": "N/A - service discontinued",
+    "business_execution": "Service has shut down, users need to migrate to alternatives"
   }
 ]

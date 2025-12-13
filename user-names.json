@@ -579,12 +579,115 @@
       }
     ]
   },
-  {
+   {
     "username": "Molly_wu",
     "context": [
       {
         "reddit_url": "https://www.reddit.com/user/Molly_wu",
         "role": "Commenter - Both, long-term projects have local farms, small studios use render farms"
+      },
+      {
+        "reddit_url": "https://www.reddit.com/user/Molly_wu",
+        "role": "Commenter - recommends XRender as a render farm option"
+      }
+    ]
+  },
+  {
+    "username": "Lazlo652",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/Lazlo652",
+        "role": "Original poster - asking about favorite online render farms, currently using Conductor but experiencing issues"
+      }
+    ]
+  },
+  {
+    "username": "n1n3b0y",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/n1n3b0y",
+        "role": "Commenter - highly recommends Fox Renderfarm for responsive customer service and quick issue resolution"
+      }
+    ]
+  },
+  {
+    "username": "im_thatoneguy",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/im_thatoneguy",
+        "role": "Commenter (Studio Owner - 21 years experience) - recommends Deadline + AWS but notes it's a massive pain to setup"
+      }
+    ]
+  },
+  {
+    "username": "slythnerd06",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/slythnerd06",
+        "role": "Commenter (Pipeline / IT - 4 years experience) - recommends Fox Renderfarm"
+      }
+    ]
+  },
+  {
+    "username": "youmustthinkhighly",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/youmustthinkhighly",
+        "role": "Commenter - recommends Amazon for rendering"
+      }
+    ]
+  },
+  {
+    "username": "Technical-Unit-6872",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/Technical-Unit-6872",
+        "role": "Commenter - recommends Fox Renderfarm with good experience"
+      }
+    ]
+  },
+  {
+    "username": "WannaBpolyglot",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/WannaBpolyglot",
+        "role": "Commenter - echoes recommendation for Fox Renderfarm, shares personal story of receiving help and waived fees for a passion project"
+      }
+    ]
+  },
+  {
+    "username": "phantomofthechakras",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/phantomofthechakras",
+        "role": "Commenter - asks about specific issues with Conductor render farm and compares setup ease to Deadline"
+      }
+    ]
+  },
+  {
+    "username": "dancbruce",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/dancbruce",
+        "role": "Commenter - mourns the shutdown of Zync render farm"
+      }
+    ]
+  },
+  {
+    "username": "attrackip",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/attrackip",
+        "role": "Commenter - recommends Chaos Cloud for Vray users, mentions setting up own AWS farm with Deadline for cost savings"
+      }
+    ]
+  },
+  {
+    "username": "conductortech",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/conductortech",
+        "role": "Commenter (Conductor team representative) - responds to OP's issues, offers to help improve experience with Conductor"
       }
     ]
   }
