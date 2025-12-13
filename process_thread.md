@@ -12,11 +12,42 @@ great if specify blender and seek as potential helpers for people not directly u
 
 
 
-Your job role is to,
+Your task is as follows:
 
-1. List down all the user names and even the reddit url for that user itself you find in the thread itself which can be used to uniquely idetify the user and then also mention their role in this conversational thread.
+1. Extract all usernames mentioned in the Reddit thread, along with the Reddit profile URL for each user. For every user, identify their role in the conversation (e.g., original poster, commenter, expert, etc.). Present this information as a list, where each entry contains the Reddit URL and the user's role in the thread.
 
-Need to add the users found in the user-names.json file itself.
+Example format:
+```json
+[
+    {
+        "reddit_url": "https://www.reddit.com/user/Tricky-Chocolate-304",
+        "role": "Commenter - recommended XRender as an alternative render farm option"
+    },
+    {
+        "reddit_url": "https://www.reddit.com/user/cstoof",
+        "role": "Commenter (FX Lead flair) - Experienced professional explaining that big studios have local render farms but use cloud when overburdened"
+    }
+]
+```
+This list should be stored under the field name `context`.
+
+If a username appears multiple times with different roles or contexts, append the new information to their entry in the list.
+
+If a new user is found, add their details to the `user-names.json` file.
+
+A sample record:
+```json
+{
+    "username": "Tricky-Chocolate-304",
+    "context": [
+        {
+            "reddit_url": "https://www.reddit.com/user/Tricky-Chocolate-304",
+            "role": "Commenter - recommended XRender as an alternative render farm option"
+        }
+    ]
+}
+```
+
 
 
 

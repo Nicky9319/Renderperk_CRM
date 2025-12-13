@@ -1,262 +1,591 @@
 [
   {
     "username": "Independent_Mix1392",
-    "reddit_url": "https://www.reddit.com/user/Independent_Mix1392",
-    "role": "Original poster - asking about render farm costs for 7-minute animation (10,080 frames at 24fps), currently using CPU rendering without NVIDIA GPU"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/Independent_Mix1392",
+        "role": "Original poster - asking about render farm costs for 7-minute animation (10,080 frames at 24fps), currently using CPU rendering without NVIDIA GPU"
+      }
+    ]
   },
   {
     "username": "m9y6",
-    "reddit_url": "https://www.reddit.com/user/m9y6",
-    "role": "Commenter - provided general advice about render farm costs, mentioned cloud rendering services and distributed rendering options"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/m9y6",
+        "role": "Commenter - provided general advice about render farm costs, mentioned cloud rendering services and distributed rendering options"
+      }
+    ]
   },
   {
     "username": "IikeThis",
-    "reddit_url": "https://www.reddit.com/user/IikeThis",
-    "role": "Commenter - suggested getting a GPU instead of renting render farms"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/IikeThis",
+        "role": "Commenter - suggested getting a GPU instead of renting render farms"
+      }
+    ]
   },
   {
     "username": "drunk_kronk",
-    "reddit_url": "https://www.reddit.com/user/drunk_kronk",
-    "role": "Commenter - recommended testing a few frames on render farms to estimate costs"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/drunk_kronk",
+        "role": "Commenter - recommended testing a few frames on render farms to estimate costs"
+      }
+    ]
   },
   {
     "username": "fakethrow456away",
-    "reddit_url": "https://www.reddit.com/user/fakethrow456away",
-    "role": "Commenter - suggested getting another machine for local rendering instead of using farms"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/fakethrow456away",
+        "role": "Commenter - suggested getting another machine for local rendering instead of using farms"
+      }
+    ]
   },
   {
     "username": "Dstrbdsoul",
-    "reddit_url": "https://www.reddit.com/user/Dstrbdsoul",
-    "role": "Commenter - offered to render files with RTX 4070 and i9 12th gen setup, mentioned willingness to help with compensation for time and electricity costs"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/Dstrbdsoul",
+        "role": "Commenter - offered to render files with RTX 4070 and i9 12th gen setup, mentioned willingness to help with compensation for time and electricity costs"
+      }
+    ]
   },
   {
     "username": "AmarildoJr",
-    "reddit_url": "https://www.reddit.com/user/AmarildoJr",
-    "role": "Commenter - provided cost estimates for render farms (3 cents to 5 dollars per frame depending on complexity)"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/AmarildoJr",
+        "role": "Commenter - provided cost estimates for render farms (3 cents to 5 dollars per frame depending on complexity)"
+      }
+    ]
   },
   {
     "username": "tiorancio",
-    "reddit_url": "https://www.reddit.com/user/tiorancio",
-    "role": "Commenter - shared specific cost example: $0.025 per 2-minute frame, estimated ~$250 for the project"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/tiorancio",
+        "role": "Commenter - shared specific cost example: $0.025 per 2-minute frame, estimated ~$250 for the project"
+      }
+    ]
   },
   {
     "username": "RebusFarm",
-    "reddit_url": "https://www.reddit.com/user/RebusFarm",
-    "role": "Render farm company representative - offered 25 free RPs for testing, mentioned cost estimation tool"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/RebusFarm",
+        "role": "Render farm company representative - offered 25 free RPs for testing, mentioned cost estimation tool"
+      }
+    ]
   },
   {
     "username": "Background_Tap_1397",
-    "reddit_url": "https://www.reddit.com/user/Background_Tap_1397",
-    "role": "Render farm builder - promoting airrenderfarm.com with 48 core machines and A10 GPU"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/Background_Tap_1397",
+        "role": "Render farm builder - promoting airrenderfarm.com with 48 core machines and A10 GPU"
+      }
+    ]
   },
   {
     "username": "Cloueeny",
-    "reddit_url": "https://www.reddit.com/user/Cloueeny",
-    "role": "Commenter - mentioned render farms cost $100+ and suggested Fox Renderfarm's free render farm sponsorship for freelancers"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/Cloueeny",
+        "role": "Commenter - mentioned render farms cost $100+ and suggested Fox Renderfarm's free render farm sponsorship for freelancers"
+      }
+    ]
   },
   {
     "username": "iRender_Renderfarm",
-    "reddit_url": "https://www.reddit.com/user/iRender_Renderfarm",
-    "role": "Render farm company representative - provided detailed cost breakdown comparing different render farms and GPU options"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/iRender_Renderfarm",
+        "role": "Render farm company representative - provided detailed cost breakdown comparing different render farms and GPU options"
+      },
+      {
+        "reddit_url": "https://www.reddit.com/user/iRender_Renderfarm",
+        "role": "Commenter - Big studios hybrid, iRender as middle ground for small studios, dedicated remote GPU workstations"
+      }
+    ]
   },
   {
     "username": "VelvetElvis03",
-    "reddit_url": "https://www.reddit.com/user/VelvetElvis03",
-    "role": "Commenter - shared detailed experience with Chaos Cloud and Rebus, provided cost estimates ($4000 for 5000 credit pack), mentioned importance of previewing renders and adding 25-50% buffer to estimates"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/VelvetElvis03",
+        "role": "Commenter - shared detailed experience with Chaos Cloud and Rebus, provided cost estimates ($4000 for 5000 credit pack), mentioned importance of previewing renders and adding 25-50% buffer to estimates"
+      }
+    ]
   },
   {
     "username": "SamWoody97",
-    "reddit_url": "https://www.reddit.com/user/SamWoody97",
-    "role": "Commenter - shared Garage Farm experience, estimated $0.50 per frame, calculated ~$1350 for 90 second video, recommended testing a detailed frame first"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/SamWoody97",
+        "role": "Commenter - shared Garage Farm experience, estimated $0.50 per frame, calculated ~$1350 for 90 second video, recommended testing a detailed frame first"
+      }
+    ]
   },
   {
     "username": "clemilino",
-    "reddit_url": "https://www.reddit.com/user/clemilino",
-    "role": "Commenter - recommended Vantage for fast rendering, mentioned Corona can export to .vantage format and suggested using Vray for bridge functionality"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/clemilino",
+        "role": "Commenter - recommended Vantage for fast rendering, mentioned Corona can export to .vantage format and suggested using Vray for bridge functionality"
+      }
+    ]
   },
   {
     "username": "satch87",
-    "reddit_url": "https://www.reddit.com/user/satch87",
-    "role": "Commenter - suggested trying Vantage (Vray) for faster rendering, mentioned rendering 720-1080 animation quickly with RTX 2060 Super"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/satch87",
+        "role": "Commenter - suggested trying Vantage (Vray) for faster rendering, mentioned rendering 720-1080 animation quickly with RTX 2060 Super"
+      }
+    ]
   },
   {
     "username": "Euclois",
-    "reddit_url": "https://www.reddit.com/user/Euclois",
-    "role": "Commenter (Professional flair) - compared Rebus vs GarageFarm, preferred GarageFarm for reliability despite higher cost, mentioned AI upscaling/denoising/interpolation to save money, highlighted benefit of using PC while rendering"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/Euclois",
+        "role": "Commenter (Professional flair) - compared Rebus vs GarageFarm, preferred GarageFarm for reliability despite higher cost, mentioned AI upscaling/denoising/interpolation to save money, highlighted benefit of using PC while rendering"
+      }
+    ]
   },
   {
     "username": "btspman1",
-    "reddit_url": "https://www.reddit.com/user/btspman1",
-    "role": "Commenter (Premium user) - recommended Chaos Vantage for local GPU rendering, mentioned it's cheaper than Chaos Cloud but requires learning Vray, noted need for RTX/RX card with good GPU RAM"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/btspman1",
+        "role": "Commenter (Premium user) - recommended Chaos Vantage for local GPU rendering, mentioned it's cheaper than Chaos Cloud but requires learning Vray, noted need for RTX/RX card with good GPU RAM"
+      }
+    ]
   },
   {
     "username": "monkriss",
-    "reddit_url": "https://www.reddit.com/user/monkriss",
-    "role": "Commenter - recommended scene optimization (removing turbo smooth, unnecessary maps, fixing noise issues) to significantly reduce render farm costs"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/monkriss",
+        "role": "Commenter - recommended scene optimization (removing turbo smooth, unnecessary maps, fixing noise issues) to significantly reduce render farm costs"
+      }
+    ]
   },
   {
     "username": "parripollo1",
-    "reddit_url": "https://www.reddit.com/user/parripollo1",
-    "role": "Commenter - asked about frame interpolation methods, mentioned trying Runway's platform"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/parripollo1",
+        "role": "Commenter - asked about frame interpolation methods, mentioned trying Runway's platform"
+      }
+    ]
   },
   {
     "username": "UncleRocco87",
-    "reddit_url": "https://www.reddit.com/user/UncleRocco87",
-    "role": "Commenter - shared cost comparison: $7000 for high priority 1-minute animation vs $1500 for low priority (24 hours), recommended rendering lower resolution + AI upscaling, mentioned rendering every 2nd frame with AI interpolation"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/UncleRocco87",
+        "role": "Commenter - provided cost comparison: $7000 for high priority 1-minute animation vs $1500 for low priority (24 hours), recommended rendering lower resolution + AI upscaling, mentioned rendering every 2nd frame with AI interpolation"
+      }
+    ]
   },
   {
     "username": "heaton5747",
-    "reddit_url": "https://www.reddit.com/user/heaton5747",
-    "role": "Commenter - suggested peer-to-peer rendering as best option for OP"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/heaton5747",
+        "role": "Commenter - suggested peer-to-peer rendering as best option for OP"
+      }
+    ]
   },
   {
     "username": "princejsl",
-    "reddit_url": "https://www.reddit.com/user/princejsl",
-    "role": "Commenter - asked about OP's workstation specs, mentioned 20 min per frame seems high for FHD, offered to help render files if OP comfortable sharing, has 36 core setup"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/princejsl",
+        "role": "Commenter - asked about OP's workstation specs, mentioned 20 min per frame seems high for FHD, offered to help render files if OP comfortable sharing, has 36 core setup"
+      }
+    ]
   },
   {
     "username": "sasch_a",
-    "reddit_url": "https://www.reddit.com/user/sasch_a",
-    "role": "Commenter - mentioned Renderday as instant GPU rendering option with competitive pricing"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/sasch_a",
+        "role": "Commenter - mentioned Renderday as instant GPU rendering option with competitive pricing"
+      }
+    ]
   },
   {
     "username": "Hairy_Sea_6656",
-    "reddit_url": "https://www.reddit.com/user/Hairy_Sea_6656",
-    "role": "Commenter - provided cost estimates for Fox Renderfarm: $150-300 for 1min30sec video, $200-400 for 2min, mentioned 2-5min per frame render times"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/Hairy_Sea_6656",
+        "role": "Commenter - provided cost estimates for Fox Renderfarm: $150-300 for 1min30sec video, $200-400 for 2min, mentioned 2-5min per frame render times"
+      }
+    ]
   },
   {
     "username": "kourneym",
-    "reddit_url": "https://www.reddit.com/user/kourneym",
-    "role": "Commenter - recommended RebusFarm for Corona + 3ds Max projects, mentioned reaching out to marketing team for discounts/case study opportunities"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/kourneym",
+        "role": "Commenter - recommended RebusFarm for Corona + 3ds Max projects, mentioned reaching out to marketing team for discounts/case study opportunities"
+      }
+    ]
   },
   {
     "username": "NHArts",
-    "reddit_url": "https://www.reddit.com/user/NHArts",
-    "role": "Original poster - complaining about render farm costs being too expensive ($20-$80 for a video), considering building own render farm with 4070/4090 GPUs instead, planning animations with processing-intensive work"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/NHArts",
+        "role": "Original poster - complaining about render farm costs being too expensive ($20-$80 for a video), considering building own render farm with 4070/4090 GPUs instead, planning animations with processing-intensive work"
+      }
+    ]
   },
   {
     "username": "True_Shift1396",
-    "reddit_url": "https://www.reddit.com/user/True_Shift1396",
-    "role": "Commenter - stated that rendering is expensive, either in hardware costs or time"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/True_Shift1396",
+        "role": "Commenter - stated that rendering is expensive, either in hardware costs or time"
+      }
+    ]
   },
   {
     "username": "_BsIngA_",
-    "reddit_url": "https://www.reddit.com/user/_BsIngA_",
-    "role": "Commenter - recommended SheepIt render farm (free community-run render farm)"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/_BsIngA_",
+        "role": "Commenter - recommended SheepIt render farm (free community-run render farm)"
+      }
+    ]
   },
   {
     "username": "ProvocateurMaximus",
-    "reddit_url": "https://www.reddit.com/user/ProvocateurMaximus",
-    "role": "Commenter - commented positively about free render farm option for those in need"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/ProvocateurMaximus",
+        "role": "Commenter - commented positively about free render farm option for those in need"
+      }
+    ]
   },
   {
     "username": "remorselessfrost",
-    "reddit_url": "https://www.reddit.com/user/remorselessfrost",
-    "role": "Commenter - asked about using EEVEE for commercial applications, and provided advice about hidden costs of building render farms (equipment, maintenance, electricity, floor space, depreciation, HVAC cooling)"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/remorselessfrost",
+        "role": "Commenter - asked about using EEVEE for commercial applications, and provided advice about hidden costs of building render farms (equipment, maintenance, electricity, floor space, depreciation, HVAC cooling)"
+      }
+    ]
   },
   {
     "username": "RedxOsa",
-    "reddit_url": "https://www.reddit.com/user/RedxOsa",
-    "role": "Commenter - asked what a rendering farm is, showing beginner level knowledge"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/RedxOsa",
+        "role": "Commenter - asked what a rendering farm is, showing beginner level knowledge"
+      }
+    ]
   },
   {
     "username": "Accomplished-Pea-590",
-    "reddit_url": "https://www.reddit.com/user/Accomplished-Pea-590",
-    "role": "Original poster - needs easy-to-use render farm urgently (client waiting), has cloth simulation from Marvelous Designer (alembic caches .abc), tried Rebus Farm (doesn't support alembic) and GarageFarm (Denoise Optix issues, multi-user Arnold license requirement), confused by render farm process"
-  },
-  {
-    "username": "AmarildoJr",
-    "reddit_url": "https://www.reddit.com/user/AmarildoJr",
-    "role": "Commenter - recommended FoxRenderfarm, provided details about Windows/Linux client, mentioned $25 USD registration bonus and 50% off coupon for recharges, shared positive experience"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/Accomplished-Pea-590",
+        "role": "Original poster - needs easy-to-use render farm urgently (client waiting), has cloth simulation from Marvelous Designer (alembic caches .abc), tried Rebus Farm (doesn't support alembic) and GarageFarm (Denoise Optix issues, multi-user Arnold license requirement), confused by render farm process"
+      }
+    ]
   },
   {
     "username": "ftvideo",
-    "reddit_url": "https://www.reddit.com/user/ftvideo",
-    "role": "Commenter - shared positive experience using foxrenderfarm, described it as a smooth process"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/ftvideo",
+        "role": "Commenter - shared positive experience using foxrenderfarm, described it as a smooth process"
+      }
+    ]
   },
   {
     "username": "Tricky-Chocolate-304",
-    "reddit_url": "https://www.reddit.com/user/Tricky-Chocolate-304",
-    "role": "Commenter - recommended XRender as an alternative render farm option"
-  },
-  {
-    "username": "Cloueeny",
-    "reddit_url": "https://www.reddit.com/user/Cloueeny",
-    "role": "Commenter - uses Fox Renderfarm for rendering and really likes it"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/Tricky-Chocolate-304",
+        "role": "Commenter - recommended XRender as an alternative render farm option"
+      }
+    ]
   },
   {
     "username": "burimaliu",
-    "reddit_url": "https://www.reddit.com/user/burimaliu",
-    "role": "Original poster - offering render farm services with 15 GPUs total, operates through Fiverr, manually handles renders (not cloud-based), just started 2 weeks ago with 2 clients, working on 24/7 availability with shifts, provides free test renders and helps troubleshoot issues"
-  },
-  {
-    "username": "AmarildoJr",
-    "reddit_url": "https://www.reddit.com/user/AmarildoJr",
-    "role": "Commenter - provided advice about customer care and timezone considerations for manual render farms, recommended Fox Renderfarm as best farm they've worked with, praised their 24/7 Skype support, fast response times, and excellent app that uploads entire folders"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/burimaliu",
+        "role": "Original poster - offering render farm services with 15 GPUs total, operates through Fiverr, manually handles renders (not cloud-based), just started 2 weeks ago with 2 clients, working on 24/7 availability with shifts, provides free test renders and helps troubleshoot issues"
+      }
+    ]
   },
   {
     "username": "photographer_00",
-    "reddit_url": "https://www.reddit.com/user/photographer_00",
-    "role": "Commenter - owns GPUs and trying to create 1-2 nodes but having technical problems, has big projects coming up with very limited budget, interested in trying render farm services until nodes are fixed"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/photographer_00",
+        "role": "Commenter - owns GPUs and trying to create 1-2 nodes but having technical problems, has big projects coming up with very limited budget, interested in trying render farm services until nodes are fixed"
+      }
+    ]
   },
   {
     "username": "SpringZestyclose2294",
-    "reddit_url": "https://www.reddit.com/user/SpringZestyclose2294",
-    "role": "Commenter - suggested that troubleshooting and customization capabilities would make manual render farms more valuable than cloud farms, emphasized importance of real person response and 24/7 availability"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/SpringZestyclose2294",
+        "role": "Commenter - suggested that troubleshooting and customization capabilities would make manual render farms more valuable than cloud farms, emphasized importance of real person response and 24/7 availability"
+      }
+    ]
   },
   {
     "username": "Specialist-Bed9504",
-    "reddit_url": "https://www.reddit.com/user/Specialist-Bed9504",
-    "role": "Original poster - asking about render farms for freelance/personal work, has decent machine (i9 13th, 4070ti, 64gb DDR5), sends to farm if render projected to take more than 10hrs, also uses gridmarkets and interested in online siming resources"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/Specialist-Bed9504",
+        "role": "Original poster - asking about render farms for freelance/personal work, has decent machine (i9 13th, 4070ti, 64gb DDR5), sends to farm if render projected to take more than 10hrs, also uses gridmarkets and interested in online siming resources"
+      }
+    ]
   },
   {
     "username": "vfxjockey",
-    "reddit_url": "https://www.reddit.com/user/vfxjockey",
-    "role": "Commenter - uses gridmarkets all the time, mentions fantastic customer service and perfect Houdini integration, doesn't render or sim locally unless no internet, explains gridmarkets pricing is based on processor time"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/vfxjockey",
+        "role": "Commenter - uses gridmarkets all the time, mentions fantastic customer service and perfect Houdini integration, doesn't render or sim locally unless no internet, explains gridmarkets pricing is based on processor time"
+      }
+    ]
   },
   {
     "username": "ColonelPanic0101",
-    "reddit_url": "https://www.reddit.com/user/ColonelPanic0101",
-    "role": "Commenter - explains how to use grid markets file cache node to run sims online"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/ColonelPanic0101",
+        "role": "Commenter - explains how to use grid markets file cache node to run sims online"
+      }
+    ]
   },
   {
     "username": "CinemaZiggy",
-    "reddit_url": "https://www.reddit.com/user/CinemaZiggy",
-    "role": "Commenter - asks about general cost estimates for sim and render costs per project"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/CinemaZiggy",
+        "role": "Commenter - asks about general cost estimates for sim and render costs per project"
+      }
+    ]
   },
   {
     "username": "saucermoron",
-    "reddit_url": "https://www.reddit.com/user/saucermoron",
-    "role": "Commenter - mentions Fox render farm has one-click upload (upload hip file, automatically uploads all referenced files and sims), also states 'We use fox all the time. Can't complain.'"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/saucermoron",
+        "role": "Commenter - mentions Fox render farm has one-click upload (upload hip file, automatically uploads all referenced files and sims), also states 'We use fox all the time. Can't complain.'"
+      }
+    ]
   },
   {
     "username": "joncorv",
-    "reddit_url": "https://www.reddit.com/user/joncorv",
-    "role": "Commenter - recommends Fox render farm, says it's far more affordable than gridmarkets, supports essentially all packages and renderers, great customer support, mentions standalone app that processes hip file and sends to farm, great support via Skype"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/joncorv",
+        "role": "Commenter - recommends Fox render farm, says it's far more affordable than gridmarkets, supports essentially all packages and renderers, great customer support, mentions standalone app that uploads entire folders"
+      }
+    ]
   },
   {
     "username": "glintsCollide",
-    "reddit_url": "https://www.reddit.com/user/glintsCollide",
-    "role": "Commenter - asks about Houdini integration comparison between Fox render farm and Gridmarkets"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/glintsCollide",
+        "role": "Commenter - asks about Houdini integration comparison between Fox render farm and Gridmarkets"
+      }
+    ]
   },
   {
     "username": "reapergrim94",
-    "reddit_url": "https://www.reddit.com/user/reapergrim94",
-    "role": "Commenter - asks if Rebus supports Houdini"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/reapergrim94",
+        "role": "Commenter - asks if Rebus supports Houdini"
+      }
+    ]
   },
   {
     "username": "gutster_95",
-    "reddit_url": "https://www.reddit.com/user/gutster_95",
-    "role": "Commenter (Premium user) - recommends Rebus, says they used it a lot, always very helpful support, doesn't know how it is outside of Germany but can recommend it"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/gutster_95",
+        "role": "Commenter (Premium user) - recommends Rebus, says they used it a lot, always very helpful support, doesn't know how it is outside of Germany but can recommend it"
+      }
+    ]
   },
   {
     "username": "Any-Walrus-5941",
-    "reddit_url": "https://www.reddit.com/user/Any-Walrus-5941",
-    "role": "Commenter (Effects Artist flair) - uses Ranch Computing sometimes, plans renders for end of day to render overnight, sends shots to farm when that's not likely"
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/Any-Walrus-5941",
+        "role": "Commenter (Effects Artist flair) - uses Ranch Computing sometimes, plans renders for end of day to render overnight, sends shots to farm when that's not likely"
+      }
+    ]
   },
   {
-    "username": "Tricky-Chocolate-304",
-    "reddit_url": "https://www.reddit.com/user/Tricky-Chocolate-304",
-    "role": "Commenter - uses XRener because it's the only render farm they can find that supports D5 render (not real-time type)"
+    "username": "Zealousideal-Fox5684",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/Zealousideal-Fox5684",
+        "role": "Original poster - VFX artist frustrated with small company resources, asking if big companies have local render farms or hire services"
+      }
+    ]
+  },
+  {
+    "username": "cstoof",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/cstoof",
+        "role": "Commenter (FX Lead flair) - Experienced professional explaining that big studios have own render farms but use cloud when overburdened"
+      }
+    ]
+  },
+  {
+    "username": "burakumincgi",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/burakumincgi",
+        "role": "Commenter (Lighting & Rendering - 5 years experience) - Both, studio render farm plus cloud on demand"
+      }
+    ]
+  },
+  {
+    "username": "bigspicytomato",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/bigspicytomato",
+        "role": "Commenter - Worked for biggest studios, have own farms but never enough, use cloud for peak times, expensive"
+      }
+    ]
+  },
+  {
+    "username": "ChrBohm",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/ChrBohm",
+        "role": "Commenter (FX TD (houdini-course.com) - 10+ years experience) - Big companies have own farms as main driver, cheaper for 24/7, security considerations, cloud for backlogs"
+      }
+    ]
+  },
+  {
+    "username": "meeetttt",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/meeetttt",
+        "role": "Commenter - Depends on needs, on-prem preferred for cost and control, cloud for last minute changes"
+      }
+    ]
+  },
+  {
+    "username": "speakwithcode",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/speakwithcode",
+        "role": "Commenter - Company has own farm but extending to cloud, using workstations after hours with Deadline"
+      }
+    ]
+  },
+  {
+    "username": "Dannyshtrybe",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/Dannyshtrybe",
+        "role": "Commenter - Guessing OP from SEA"
+      }
+    ]
+  },
+  {
+    "username": "yagmurozdemr",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/yagmurozdemr",
+        "role": "Commenter - Big companies have local farms, trend towards cloud for peak times, vagon.io alternative, hybrid solutions"
+      }
+    ]
+  },
+  {
+    "username": "Johnway627",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/Johnway627",
+        "role": "Commenter - Big companies have internal farms, use external for peak times, hybrid approach"
+      }
+    ]
+  },
+  {
+    "username": "GodDestroyer",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/GodDestroyer",
+        "role": "Commenter - Have own farms, some use AWS EC2, Disney network across West Coast, internal server blades"
+      }
+    ]
+  },
+  {
+    "username": "thelizardlarry",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/thelizardlarry",
+        "role": "Commenter - In house, cloud and rentals depending on job"
+      }
+    ]
+  },
+  {
+    "username": "Mpcrocks",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/Mpcrocks",
+        "role": "Commenter - Mix but moving to offsite leased farms"
+      }
+    ]
+  },
+  {
+    "username": "wrosecrans",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/wrosecrans",
+        "role": "Commenter - On-site farms, scale up in cloud with own instances, convoluted pipelines make porting hard"
+      }
+    ]
+  },
+  {
+    "username": "RufusAcrospin",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/RufusAcrospin",
+        "role": "Commenter - On-premise dedicated, idle workstations, cloud"
+      }
+    ]
+  },
+  {
+    "username": "andrewlta",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/andrewlta",
+        "role": "Commenter - Hybrid, in-house for daily, cloud for peak, cloud expensive"
+      }
+    ]
+  },
+  {
+    "username": "Molly_wu",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/user/Molly_wu",
+        "role": "Commenter - Both, long-term projects have local farms, small studios use render farms"
+      }
+    ]
   }
 ]

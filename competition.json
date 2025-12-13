@@ -110,9 +110,59 @@
         "sources": [
           {
             "user": "iRender_Renderfarm",
-            "reddit_url": "https://www.reddit.com/r/blender/comments/14o8mjd/paying_for_rendering_farms_too_expensive/nl3josg/",
-            "quote": "Many queue-based farms charge per frame and add overhead for setup and priority"
+            "reddit_url": "https://www.reddit.com/user/iRender_Renderfarm",
+            "role": "Render farm company representative - provided detailed cost breakdown comparing different render farms and GPU options"
           }
+        ]
+      },
+      {
+        "point": "Hybrid setups for big studios",
+        "mentioned_count": 1,
+        "context": "Company rep explained that big studios use hybrid setups - local farms for everyday, external GPU services for peaks or scaling up.",
+        "sources": [
+          {
+            "user": "iRender_Renderfarm",
+            "reddit_url": "https://www.reddit.com/r/vfx/comments/15x9g08/big_companies_have_local_render_farms_or_hire/nkjt258/",
+            "quote": "big studios usually have hybrid setups. They maintain their own local render farms for everyday workloads, but still rely on external GPU render services when deadlines hit or when a project suddenly scales up"
+          }
+        ]
+      },
+      {
+        "point": "Dedicated remote GPU workstations that act like local machines",
+        "mentioned_count": 1,
+        "context": "Company rep highlighted that users get dedicated remote GPU workstations (RTX 4090s) that function just like local machines.",
+        "sources": [
+          {
+            "user": "iRender_Renderfarm",
+            "reddit_url": "https://www.reddit.com/r/vfx/comments/15x9g08/big_companies_have_local_render_farms_or_hire/nkjt258/",
+            "quote": "You get dedicated remote GPU workstations (RTX 4090s) that act just like local machines"
+          }
+        ]
+      },
+      {
+        "point": "Install own tools and render directly with full control",
+        "mentioned_count": 1,
+        "context": "Company rep emphasized that users can install their own software (Maya, C4D, Blender, Houdini, etc.) and render directly without reformatting scenes or converting files.",
+        "sources": [
+          {
+            "user": "iRender_Renderfarm",
+            "reddit_url": "https://www.reddit.com/r/vfx/comments/15x9g08/big_companies_have_local_render_farms_or_hire/nkjt258/",
+            "quote": "install your own tools (Maya, C4D, Blender, Houdini, etc.) and render directly with full control. No need to reformat scenes or convert files"
+          }
+        ]
+      },
+      {
+        "point": "Gives small teams flexibility of big studios without overhead",
+        "mentioned_count": 1,
+        "context": "Company rep positioned their service as providing small teams with the same flexibility as big studios but without the infrastructure overhead.",
+        "sources": [
+          {
+            "user": "iRender_Renderfarm",
+            "reddit_url": "https://www.reddit.com/r/vfx/comments/15x9g08/big_companies_have_local_render_farms_or_hire/nkjt258/",
+            "quote": "it gives small teams the flexibility big studios have — just without the overhead"
+          }
+        ]
+      }
         ]
       }
     ],
@@ -665,5 +715,62 @@
     "potential_bottlenecks": "Limited information available - only mentioned once, specialized niche market",
     "marketing_approach": "Not explicitly mentioned in thread",
     "business_execution": "Fills a niche need for D5 render support. Tricky-Chocolate-304 specifically chose XRener because it's the only option for D5 render (not real-time type), indicating they serve a specialized market that other farms don't address."
+  },
+  {
+    "render_farm_name": "vagon.io",
+    "website": "vagon.io",
+    "mentioned_count": 1,
+    "pros": [
+      {
+        "point": "Cloud-based virtualized environments for rendering tasks",
+        "mentioned_count": 1,
+        "context": "yagmurozdemr mentioned vagon.io as a great alternative for cloud-based virtualized environments that can be customized for rendering projects.",
+        "sources": [
+          {
+            "user": "yagmurozdemr",
+            "reddit_url": "https://www.reddit.com/r/vfx/comments/15x9g08/big_companies_have_local_render_farms_or_hire/l1s0hxs/",
+            "quote": "vagon.io offers cloud-based virtualized environments that can be customized for rendering tasks"
+          }
+        ]
+      },
+      {
+        "point": "Provides flexibility, scalability, and accessibility",
+        "mentioned_count": 1,
+        "context": "yagmurozdemr highlighted that vagon.io provides flexibility, scalability, and accessibility, allowing users to deploy virtual machines with desired specifications.",
+        "sources": [
+          {
+            "user": "yagmurozdemr",
+            "reddit_url": "https://www.reddit.com/r/vfx/comments/15x9g08/big_companies_have_local_render_farms_or_hire/l1s0hxs/",
+            "quote": "It provides flexibility, scalability, and accessibility, allowing users to deploy virtual machines with the desired specifications for rendering projects"
+          }
+        ]
+      },
+      {
+        "point": "Cost-effective pricing plans",
+        "mentioned_count": 1,
+        "context": "yagmurozdemr mentioned that vagon.io offers cost-effective pricing plans, making it a compelling option for studios looking to augment rendering capabilities without extensive infrastructure investment.",
+        "sources": [
+          {
+            "user": "yagmurozdemr",
+            "reddit_url": "https://www.reddit.com/r/vfx/comments/15x9g08/big_companies_have_local_render_farms_or_hire/l1s0hxs/",
+            "quote": "vagon.io offers cost-effective pricing plans, making it a compelling option for studios looking to augment their rendering capabilities without the need for extensive infrastructure investment"
+          }
+        ]
+      }
+    ],
+    "cons": [
+      {
+        "point": "May not be as specialized for rendering as dedicated render farms",
+        "mentioned_count": 0,
+        "context": "Inferred from description - vagon.io is described as cloud-based virtualized environments, not specifically a render farm, so may lack some rendering-specific optimizations or integrations.",
+        "sources": []
+      }
+    ],
+    "business_model": "Cloud-based virtualized environments provider",
+    "target_market": "Studios looking to augment rendering capabilities without infrastructure investment",
+    "scale": "Cloud-based service offering virtual machines",
+    "potential_bottlenecks": "General virtualization platform rather than render-specific service, may require more setup than dedicated render farms",
+    "marketing_approach": "Positioned as alternative to traditional render farms, emphasized for flexibility and cost-effectiveness",
+    "business_execution": "Mentioned positively as a modern alternative to traditional render farms, focuses on cloud virtualization benefits for rendering workloads"
   }
 ]
