@@ -1,0 +1,8 @@
+[
+    {
+        "reddit_url": "https://www.reddit.com/r/Maya/comments/1hc7vu2/how_expensive_are_render_farms_and_would_you/",
+        "idea": "Create a blog post or Reddit guide: 'Render Farm Cost Calculator: How to Estimate Your Project Costs' - Use OP's specific example (10,080 frames, 2 min/frame on CPU) as a case study showing how GPU rendering compares",
+        "context": "OP asked about costs for a specific project (7 min animation, 10,080 frames). This is a common question that could be turned into educational content. The thread shows people are confused about pricing models.",
+        "target_audience": "3D artists looking to understand render farm pricing, especially those new to using farms"
+    }
+]
