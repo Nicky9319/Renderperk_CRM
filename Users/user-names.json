@@ -885,31 +885,235 @@
       }
     ]
   },
-  {
-    "username": "dancbruce",
-    "context": [
-      {
-        "reddit_url": "https://www.reddit.com/user/dancbruce",
-        "role": "Commenter - mourns the shutdown of Zync render farm"
-      }
-    ]
-  },
-  {
-    "username": "attrackip",
-    "context": [
-      {
-        "reddit_url": "https://www.reddit.com/user/attrackip",
-        "role": "Commenter - recommends Chaos Cloud for Vray users, mentions setting up own AWS farm with Deadline for cost savings"
-      }
-    ]
-  },
-  {
-    "username": "conductortech",
-    "context": [
-      {
-        "reddit_url": "https://www.reddit.com/user/conductortech",
-        "role": "Commenter (Conductor team representative) - responds to OP's issues, offers to help improve experience with Conductor"
-      }
-    ]
-  }
-]
+   {
+     "username": "dancbruce",
+     "context": [
+       {
+         "reddit_url": "https://www.reddit.com/user/dancbruce",
+         "role": "Commenter - mourns the shutdown of Zync render farm"
+       }
+     ]
+   },
+   {
+     "username": "attrackip",
+     "context": [
+       {
+         "reddit_url": "https://www.reddit.com/user/attrackip",
+         "role": "Commenter - recommends Chaos Cloud for Vray users, mentions setting up own AWS farm with Deadline for cost savings"
+       }
+     ]
+   },
+   {
+     "username": "conductortech",
+     "context": [
+       {
+         "reddit_url": "https://www.reddit.com/user/conductortech",
+         "role": "Commenter (Conductor team representative) - responds to OP's issues, offers to help improve experience with Conductor"
+       }
+     ]
+   },
+   {
+     "username": "CryptographerOld558",
+     "reddit_url": "https://www.reddit.com/user/CryptographerOld558",
+     "personal_dm": {
+       "message": "Hi CryptographerOld558, I saw your post about considering renting out your 4090 workstation for rendering intensive projects. We're building Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Your setup sounds impressive for personal work, but as others mentioned, competing with professional farms can be challenging. Would love to hear your thoughts on what makes GPU rendering valuable for artists like yourself.",
+       "reason": "User is an individual with high-end hardware considering rendering services, showing interest in GPU rendering and business opportunities in the space."
+     },
+     "context": [
+       {
+         "role": "Original Poster",
+         "source": "Asking if worth it for individual to rent rendering service with 4090, 32GB RAM, 4.3GHz CPU, wanting to render intensive projects manually"
+       },
+       {
+         "role": "Commenter",
+         "source": "Replied to slatourelle asking for definition of 'serious' and explaining can render 20k x 20k fractals overnight"
+       },
+       {
+         "role": "Commenter",
+         "source": "Replied to Barrerayy explaining not a random person, thinking about advertising to reputable communities"
+       }
+     ]
+   },
+   {
+     "username": "TheVelvetFogg",
+     "reddit_url": "https://www.reddit.com/user/TheVelvetFogg",
+     "personal_dm": {
+       "message": "Hi TheVelvetFogg, I noticed your straightforward assessment that individuals can't compete with professional render farms. We're developing Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Your perspective on the competitive landscape would be really valuable - what do you think makes professional render farms successful?",
+       "reason": "User provides direct, experienced feedback on render farm competition, showing industry awareness."
+     },
+     "context": [
+       {
+         "role": "Commenter",
+         "source": "Stated that you will not be able to compete with a render farm"
+       }
+     ]
+   },
+   {
+     "username": "CormacMcracken",
+     "reddit_url": "https://www.reddit.com/user/CormacMcracken",
+     "personal_dm": {
+       "message": "Hi CormacMcracken, I saw your comment about building rendering infrastructure for a living and your assessment that individual rendering services aren't viable. We're building Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Your experience with professional infrastructure would be incredibly valuable - would love to hear your insights on what makes GPU rendering effective at scale.",
+       "reason": "User is a professional in rendering infrastructure with 11 years experience, providing expert technical opinions."
+     },
+     "context": [
+       {
+         "role": "Commenter (Pipeline / IT - 11 years experience)",
+         "source": "As someone who builds rendering infrastructure for a living, stated short answer is no"
+       }
+     ]
+   },
+   {
+     "username": "CyclopsRock",
+     "reddit_url": "https://www.reddit.com/user/CyclopsRock",
+     "personal_dm": {
+       "message": "Hi CyclopsRock, I appreciated your detailed explanation of why individual rendering services aren't viable compared to professional farms. We're developing Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Your 15 years of pipeline experience would be really helpful - what do you think about GPU rendering for production workflows?",
+       "reason": "User is a pipeline professional with 15 years experience providing detailed technical analysis of render farm viability."
+     },
+     "context": [
+       {
+         "role": "Commenter (Pipeline - 15 years experience)",
+         "source": "Explained that individual rendering isn't viable, professional services have advantages in scale, security, and processes"
+       }
+     ]
+   },
+   {
+     "username": "slatourelle",
+     "reddit_url": "https://www.reddit.com/user/slatourelle",
+     "personal_dm": {
+       "message": "Hi slatourelle, I saw your comment about your studio's 1000+ machine render farm and why individual workstations can't compete. We're building Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Your experience with large-scale rendering infrastructure would be valuable - would love to hear your thoughts on GPU rendering for professional studios.",
+       "reason": "User works at a studio with massive render farm infrastructure, providing real-world scale comparisons."
+     },
+     "context": [
+       {
+         "role": "Commenter (houdini addict)",
+         "source": "Said enthusiast workstation not enough for serious work, their farm has 1000+ machines with 128GB RAM and 48 cores"
+       }
+     ]
+   },
+   {
+     "username": "Nevaroth021",
+     "reddit_url": "https://www.reddit.com/user/Nevaroth021",
+     "personal_dm": {
+       "message": "Hi Nevaroth021, I noticed your explanation about render farms using dozens to thousands of computers. We're developing Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Your understanding of render farm scale would be helpful - what do you think makes GPU rendering appealing for different project sizes?",
+       "reason": "User provides clear explanations of render farm concepts and competitive advantages."
+     },
+     "context": [
+       {
+         "role": "Commenter",
+         "source": "Explained render farms use anywhere from dozens to thousands of computers, individual can't compete"
+       }
+     ]
+   },
+   {
+     "username": "diogoblouro",
+     "reddit_url": "https://www.reddit.com/user/diogoblouro",
+     "personal_dm": {
+       "message": "Hi diogoblouro, I saw your suggestion of RenderNetwork (RNDR) as an alternative for individuals wanting to contribute GPU power. We're building Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Your knowledge of decentralized rendering options would be valuable - what do you think about the future of GPU-based render farms?",
+       "reason": "User suggests decentralized rendering alternatives and shows awareness of different rendering technologies."
+     },
+     "context": [
+       {
+         "role": "Commenter",
+         "source": "Suggested RenderNetwork (RNDR) for contributing GPU to decentralized network, mentioned works with Octane/Redshift/Blender"
+       }
+     ]
+   },
+   {
+     "username": "cyangradient",
+     "reddit_url": "https://www.reddit.com/user/cyangradient",
+     "personal_dm": {
+       "message": "Hi cyangradient, I noticed your suggestion of SheepIt for donating compute time to community farms. We're developing Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Your interest in community rendering solutions would be helpful - what do you think about GPU rendering for community-driven projects?",
+       "reason": "User suggests community-based rendering alternatives, showing interest in accessible computing solutions."
+     },
+     "context": [
+       {
+         "role": "Commenter",
+         "source": "Suggested donating compute time to community farm like SheepIt"
+       }
+     ]
+   },
+   {
+     "username": "Barrerayy",
+     "reddit_url": "https://www.reddit.com/user/Barrerayy",
+     "personal_dm": {
+       "message": "Hi Barrerayy, I saw your comment about no sane person paying for random home PCs for commercial rendering. We're building Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Your perspective on trust and reliability in rendering services would be valuable - what do you think makes render farms trustworthy for commercial work?",
+       "reason": "User emphasizes security and reliability concerns in rendering services."
+     },
+     "context": [
+       {
+         "role": "Commenter",
+         "source": "Said no sane person would pay to use random's home PC for commercial projects"
+       }
+     ]
+   },
+   {
+     "username": "obliveater95",
+     "reddit_url": "https://www.reddit.com/user/obliveater95",
+     "personal_dm": {
+       "message": "Hi obliveater95, I noticed your comment about sharing rendering with fellow artists you know. We're developing Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Your thoughts on community and peer-to-peer rendering would be helpful - what do you think about GPU rendering for collaborative projects?",
+       "reason": "User discusses peer-to-peer rendering among known artists, showing interest in community solutions."
+     },
+     "context": [
+       {
+         "role": "Commenter (Generalist - 3 years experience)",
+         "source": "Said you can share with fellow artists you know but not strangers, mentioned hassle as reason"
+       }
+     ]
+   },
+   {
+     "username": "Daoshu",
+     "reddit_url": "https://www.reddit.com/user/Daoshu",
+     "personal_dm": {
+       "message": "Hi Daoshu, I saw your suggestion that the first step should be using a render farm to compare results. We're building Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Your practical approach to evaluating rendering options would be valuable - what do you think about GPU rendering for getting accurate performance comparisons?",
+       "reason": "User provides practical advice on testing and comparing rendering solutions."
+     },
+     "context": [
+       {
+         "role": "Commenter",
+         "source": "Suggested first step is to use a render farm and compare results"
+       }
+     ]
+   },
+   {
+     "username": "Zhanji_TS",
+     "reddit_url": "https://www.reddit.com/user/Zhanji_TS",
+     "personal_dm": {
+       "message": "Hi Zhanji_TS, I noticed your comment about your personal render farm setup with 8 nodes and 250GB RAM. We're developing Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Your experience with personal rendering infrastructure would be helpful - what do you think about GPU rendering for personal vs commercial use?",
+       "reason": "User has personal render farm experience and distinguishes between personal and commercial viability."
+     },
+     "context": [
+       {
+         "role": "Commenter",
+         "source": "Shared personal farm setup with 250GB RAM and 8 nodes, amazing for personal use but wouldn't market publicly"
+       }
+     ]
+   },
+   {
+     "username": "GuitarIll938",
+     "reddit_url": "https://www.reddit.com/user/GuitarIll938",
+     "personal_dm": {
+       "message": "Hi GuitarIll938, I appreciated your detailed explanation of why personal workstations aren't practical for commercial rendering. We're building Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Your insights on the limitations of individual setups would be valuable - what do you think about GPU rendering for overcoming those limitations?",
+       "reason": "User provides detailed technical analysis of why individual rendering services don't work commercially."
+     },
+     "context": [
+       {
+         "role": "Commenter",
+         "source": "Explained why personal workstation isn't practical - need multiple GPUs working in parallel, pipeline issues, etc."
+       }
+     ]
+   },
+   {
+     "username": "iRender_Renderfarm",
+     "reddit_url": "https://www.reddit.com/user/iRender_Renderfarm",
+     "personal_dm": {
+       "message": "Hi iRender_Renderfarm, I saw your detailed response explaining why solo rendering isn't viable and promoting iRender as an alternative. We're building Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Your active engagement in the community and focus on GPU workstations would be valuable - would love to hear your thoughts on the GPU rendering landscape.",
+       "reason": "User is a render farm company representative actively providing detailed technical information and promoting their service."
+     },
+     "context": [
+       {
+         "role": "Commenter (iRender company representative)",
+         "source": "Explained why solo rendering isn't viable, promoted iRender's GPU workstation rental model"
+       }
+     ]
+   }
+ ]

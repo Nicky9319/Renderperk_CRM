@@ -1260,5 +1260,81 @@
      "potential_bottlenecks": "Higher cost compared to building in-house, requires Vray knowledge, ongoing subscription costs",
      "marketing_approach": "Word-of-mouth recommendations from satisfied Vray users, positioned as premium reliable service",
      "business_execution": "Provides reliable, worry-free service for Vray users with strong integration and speed advantages for animations. Key strengths: ease of use for freelancers, dramatic speed improvements for animations. Main weakness: higher long-term costs compared to in-house solutions. Users appreciate the 'worry-free' aspect and lack of maintenance burden."
-   }
- ]
+    },
+    {
+      "render_farm_name": "RenderNetwork (RNDR)",
+      "website": "rendernetwork.com",
+      "mentioned_count": 1,
+      "pros": [
+        {
+          "point": "Decentralized network allowing individuals to contribute GPU power",
+          "mentioned_count": 1,
+          "context": "diogoblouro suggested RenderNetwork as an alternative for individuals wanting to contribute their GPU to a decentralized network and get paid back.",
+          "sources": [
+            {
+              "user": "diogoblouro",
+              "reddit_url": "https://www.reddit.com/r/vfx/comments/1o8n6k4/is_it_worth_it_for_an_individual_to_rent_a/njwemt4/",
+              "quote": "There's an infrastructure for this: https://rendernetwork.com/ ... But you can contribute your GPU as a node to the decentralized network, and be paid back."
+            }
+          ]
+        },
+        {
+          "point": "Works with multiple renderers including Octane, Redshift, and Blender",
+          "mentioned_count": 1,
+          "context": "diogoblouro mentioned that RenderNetwork works with Octane (since it's run by Otoy), Redshift, and Blender.",
+          "sources": [
+            {
+              "user": "diogoblouro",
+              "reddit_url": "https://www.reddit.com/r/vfx/comments/1o8n6k4/is_it_worth_it_for_an_individual_to_rent_a/njwemt4/",
+              "quote": "I haven't tried it myself, it's run by Otoy therefore Octane and I'm on Redshift exclusively. But you can contribute your GPU as a node... It works with redshift and blender too."
+            }
+          ]
+        },
+        {
+          "point": "Simplified automation for distributed rendering",
+          "mentioned_count": 1,
+          "context": "diogoblouro described it as simplified within a network that automates distributed rendering.",
+          "sources": [
+            {
+              "user": "diogoblouro",
+              "reddit_url": "https://www.reddit.com/r/vfx/comments/1o8n6k4/is_it_worth_it_for_an_individual_to_rent_a/njwemt4/",
+              "quote": "But it's what you're looking for, simplified within a network that automates it all."
+            }
+          ]
+        }
+      ],
+      "cons": [
+        {
+          "point": "Originally token-based, now costs actual money to use",
+          "mentioned_count": 1,
+          "context": "diogoblouro mentioned that when it launched it was token-based (RNDR), but now it costs actual money to use, and was unclear about how contributors get paid.",
+          "sources": [
+            {
+              "user": "diogoblouro",
+              "reddit_url": "https://www.reddit.com/r/vfx/comments/1o8n6k4/is_it_worth_it_for_an_individual_to_rent_a/njwemt4/",
+              "quote": "When it launched it was called RNDR and it was token based, now it seems to cost actual money to use, so I don't know how you get paid for contributing."
+            }
+          ]
+        },
+        {
+          "point": "Uncertain compensation model for contributors",
+          "mentioned_count": 1,
+          "context": "diogoblouro expressed uncertainty about how contributors get paid now that it's moved from token-based to paid service.",
+          "sources": [
+            {
+              "user": "diogoblouro",
+              "reddit_url": "https://www.reddit.com/r/vfx/comments/1o8n6k4/is_it_worth_it_for_an_individual_to_rent_a/njwemt4/",
+              "quote": "so I don't know how you get paid for contributing."
+            }
+          ]
+        }
+      ],
+      "business_model": "Decentralized GPU rendering network where users can contribute hardware and rent rendering capacity",
+      "target_market": "GPU owners wanting to monetize hardware, users needing distributed rendering capacity",
+      "scale": "Decentralized network leveraging community hardware",
+      "potential_bottlenecks": "Unclear compensation for contributors, transition from token to paid model may confuse users",
+      "marketing_approach": "Positioned as decentralized alternative to traditional render farms",
+      "business_execution": "Provides decentralized rendering infrastructure but has undergone model changes that may affect contributor incentives"
+    }
+  ]
+

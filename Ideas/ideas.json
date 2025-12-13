@@ -395,10 +395,40 @@
     "context": "Weary_Relief_1538 shared that their 45-employee studio uses 45 computers with Backburner for network rendering instead of outsourcing, calling render farms overrated. This challenges the assumption that cloud farms are always necessary.",
     "target_audience": "Large studios considering whether cloud render farms are worth the cost"
   },
-  {
-    "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kie61yd/",
-    "idea": "Create a guide: 'Bulk Hardware Purchasing for Render Farms: Server-Grade Motherboards and Second-Hand Deals' - Use hankus_visuals' advice on buying server-grade dual CPU motherboards second-hand",
-    "context": "hankus_visuals recommended buying server-grade motherboards that support dual CPUs, and mentioned they can be purchased second-hand in bulk. This is practical advice for cost-effective render farm building.",
-    "target_audience": "People building their own render farms looking for cost-effective hardware procurement strategies"
-  }
-]
+   {
+     "reddit_url": "https://www.reddit.com/r/archviz/comments/198tzgn/advice_on_building_render_farm/kie61yd/",
+     "idea": "Create a guide: 'Bulk Hardware Purchasing for Render Farms: Server-Grade Motherboards and Second-Hand Deals' - Use hankus_visuals' advice on buying server-grade dual CPU motherboards second-hand",
+     "context": "hankus_visuals recommended buying server-grade motherboards that support dual CPUs, and mentioned they can be purchased second-hand in bulk. This is practical advice for cost-effective render farm building.",
+     "target_audience": "People building their own render farms looking for cost-effective hardware procurement strategies"
+   },
+   {
+     "reddit_url": "https://www.reddit.com/r/vfx/comments/1o8n6k4/is_it_worth_it_for_an_individual_to_rent_a/",
+     "idea": "Create content: 'Why Individual Rendering Services Don't Work: Scale, Trust, and Professional Competition' - Use the consensus from multiple experienced professionals (CormacMcracken, CyclopsRock, GuitarIll938) that individuals can't compete with professional render farms",
+     "context": "The thread shows clear consensus that individual rendering services aren't viable due to scale differences, trust issues, and competition from professional farms with hundreds/thousands of machines. This is a common misconception that could be addressed with educational content.",
+     "target_audience": "Individuals considering offering rendering services who may not understand the competitive landscape"
+   },
+   {
+     "reddit_url": "https://www.reddit.com/r/vfx/comments/1o8n6k4/is_it_worth_it_for_an_individual_to_rent_a/njwemt4/",
+     "idea": "Create a guide: 'Decentralized Rendering: RenderNetwork (RNDR) and Community GPU Sharing' - Use diogoblouro's explanation of RenderNetwork as an alternative for individuals wanting to contribute GPU power",
+     "context": "diogoblouro suggested RenderNetwork (RNDR) as a decentralized alternative where individuals can contribute GPU power and get paid. This represents an emerging trend in distributed computing that could be valuable content for those interested in earning from their hardware.",
+     "target_audience": "GPU owners interested in monetizing their hardware through decentralized networks"
+   },
+   {
+     "reddit_url": "https://www.reddit.com/r/vfx/comments/1o8n6k4/is_it_worth_it_for_an_individual_to_rent_a/njxdbee/",
+     "idea": "Create content: 'Community Render Farms: SheepIt and Free GPU Rendering for Beginners' - Use cyangradient's suggestion of SheepIt for donating compute time to community farms",
+     "context": "cyangradient suggested SheepIt as a community-based render farm where people can donate GPU time. This highlights free alternatives for those who can't afford paid services, which could be valuable for students and hobbyists.",
+     "target_audience": "Beginners and hobbyists looking for free rendering options to learn and experiment"
+   },
+   {
+     "reddit_url": "https://www.reddit.com/r/vfx/comments/1o8n6k4/is_it_worth_it_for_an_individual_to_rent_a/nk2wd66/",
+     "idea": "Create a case study: 'Personal Render Farms: When 8 GPUs Make Sense (And When They Don't)' - Use Zhanji_TS's personal farm with 8 nodes and 250GB RAM as an example of successful personal infrastructure",
+     "context": "Zhanji_TS shared their personal render farm setup with 8 nodes and 250GB RAM, noting it's amazing for personal use but wouldn't market it publicly. This shows the viability of personal farms for individual artists, which could inspire others considering building their own.",
+     "target_audience": "Artists considering building personal render farms for their own workflow"
+   },
+   {
+     "reddit_url": "https://www.reddit.com/r/vfx/comments/1o8n6k4/is_it_worth_it_for_an_individual_to_rent_a/nr0i5p0/",
+     "idea": "Create content: 'GPU Rendering for Individuals: Overcoming Single-Machine Limitations' - Use GuitarIll938's detailed explanation of why personal workstations can't compete commercially",
+     "context": "GuitarIll938 provided a comprehensive explanation of why individual workstations aren't practical for commercial rendering, including parallel processing needs and pipeline issues. This could be turned into educational content about the technical limitations and how GPU rendering addresses them.",
+     "target_audience": "Individual artists frustrated with slow local rendering who want to understand their options"
+   }
+ ]

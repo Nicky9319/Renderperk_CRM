@@ -2,7 +2,7 @@ Process Thread Agent
 - Cursor auto mode -> Takes a lot of tokens and slower, is accurate and retrieve almost all the data and al and make the changes.
 - Haiku 4.5 -> Extract less information and is paid (premium Requests) : not worth it (cursor auto can perform better)
 - gpt-5.1-mini -> Not Able to Extract or Detecting all extractions but free and works decent 
-- grok code fast 1 -> 
+- grok code fast 1 -> Very High Speed Almost Extracting all Results like Cursor and is free (Best for Processing Thread)
 
 Research Agent
 - Haiku 4.5 -> Best but paid (Very less though)
