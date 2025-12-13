@@ -1,11 +1,5 @@
 [
   {
-    "reddit_url": "https://www.reddit.com/r/Maya/comments/1hc7vu2/how_expensive_are_render_farms_and_would_you/",
-    "idea": "Create a comparison post: 'CPU vs GPU Rendering: When Does Each Make Sense?' - Address the specific pain point mentioned (OP can't use Arnold GPU without NVIDIA card, stuck on CPU)",
-    "context": "Multiple comments mention GPU vs CPU rendering. OP specifically mentioned being limited to CPU rendering. This is a pain point that could be addressed with educational content showing how render farms solve this problem.",
-    "target_audience": "Artists with hardware limitations who don't realize render farms can provide GPU access"
-  },
-  {
     "reddit_url": "https://www.reddit.com/r/Maya/comments/1hc7vu2/how_expensive_are_render_farms_and_would_you/m1nmlyp/",
     "idea": "Create content about 'Peer-to-Peer Rendering vs Professional Render Farms: Pros and Cons' - Use Dstrbdsoul's offer as an example of community help, then explain when farms make more sense",
     "context": "Dstrbdsoul offered to help render files, showing the community spirit. This could be turned into content comparing informal help vs professional services, highlighting when each approach works best.",
@@ -348,7 +342,7 @@
     "context": "dancbruce mentioned 'RIP Zync', indicating the service shut down. This is a common issue with render farms, and content about what happens when services disappear would be valuable.",
     "target_audience": "Users of render farms concerned about service longevity and migration options"
   },
-   {
+  {
     "reddit_url": "https://www.reddit.com/r/vfx/comments/14nks45/what_are_peoples_favorite_online_renderfarms/",
     "idea": "Create content: 'Chaos Cloud for Vray: When It Makes Sense and Cost Optimization Tips' - Use attrackip's recommendation and comparison to own AWS setup",
     "context": "attrackip recommended Chaos Cloud for Vray users and mentioned setting up their own AWS farm for cost savings. This could be valuable content for Vray users comparing options.",
@@ -409,4 +403,3 @@
       "target_audience": "People building their own render farms looking for cost-effective hardware procurement strategies"
     }
    ]
-
