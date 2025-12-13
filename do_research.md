@@ -12,7 +12,7 @@ Both files must be created in a new topic folder under `Research and Content/`.
 2. Use **only the first record** in the JSON array (index `0`).
 
 ### Output location and naming
-1. Create a new folder under `Research and Content/` for this topic.
+1. Create a new folder for this topic under `Research and Content/Drafted/`.
 2. Folder name: use a clean, filesystem-safe slug derived from the idea title/topic.
 	- Lowercase
 	- Replace spaces with hyphens
@@ -68,6 +68,12 @@ In the same folder, create `brief.md` containing:
 - **Interesting facts / hooks** (bulleted)
 - **Suggested CTA** (call to action)
 
+### Post-processing
+After all outputs are created:
+1. Remove the processed idea (the first record) from `Ideas/ideas.json`.
+2. Append the processed idea object to `Ideas/processed_ideas.json` (create the file if it does not exist, or append to the array if it does).
+3. When the blog is fully polished and finalized (see polish_research_to_blog.md), move the entire topic folder from `Research and Content/Drafted/` to `Research and Content/Completed/`.
+
 ### Constraints
 - Do not create extra folders/files beyond the topic folder, `{name}.md`, and `brief.md`.
 - Keep outputs focused on the chosen idea only.
@@ -77,7 +83,10 @@ In the same folder, create `brief.md` containing:
 - [ ] Read first record from `Ideas/ideas.json`
 - [ ] Generated a thorough set of parallel research questions
 - [ ] Completed research and synthesized findings
-- [ ] Created `Research and Content/<topic-slug>/{name}.md`
-- [ ] Created `Research and Content/<topic-slug>/brief.md`
+- [ ] Created `Research and Content/Drafted/<topic-slug>/{name}.md`
+- [ ] Created `Research and Content/Drafted/<topic-slug>/brief.md`
+- [ ] Removed processed idea from `Ideas/ideas.json`
+- [ ] Appended processed idea to `Ideas/processed_ideas.json`
+- [ ] After polishing, moved topic folder from `Drafted/` to `Completed/`
 
 
