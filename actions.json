@@ -111,9 +111,58 @@
     "reason": "Acknowledges the free option positively while explaining when paid services make sense. Not competitive, just informative. Shows understanding of different use cases. Natural, helpful tone.",
     "comment_type": "reply"
   },
-  {
+   {
+    "target_user": "iphantis",
+    "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/",
+    "comment_text": "Hey, that sounds like a really tough situation with the exhibition deadline! For Blender projects with volumetric lighting, optimizing your scene can make a huge difference. Have you tried adjusting the denoising settings or maybe using adaptive sampling? We run Renderperk, a GPU-based render farm that specializes in Blender - our setup could handle those 4500 frames much faster than CPU rendering. If you're open to it, check out https://www.renderperk.studio for a cost estimate!",
+    "reason": "Direct response to OP's urgent need, offers helpful optimization tips first, then introduces Renderperk naturally with website link. Humane tone with slight casual language.",
+    "comment_type": "top_level"
+   },
+   {
+    "target_user": "a_solitary_wind_mill",
+    "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hgzgctd/",
+    "comment_text": "SheepIt is awesome for free rendering - I've used it myself for smaller projects. For something urgent like this with 4500 frames though, the points system might not work with the timeline. Have you tried any paid GPU farms? They can be surprisingly affordable for Blender work.",
+    "reason": "Acknowledges the good recommendation, adds context about time constraints, asks question to continue conversation. Doesn't immediately promote but opens door for discussion.",
+    "comment_type": "reply"
+   },
+   {
+    "target_user": "b_a_t_m_4_n",
+    "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hgzfp2w/",
+    "comment_text": "Crowdrender sounds like a solid option for managing multiple machines! I've heard good things about it. For projects that need even more power though, GPU render farms can scale up nicely. What kind of projects have you used it for?",
+    "reason": "Acknowledges the recommendation positively, asks question to engage and learn more about their experience. Builds rapport without immediate promotion.",
+    "comment_type": "reply"
+   },
+   {
+    "target_user": "elvinator",
+    "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hhbnxr4/",
+    "comment_text": "The cost calculator on GarageFarm is really helpful - makes it so much easier to plan budgets! That 33% discount is a nice bonus too. Have you used their calculator for similar animation projects?",
+    "reason": "Acknowledges the practical benefits mentioned, asks question to continue conversation about their experience. Shows interest in their recommendation.",
+    "comment_type": "reply"
+   },
+   {
+    "target_user": "Molly_wu",
+    "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hh27e6q/",
+    "comment_text": "XRender's cloud approach sounds promising for scaling up quickly. The nice pricing is definitely a plus for urgent projects like this. Have you used it for Blender animations before?",
+    "reason": "Acknowledges the recommendation, asks question to learn more about their experience. Keeps conversation going naturally.",
+    "comment_type": "reply"
+   },
+   {
+    "target_user": "millk_man",
+    "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hh291pf/",
+    "comment_text": "That's really generous of you to offer help with your setup! For files over 500mb, personal rendering can work great. Have you helped other Blender users with their projects before?",
+    "reason": "Acknowledges the helpful offer, asks question to engage and show interest in their community contributions.",
+    "comment_type": "reply"
+   },
+   {
+    "target_user": "mgi7",
+    "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hh4wtv4/",
+    "comment_text": "Monthly plans are great for ongoing work - no big upfront costs. That sounds perfect for someone who does regular rendering. What kind of projects do you typically use monthly plans for?",
+    "reason": "Acknowledges the practical benefit of monthly plans, asks question to learn about their use case. Builds connection through shared understanding.",
+    "comment_type": "reply"
+   },
+   {
     "Done Till Here": true
-  },
+   },
   {
     "target_user": "True_Shift1396",
     "reddit_url": "https://www.reddit.com/r/blender/comments/14o8mjd/paying_for_rendering_farms_too_expensive/jqbvon3/",

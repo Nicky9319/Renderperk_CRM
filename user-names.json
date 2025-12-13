@@ -589,8 +589,123 @@
       {
         "reddit_url": "https://www.reddit.com/user/Molly_wu",
         "role": "Commenter - recommends XRender as a render farm option"
+      },
+      {
+        "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hh27e6q/",
+        "role": "Commenter - recommends XRender as a public-cloud-based render farm with nice price"
       }
-    ]
+    ],
+    "personal_dm": {
+      "message": "Hi Molly_wu, I noticed your recommendations for XRender and insights on how studios balance local and cloud rendering. We're building Renderperk, a GPU-based render farm that specializes in Blender but open to other software. Would love to hear your thoughts on what makes cloud render farms effective for different project types.",
+      "reason": "User provides practical recommendations and shows understanding of render farm ecosystems, making them a valuable contact for feedback on cloud rendering solutions."
+    },
+    "reddit_url": "https://www.reddit.com/user/Molly_wu"
+  },
+  {
+    "username": "iphantis",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/",
+        "role": "Original poster - stressed about rendering 4500-frame animation with volumetric lighting, using 100-150 samples with OIDN, already using 4-5 machines but still too slow"
+      },
+      {
+        "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hgzj5kq/",
+        "role": "Commenter - replied that already using 4-5 machines but still too slow"
+      }
+    ],
+    "personal_dm": {
+      "message": "Hi iphantis, I saw your post about the challenging 4500-frame animation with volumetric lighting - that sounds like a tough deadline! We're building Renderperk, a GPU-based render farm that specializes in Blender projects like yours. Our GPU setup could potentially speed up those high-sample renders significantly. Have you considered GPU rendering for this kind of work?",
+      "reason": "User is actively seeking render solutions for a complex Blender project with tight deadline, showing immediate need for render farm services."
+    },
+    "reddit_url": "https://www.reddit.com/user/iphantis"
+  },
+  {
+    "username": "a_solitary_wind_mill",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hgzgctd/",
+        "role": "Commenter - recommends SheepIt as free community-based render farm, mentions time constraint for getting points"
+      }
+    ],
+    "personal_dm": {
+      "message": "Hi a_solitary_wind_mill, I noticed your recommendation of SheepIt for free rendering - that's a great resource for the community! We're working on Renderperk, a GPU-based render farm for Blender users. For urgent projects like the OP's, do you think community farms like SheepIt work well, or do people usually need paid options for deadlines?",
+      "reason": "User actively recommends free render options and shows awareness of time constraints, indicating interest in render farm solutions and community resources."
+    },
+    "reddit_url": "https://www.reddit.com/user/a_solitary_wind_mill"
+  },
+  {
+    "username": "b_a_t_m_4_n",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hgzfp2w/",
+        "role": "Commenter (Experienced Helper) - recommends Crowdrender addon for rendering on multiple machines"
+      },
+      {
+        "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hh1cuol/",
+        "role": "Commenter - replied that Crowdrender is still under development"
+      }
+    ],
+    "personal_dm": {
+      "message": "Hi b_a_t_m_4_n, I saw your recommendation of Crowdrender and your helpful replies in the Blender community. We're developing Renderperk, a GPU-based render farm that aims to make rendering faster and more accessible. As someone with experience helping others, I'd love to hear your thoughts on what Blender users need most from render farm solutions.",
+      "reason": "User is an active helper in the Blender community with experience recommending rendering solutions, making them valuable for feedback on user needs."
+    },
+    "reddit_url": "https://www.reddit.com/user/b_a_t_m_4_n"
+  },
+  {
+    "username": "smackgowen",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hh16ptp/",
+        "role": "Commenter - asked if Crowdrender is outmoded"
+      }
+    ],
+    "personal_dm": {
+      "message": "Hi smackgowen, I noticed your question about Crowdrender being outmoded - that's an interesting point about render farm evolution. We're building Renderperk, focusing on GPU rendering for Blender. What do you think about the current state of render farm options for Blender users?",
+      "reason": "User shows awareness of render farm technology evolution and asks thoughtful questions about current solutions."
+    },
+    "reddit_url": "https://www.reddit.com/user/smackgowen"
+  },
+  {
+    "username": "elvinator",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hhbnxr4/",
+        "role": "Commenter - recommends GarageFarm with 33% discount and cost calculator"
+      }
+    ],
+    "personal_dm": {
+      "message": "Hi elvinator, I saw your recommendation of GarageFarm with their discount and cost calculator - that sounds like a user-friendly approach! We're working on Renderperk, a GPU-based render farm for Blender. What features do you think are most important for Blender users when choosing a render farm?",
+      "reason": "User actively recommends render farms and highlights practical features like cost calculators, showing engagement with render farm selection criteria."
+    },
+    "reddit_url": "https://www.reddit.com/user/elvinator"
+  },
+  {
+    "username": "millk_man",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hh291pf/",
+        "role": "Commenter - recommends SheepIt for files under 500mb, offers personal help with RTX 3060ti for files over 500mb"
+      }
+    ],
+    "personal_dm": {
+      "message": "Hi millk_man, I noticed your generous offer to help render files with your RTX 3060ti setup - that's awesome community spirit! We're building Renderperk, a GPU-based render farm that could scale up that kind of help. Have you done much peer-to-peer rendering before?",
+      "reason": "User shows willingness to help others with rendering and has personal GPU setup, indicating potential interest in render farm solutions."
+    },
+    "reddit_url": "https://www.reddit.com/user/millk_man"
+  },
+  {
+    "username": "mgi7",
+    "context": [
+      {
+        "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hh4wtv4/",
+        "role": "Commenter - recommends RenderStreet's monthly plan"
+      }
+    ],
+    "personal_dm": {
+      "message": "Hi mgi7, I saw your recommendation of RenderStreet's monthly plan - that sounds like a good option for ongoing work! We're developing Renderperk with GPU rendering for Blender. What do you look for in a render farm for regular projects?",
+      "reason": "User recommends render farms and shows interest in subscription models, indicating they have experience with different render farm approaches."
+    },
+    "reddit_url": "https://www.reddit.com/user/mgi7"
   },
   {
     "username": "Lazlo652",

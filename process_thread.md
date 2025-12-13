@@ -13,36 +13,98 @@ great if specify blender and seek as potential helpers for people not directly u
 
 
 Your task is as follows:
+1. Extract all usernames mentioned in the Reddit thread and build a structured user record for each unique Reddit user.
 
-1. Extract all usernames mentioned in the Reddit thread, along with the Reddit profile URL for each user. For every user, identify their role in the conversation (e.g., original poster, commenter, expert, etc.). Present this information as a list, where each entry contains the Reddit URL and the user's role in the thread.
+For every user:
 
-Example format:
-```json
-[
-    {
-        "reddit_url": "https://www.reddit.com/user/Tricky-Chocolate-304",
-        "role": "Commenter - recommended XRender as an alternative render farm option"
-    },
-    {
-        "reddit_url": "https://www.reddit.com/user/cstoof",
-        "role": "Commenter (FX Lead flair) - Experienced professional explaining that big studios have local render farms but use cloud when overburdened"
-    }
-]
-```
-This list should be stored under the field name `context`.
+Capture all roles and contexts they appear in throughout the thread (OP, commenter, expert opinion, recommendation, etc.).
 
-If a username appears multiple times with different roles or contexts, append the new information to their entry in the list.
+Store these roles as multiple entries inside a context array.
 
-If a new user is found, add their details to the `user-names.json` file.
+Generate one single personal_dm per user, not per context.
 
-A sample record:
+⚠️ Important Rule — Single Personal DM
+
+Each user must have exactly one personal_dm object at the top level of their record.
+
+Do not duplicate or nest personal_dm inside individual context entries.
+
+The personal DM should be:
+
+A refined, high-quality outreach message
+
+Informed by all contexts combined
+
+Written as the best possible message to send at the current time
+
+The personal DM is expected to improve over time as more context is added, which is why it must remain singular and cumulative.
+
+📦 Data Structure Rules
+User Record Schema
 ```json
 {
-    "username": "Tricky-Chocolate-304",
+    "username": "string",
+    "reddit_url": "string",
+    "personal_dm": {
+        "message": "string",
+        "reason": "string"
+    },
     "context": [
         {
-            "reddit_url": "https://www.reddit.com/user/Tricky-Chocolate-304",
-            "role": "Commenter - recommended XRender as an alternative render farm option"
+            "role": "string",
+            "source": "short description of where or how the user contributed"
+        }
+    ]
+}
+```
+
+🧠 Context Handling Logic
+
+If a username appears multiple times:
+
+Append new role/context entries to the existing context array
+
+Do NOT create a new personal_dm
+
+If a user already exists in user-names.json:
+
+Merge new context into their record
+
+Optionally refine the existing personal_dm, but keep it singular
+
+If a user is new:
+
+Create a new user record
+
+Generate one initial personal_dm based on available context
+
+📝 Personal DM Guidelines
+
+The single personal_dm should:
+
+Reflect the user’s overall expertise, tone, and value
+
+Reference their contributions in aggregate, not line-by-line
+
+Be suitable for long-term outreach (networking, feedback, advisory, etc.)
+
+✅ Example Output
+```json
+{
+    "username": "cstoof",
+    "reddit_url": "https://www.reddit.com/user/cstoof",
+    "personal_dm": {
+        "message": "Hi cstoof, I’ve seen several of your insights on how studios balance local and cloud render farms. We’re building Renderperk and would really value your perspective on what actually matters in production environments.",
+        "reason": "User demonstrates senior-level industry experience and provides practical insights relevant to render farm workflows."
+    },
+    "context": [
+        {
+            "role": "Commenter (FX Lead flair)",
+            "source": "Explained how large studios use local render farms and burst to cloud when needed"
+        },
+        {
+            "role": "Industry expert",
+            "source": "Provided real-world production constraints and scaling considerations"
         }
     ]
 }

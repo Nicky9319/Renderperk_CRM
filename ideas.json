@@ -354,11 +354,35 @@
     "context": "dancbruce mentioned 'RIP Zync', indicating the service shut down. This is a common issue with render farms, and content about what happens when services disappear would be valuable.",
     "target_audience": "Users of render farms concerned about service longevity and migration options"
   },
-  {
+   {
     "reddit_url": "https://www.reddit.com/r/vfx/comments/14nks45/what_are_peoples_favorite_online_renderfarms/",
-    "idea": "Create a guide: 'Chaos Cloud for Vray: When It Makes Sense and Cost Optimization Tips' - Use attrackip's recommendation and comparison to own AWS setup",
+    "idea": "Create content: 'Chaos Cloud for Vray: When It Makes Sense and Cost Optimization Tips' - Use attrackip's recommendation and comparison to own AWS setup",
     "context": "attrackip recommended Chaos Cloud for Vray users and mentioned setting up their own AWS farm for cost savings. This could be valuable content for Vray users comparing options.",
     "target_audience": "Vray users looking for render farm options and cost optimization strategies"
-  }
+   },
+   {
+    "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/",
+    "idea": "Create a guide: 'Blender Volumetric Lighting Optimization: Tips for Faster Rendering Without Quality Loss' - Use OP's specific issue with 4500-frame animation and volumetric lighting artifacts",
+    "context": "OP is struggling with volumetric lighting causing artifacts even at 100-150 samples with OIDN. This is a common Blender rendering challenge that could be addressed with educational content on optimization techniques.",
+    "target_audience": "Blender artists working with volumetric lighting who want to reduce render times and artifacts"
+   },
+   {
+    "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/",
+    "idea": "Create content: 'Free vs Paid Render Farms for Blender: When Community Options Like SheepIt Work (And When They Don't)' - Use SheepIt recommendations and time constraint discussions",
+    "context": "Multiple users recommended SheepIt as a free option, but acknowledged time constraints for urgent projects. This highlights the free vs paid debate specifically for Blender users.",
+    "target_audience": "Blender users on tight budgets deciding between free community farms and paid services"
+   },
+   {
+    "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/",
+    "idea": "Create a comparison post: 'Crowdrender vs GarageFarm vs XRender vs RenderStreet: Blender-Friendly Render Farms Compared' - Compile all recommendations from the thread",
+    "context": "Thread has recommendations for Crowdrender, GarageFarm, XRender, and RenderStreet, each with different strengths (addon, discount, cloud, monthly). A comparison focused on Blender compatibility would be valuable.",
+    "target_audience": "Blender users comparing render farm options for their specific needs"
+   },
+   {
+    "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/",
+    "idea": "Create content: 'Peer-to-Peer Rendering: When Friends with GPUs Are Better Than Farms' - Use millk_man's offer and community helping examples",
+    "context": "millk_man offered personal help with his RTX 3060ti setup for files over 500mb. This shows the community aspect of rendering help that could be explored as an alternative to commercial farms.",
+    "target_audience": "Artists interested in peer-to-peer rendering arrangements or community-based solutions"
+   }
 ]
 

@@ -897,7 +897,7 @@
     "marketing_approach": "Word-of-mouth recommendations from satisfied Vray users",
     "business_execution": "Provides reliable, worry-free service for Vray users, positions itself as a premium but dependable option"
   },
-  {
+   {
     "render_farm_name": "Zync",
     "website": "zyncrender.com",
     "mentioned_count": 1,
@@ -922,5 +922,232 @@
     "potential_bottlenecks": "Service no longer available",
     "marketing_approach": "N/A - service discontinued",
     "business_execution": "Service has shut down, users need to migrate to alternatives"
+  },
+  {
+    "render_farm_name": "SheepIt",
+    "website": "sheepit-renderfarm.com",
+    "mentioned_count": 2,
+    "pros": [
+      {
+        "point": "Completely free community-based render farm",
+        "mentioned_count": 2,
+        "context": "Multiple users recommended SheepIt as a free option for Blender users, emphasizing its community-driven nature.",
+        "sources": [
+          {
+            "user": "a_solitary_wind_mill",
+            "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hgzgctd/",
+            "quote": "I highly recommend sheep it, its completely free and community based"
+          },
+          {
+            "user": "millk_man",
+            "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hh291pf/",
+            "quote": "If the file is under 500mb definitely use sheepit"
+          }
+        ]
+      },
+      {
+        "point": "Good for smaller files under 500mb",
+        "mentioned_count": 1,
+        "context": "millk_man specifically recommended SheepIt for files under 500mb, indicating it works well for smaller projects.",
+        "sources": [
+          {
+            "user": "millk_man",
+            "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hh291pf/",
+            "quote": "If the file is under 500mb definitely use sheepit"
+          }
+        ]
+      }
+    ],
+    "cons": [
+      {
+        "point": "Time constraints may prevent earning enough points for urgent projects",
+        "mentioned_count": 1,
+        "context": "a_solitary_wind_mill noted that for urgent deadlines, there might not be enough time to earn rendering points.",
+        "sources": [
+          {
+            "user": "a_solitary_wind_mill",
+            "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hgzgctd/",
+            "quote": "dont know if there is enough time to get points because of the time constraint though"
+          }
+        ]
+      },
+      {
+        "point": "Queue-based system may have longer wait times",
+        "mentioned_count": 0,
+        "context": "As a free community service, SheepIt likely has queues and cannot guarantee fast turnaround times for urgent projects.",
+        "sources": []
+      }
+    ],
+    "business_model": "Free community-run render farm with points system",
+    "target_market": "Blender users with smaller files and flexible deadlines",
+    "scale": "Community-driven, volunteer-based",
+    "potential_bottlenecks": "Queue times, limited to smaller files, not suitable for urgent deadlines",
+    "marketing_approach": "Word-of-mouth in Blender community, positioned as free alternative",
+    "business_execution": "Relies on community volunteers, works well for non-urgent projects but has limitations for time-sensitive work"
+  },
+  {
+    "render_farm_name": "Crowdrender",
+    "website": "crowdrender.com.au",
+    "mentioned_count": 1,
+    "pros": [
+      {
+        "point": "Allows rendering on multiple machines simultaneously",
+        "mentioned_count": 1,
+        "context": "b_a_t_m_4_n recommended Crowdrender as an addon that enables distributed rendering across multiple machines.",
+        "sources": [
+          {
+            "user": "b_a_t_m_4_n",
+            "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hgzfp2w/",
+            "quote": "Crowdrender addon will allow you to render on multiple machines at once if that helps, I've used it and it's pretty good."
+          }
+        ]
+      },
+      {
+        "point": "User reports it as pretty good",
+        "mentioned_count": 1,
+        "context": "b_a_t_m_4_n mentioned they've used it and found it pretty good, indicating positive personal experience.",
+        "sources": [
+          {
+            "user": "b_a_t_m_4_n",
+            "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hgzfp2w/",
+            "quote": "I've used it and it's pretty good."
+          }
+        ]
+      }
+    ],
+    "cons": [
+      {
+        "point": "Still under development",
+        "mentioned_count": 1,
+        "context": "b_a_t_m_4_n replied to a question that Crowdrender is still under development, suggesting it may not be fully mature.",
+        "sources": [
+          {
+            "user": "b_a_t_m_4_n",
+            "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hh1cuol/",
+            "quote": "Nope. Still under development."
+          }
+        ]
+      },
+      {
+        "point": "Questioned if it's outmoded",
+        "mentioned_count": 1,
+        "context": "smackgowen asked if Crowdrender is outmoded, indicating some uncertainty about its current relevance.",
+        "sources": [
+          {
+            "user": "smackgowen",
+            "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hh16ptp/",
+            "quote": "I was under the impression that crowd render was outmoded years ago."
+          }
+        ]
+      }
+    ],
+    "business_model": "Addon for distributed rendering across local networks",
+    "target_market": "Users with access to multiple local machines",
+    "scale": "Local network distributed rendering",
+    "potential_bottlenecks": "Limited to available local machines, still in development, may not be as advanced as cloud solutions",
+    "marketing_approach": "Direct recommendations in Blender community",
+    "business_execution": "Provides local distributed rendering but appears to be in development with some uncertainty about its status"
+  },
+  {
+    "render_farm_name": "GarageFarm",
+    "website": "garagefarm.net",
+    "mentioned_count": 1,
+    "pros": [
+      {
+        "point": "33% discount on all Blender projects",
+        "mentioned_count": 1,
+        "context": "elvinator recommended GarageFarm specifically for their 33% discount on Blender projects.",
+        "sources": [
+          {
+            "user": "elvinator",
+            "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hhbnxr4/",
+            "quote": "Try GarageFarm. They render all Blender projects at 33% discount."
+          }
+        ]
+      },
+      {
+        "point": "Cost calculator to estimate rendering costs before starting",
+        "mentioned_count": 1,
+        "context": "elvinator highlighted GarageFarm's cost calculator as a useful tool for estimating costs upfront.",
+        "sources": [
+          {
+            "user": "elvinator",
+            "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hhbnxr4/",
+            "quote": "They have a cost calculator you can use to roughly estimate the cost of rendering before you even start."
+          }
+        ]
+      }
+    ],
+    "cons": [],
+    "business_model": "Cloud-based render farm with Blender discounts",
+    "target_market": "Blender users looking for discounted rendering",
+    "scale": "Established render farm service",
+    "potential_bottlenecks": "None mentioned in thread",
+    "marketing_approach": "Promotional discounts and cost estimation tools",
+    "business_execution": "Offers attractive discounts for Blender users and provides useful cost estimation tools"
+  },
+  {
+    "render_farm_name": "XRender",
+    "website": "xrender.cloud",
+    "mentioned_count": 1,
+    "pros": [
+      {
+        "point": "Public-cloud-based render farm that can provide more machines when needed",
+        "mentioned_count": 1,
+        "context": "Molly_wu recommended XRender as a public-cloud-based service that can scale up with more machines.",
+        "sources": [
+          {
+            "user": "Molly_wu",
+            "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hh27e6q/",
+            "quote": "You may try [XRender](https://www.xrender.cloud/). It's a public-cloud-based render farm, so they can actually provide much more machine if needed with nice price."
+          }
+        ]
+      },
+      {
+        "point": "Nice pricing for scalable rendering",
+        "mentioned_count": 1,
+        "context": "Molly_wu highlighted XRender's nice pricing combined with the ability to scale up machines as needed.",
+        "sources": [
+          {
+            "user": "Molly_wu",
+            "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hh27e6q/",
+            "quote": "with nice price."
+          }
+        ]
+      }
+    ],
+    "cons": [],
+    "business_model": "Public cloud-based render farm service",
+    "target_market": "Users needing scalable rendering capacity",
+    "scale": "Cloud-based with on-demand scaling",
+    "potential_bottlenecks": "None mentioned in thread",
+    "marketing_approach": "Direct recommendations highlighting scalability and pricing",
+    "business_execution": "Provides scalable cloud rendering with competitive pricing"
+  },
+  {
+    "render_farm_name": "RenderStreet",
+    "website": "render.st",
+    "mentioned_count": 1,
+    "pros": [
+      {
+        "point": "Monthly plan that may be perfect for ongoing projects",
+        "mentioned_count": 1,
+        "context": "mgi7 recommended RenderStreet's monthly plan as potentially perfect for the OP's needs.",
+        "sources": [
+          {
+            "user": "mgi7",
+            "reddit_url": "https://www.reddit.com/r/blender/comments/q9yiwd/render_farm_that_doesnt_cost_several_thousand/hh4wtv4/",
+            "quote": "You can look at RenderStreet's [monthly plan](https://render.st/one/), it may be the perfect thing for you."
+          }
+        ]
+      }
+    ],
+    "cons": [],
+    "business_model": "Cloud-based render farm with subscription plans",
+    "target_market": "Users with ongoing rendering needs",
+    "scale": "Established render farm with subscription model",
+    "potential_bottlenecks": "None mentioned in thread",
+    "marketing_approach": "Subscription-based pricing for regular users",
+    "business_execution": "Offers subscription plans suitable for ongoing work"
   }
 ]
